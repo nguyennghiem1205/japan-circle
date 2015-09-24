@@ -1,0 +1,4396 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-13 08:33+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/PagesController.php:183;222
+msgid "Thank you for contact."
+msgstr ""
+
+#: Controller/PagesController.php:187;226
+msgid "The contact could not be sent. Please, try again."
+msgstr ""
+
+#: Controller/PagesController.php:255
+#: Template/Pages/member_register.ctp:245;246
+#: Template/Pages/member_update_profile.ctp:237
+msgid "Cooperation"
+msgstr ""
+
+#: Controller/PagesController.php:271;342
+msgid "The production has been saved."
+msgstr ""
+
+#: Controller/PagesController.php:274;345
+msgid "The production could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PagesController.php:318
+msgid "The company inquiry has been saved."
+msgstr ""
+
+#: Controller/PagesController.php:321
+msgid "The company inquiry could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PagesController.php:380
+msgid "The company inquiry has been deleted."
+msgstr ""
+
+#: Controller/PagesController.php:382
+msgid "The company inquiry could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PagesController.php:671;679;683;800;814;818
+msgid "The member could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PagesController.php:676;811
+msgid "The member has been saved."
+msgstr ""
+
+#: Controller/PagesController.php:897
+#: Template/Pages/member_register.ctp:175
+#: Template/Pages/member_update_profile.ctp:103
+msgid "Select Prefecture"
+msgstr "Select District"
+
+msgid "-- Select Prefecture --"
+msgstr "-- Select District --"
+
+#: Controller/PagesController.php:916
+#: Template/Pages/add_inquiry.ctp:21
+#: Template/Pages/add_product.ctp:18
+#: Template/Pages/member_register.ctp:82
+msgid "Select Industry"
+msgstr ""
+
+#: Controller/UsersController.php:31
+msgid "Welcome &nbsp;"
+msgstr ""
+
+#: Controller/UsersController.php:35;107
+msgid "Your account has been blocked"
+msgstr ""
+
+#: Controller/UsersController.php:113
+msgid "Invalid email or password"
+msgstr ""
+
+#: Controller/UsersController.php:143
+msgid "Please check email to reset your password"
+msgstr ""
+
+#: Controller/UsersController.php:149
+msgid "Email is not exist in the system, please try again"
+msgstr ""
+
+#: Controller/UsersController.php:162
+msgid "Reset password link is invalid"
+msgstr ""
+
+#: Model/Table/UsersTable.php:105
+msgid "Email is already exist"
+msgstr ""
+
+#: Template/CompanyInquiries/add.ctp:2
+#: Template/CompanyInquiries/edit.ctp:2
+#: Template/CompanyInquiries/index.ctp:2;20
+#: Template/CompanyInquiries/view.ctp:2
+msgid "Actions"
+msgstr ""
+
+#: Template/CompanyInquiries/add.ctp:4
+#: Template/CompanyInquiries/edit.ctp:10
+#: Template/CompanyInquiries/view.ctp:6
+msgid "List Company Inquiries"
+msgstr ""
+
+#: Template/CompanyInquiries/add.ctp:5
+#: Template/CompanyInquiries/edit.ctp:11
+#: Template/CompanyInquiries/index.ctp:5
+#: Template/CompanyInquiries/view.ctp:8
+msgid "List Members"
+msgstr ""
+
+#: Template/CompanyInquiries/add.ctp:6
+#: Template/CompanyInquiries/edit.ctp:12
+#: Template/CompanyInquiries/index.ctp:6
+#: Template/CompanyInquiries/view.ctp:9
+msgid "New Member"
+msgstr ""
+
+#: Template/CompanyInquiries/add.ctp:12
+msgid "Add Company Inquiry"
+msgstr ""
+
+#: Template/CompanyInquiries/add.ctp:24
+#: Template/CompanyInquiries/edit.ctp:30
+msgid "Submit"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:5
+#: Template/CompanyInquiries/index.ctp:36
+msgid "Delete"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:7
+#: Template/CompanyInquiries/index.ctp:36
+#: Template/CompanyInquiries/view.ctp:5
+#: Template/Pages/member_inquiries.ctp:51
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:18
+#: Template/CompanyInquiries/view.ctp:4
+msgid "Edit Company Inquiry"
+msgstr ""
+
+#: Template/CompanyInquiries/index.ctp:4
+#: Template/CompanyInquiries/view.ctp:7
+msgid "New Company Inquiry"
+msgstr ""
+
+#: Template/CompanyInquiries/index.ctp:34
+msgid "View"
+msgstr ""
+
+#: Template/CompanyInquiries/index.ctp:35
+#: Template/Pages/member_inquiries.ctp:49
+msgid "Edit"
+msgstr ""
+
+#: Template/CompanyInquiries/index.ctp:45
+msgid "previous"
+msgstr ""
+
+#: Template/CompanyInquiries/index.ctp:47
+msgid "next"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:5
+msgid "Delete Company Inquiry"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:16
+msgid "Industry Code"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:18
+#: Template/Pages/add_inquiry.ctp:27
+msgid "Title"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:20
+#: Template/Pages/add_product.ctp:67
+msgid "Description"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:22
+#: Template/Pages/add_inquiry.ctp:50
+msgid "Image"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:24
+msgid "Status"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:26
+msgid "Member"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:30
+msgid "Id"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:32
+msgid "Type"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:34
+msgid "Order"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:38
+msgid "Created"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:40
+msgid "Modified"
+msgstr ""
+
+#: Template/Element/popup.ctp:1
+msgid "Sign-up"
+msgstr ""
+
+#: Template/Element/popup.ctp:7;23
+msgid "Login"
+msgstr ""
+
+#: Template/Element/popup.ctp:16;45
+#: Template/Pages/member_register.ctp:44
+msgid "Password"
+msgstr ""
+
+#: Template/Element/popup.ctp:18
+msgid "Forgot your password?"
+msgstr ""
+
+#: Template/Element/popup.ctp:29;54
+msgid "Login with Facebook"
+msgstr ""
+
+#: Template/Element/popup.ctp:33;79
+msgid "Don't have an account?"
+msgstr ""
+
+#: Template/Element/popup.ctp:33;79
+msgid "Create a free account"
+msgstr ""
+
+#: Template/Element/popup.ctp:39
+msgid "Sign Up"
+msgstr ""
+
+#: Template/Element/popup.ctp:42
+#: Template/Pages/member_register.ctp:209
+msgid "First Name"
+msgstr ""
+
+#: Template/Element/popup.ctp:43
+#: Template/Pages/member_register.ctp:215
+msgid "Last Name"
+msgstr ""
+
+#: Template/Element/popup.ctp:48
+msgid "CREATE NEW ACCOUNT"
+msgstr ""
+
+#: Template/Element/popup.ctp:49
+msgid "Teams of Use"
+msgstr ""
+
+#: Template/Element/popup.ctp:49
+msgid "Privacy Policy"
+msgstr ""
+
+#: Template/Element/popup.ctp:59
+msgid "Already have an account?"
+msgstr ""
+
+#: Template/Element/popup.ctp:59;77
+msgid "Sign in"
+msgstr ""
+
+#: Template/Element/popup.ctp:65
+msgid "Send a link to reset your password?"
+msgstr ""
+
+#: Template/Element/popup.ctp:72
+msgid "Send Password"
+msgstr ""
+
+#: Template/Element/popup.ctp:77
+msgid "Try to "
+msgstr ""
+
+#: Template/Element/frontend/box-member.ctp:12
+#: Template/Pages/member_login.ctp:6;11;47
+msgid "Đăng nhập"
+msgstr "Log in"
+
+#: Template/Element/frontend/box-member.ctp:13
+msgid "Nếu bạn đã là thành viên Japan Circle"
+msgstr "I have an account."
+
+#: Template/Element/frontend/box-member.ctp:17
+#: Template/Pages/about.ctp:59
+msgid "Đăng ký"
+msgstr "Sign up"
+
+#: Template/Element/frontend/box-member.ctp:18
+msgid "Bạn chưa là thành viên Japan Circle"
+msgstr "I don t have an account yet."
+
+#: Template/Element/frontend/box-member.ctp:62
+msgid "Thông tin công ty"
+msgstr "Company information"
+
+#: Template/Element/frontend/box-member.ctp:63
+msgid "Sản phẩm và dịch vụ"
+msgstr "Products & Services"
+
+#: Template/Element/frontend/box-member.ctp:64
+#: Template/Pages/member_inquiries.ctp:11;24;31
+#: Template/Pages/member_update_profile.ctp:225
+msgid "Nhu cầu hợp tác"
+msgstr "Cooperation"
+
+#: Template/Element/frontend/box-member.ctp:65
+msgid "Đổi mật khẩu"
+msgstr "Change password"
+
+#: Template/Element/frontend/box-member.ctp:66
+msgid "Thoát"
+msgstr "Logout"
+
+#: Template/Element/frontend/footer.ctp:6
+#: Template/Pages/about.ctp:38
+#: Template/Pages/contact.ctp:15
+#: Template/Pages/member_register.ctp:10
+msgid "Liên hệ"
+msgstr "Contact us"
+
+#: Template/Element/frontend/list_news.ctp:32
+msgid "đọc thêm"
+msgstr "read more"
+
+#: Template/Element/frontend/nav-bar.ctp:11
+#: Template/Pages/about.ctp:32
+#: Template/Pages/contact.ctp:14
+#: Template/Pages/member_inquiries.ctp:9
+#: Template/Pages/member_login.ctp:10
+#: Template/Pages/member_product.ctp:9
+#: Template/Pages/member_profile.ctp:9
+#: Template/Pages/member_register.ctp:9
+#: Template/Pages/member_update_profile.ctp:15
+msgid "Trang chủ"
+msgstr "Home"
+
+#: Template/Element/frontend/sidebar-right.ctp:26
+msgid "Ý kiến thành viên"
+msgstr "Members' comments"
+
+#: Template/Element/frontend/sidebar.ctp:4
+msgid "Thành viên Việt nam"
+msgstr "Members in Vietnam"
+
+#: Template/Element/frontend/sidebar.ctp:32
+msgid "Facebook"
+msgstr "Facebook"
+
+#: Template/Pages/about.ctp:33
+msgid "Vì sao?"
+msgstr "Why us?"
+
+#: Template/Pages/about.ctp:34
+msgid "Quyền lợi"
+msgstr "Benefits"
+
+#: Template/Pages/about.ctp:35
+msgid "Mạng lưới"
+msgstr "Members Network"
+
+#: Template/Pages/about.ctp:36
+msgid "Hoạt động"
+msgstr "Activities"
+
+#: Template/Pages/about.ctp:37
+#: Template/Pages/member_register.ctp:274;276
+msgid "Thành viên"
+msgstr "Members"
+
+#: Template/Pages/about.ctp:53
+msgid "Cầu nối giao thương Việt Nam - Nhật Bản"
+msgstr "Linking business Vietnam - Japan"
+
+#: Template/Pages/about.ctp:56
+msgid "Dự án Xúc tiến, Tư vấn và Kết nối Thương mại giữa doanh nghiệp Việt Nam và Nhật Bản. Đến với Japan Circle, Quý doanh nghiệp sẽ được cung cấp các dịch vụ tối ưu để kết nối kinh doanh giữa doanh nghiệp Việt Nam với doanh nghiệp Nhật Bản"
+msgstr "Promotion Project, Consultants and Connectivity Business Trade between Vietnam and Japan. Coming to Japan Circle, you will be to provide optimum service to connect business between Vietnam enterprises with Japanese enterprises"
+
+#: Template/Pages/about.ctp:73
+msgid "NHỮNG KHÓ KHĂN GẶP PHẢI"
+msgstr "Disadvantages"
+
+#: Template/Pages/about.ctp:73
+msgid "KHI GIAO THƯƠNG VỚI THỊ TRƯỜNG NHẬT BẢN ?"
+msgstr "TRADE WITH THE JAPANESE MARKET?"
+
+#: Template/Pages/about.ctp:74
+msgid "Quý doanh nghiệp đang gặp khó khăn gì trong việc giao thương? Japan Circle sẽ cùng Quý doanh nghiệp tháo gỡ khó khăn."
+msgstr "You're in trouble now what in the trade? Circle Japan will help you all for solving difficulties."
+
+#: Template/Pages/about.ctp:83
+msgid "Thiếu thông tin"
+msgstr "Lack of information"
+
+#: Template/Pages/about.ctp:86
+msgid "Rào cản ngôn ngữ"
+msgstr "Differences in language"
+
+#: Template/Pages/about.ctp:89
+msgid "Mất thời gian tìm kiếm đối tác phù hợp"
+msgstr "Takes time searching suitable partners"
+
+#: Template/Pages/about.ctp:92
+msgid "Rủi ro trong việc mở  rộng thị trường"
+msgstr "Risks in expanding market"
+
+#: Template/Pages/about.ctp:114
+msgid "HÃY ĐĂNG KÝ THÀNH VIÊN JAPAN CIRCLE NGAY HÔM NAY!"
+msgstr "Sig up now"
+
+#: Template/Pages/about.ctp:119
+msgid "Quyền lợi thành viên"
+msgstr "Member benefits"
+
+#: Template/Pages/about.ctp:121
+msgid "Được truy cập dữ liệu thành viên Japan Circle"
+msgstr "Possible access the data members Circle Japan"
+
+#: Template/Pages/about.ctp:122
+msgid "Nhận bản tin nội bộ (email)"
+msgstr "Newsletter (email)"
+
+#: Template/Pages/about.ctp:123
+#: Template/Pages/member_register.ctp:290
+msgid "Được cung cấp thông tin kinh tế thương mại, hội thảo, hội chợ, triển lãm cho thị trường Nhật Bản."
+msgstr "Are provided economic and trade information, seminars, fairs and exhibitions for the Japanese market."
+
+#: Template/Pages/about.ctp:124
+#: Template/Pages/member_register.ctp:300
+msgid "Được cung cấp thông tin kết nối với khách hàng Nhật."
+msgstr "Are provided information connected with Japanese customers."
+
+#: Template/Pages/about.ctp:125
+msgid "Nhận được thông tin về các sự kiện kết nối giao thương hoặc đào tạo."
+msgstr "Get information about events connected trade or training."
+
+#: Template/Pages/about.ctp:126
+msgid "Được quảng cáo trên website và ấn phẩm của Japan Circle."
+msgstr "Advertised on websites and publications of Japan Circle."
+
+#: Template/Pages/about.ctp:130
+msgid " Các dịch vụ hỗ trợ thêm"
+msgstr "Additional support services"
+
+#: Template/Pages/about.ctp:132
+msgid "Giới thiệu về doanh nghiệp."
+msgstr "About enterprise."
+
+#: Template/Pages/about.ctp:133
+msgid "Phát triển website"
+msgstr "Website Development"
+
+#: Template/Pages/about.ctp:134
+msgid "Điều tra thị trường."
+msgstr "Market surveys."
+
+#: Template/Pages/about.ctp:135
+msgid "Tổ chức các tour khảo sát"
+msgstr "Organizations surveys"
+
+#: Template/Pages/about.ctp:136
+msgid "Hỗ trợ ngôn ngữ"
+msgstr "Language support"
+
+#: Template/Pages/about.ctp:137
+msgid "Tư vấn quảng cáo"
+msgstr "Advertising consultant"
+
+#: Template/Pages/about.ctp:157
+msgid "JAPAN CIRCLE KHÔNG NGỪNG PHÁT TRIỂN"
+msgstr "JAPAN CIRCLE IS CONTINUOUS DEVELOPMENT"
+
+#: Template/Pages/about.ctp:182
+msgid "HOẠT ĐỘNG"
+msgstr "ACTIVITIES"
+
+#: Template/Pages/about.ctp:183
+msgid "JAPAN CIRCLE TỔ CHỨC CÁC BUỔI HỘI THẢO XÚC TIẾN THƯƠNG MẠI."
+msgstr "JAPAN CIRCLE ORGANIZES WORKSHOP SESSIONS TRADE PROMOTION."
+
+#: Template/Pages/about.ctp:184
+msgid "VÀ CÁC BUỔI CHIA SẼ KINH NGHIỆP KHI GIAO THƯƠNG VỚI NHẬT BẢN!"
+msgstr "TRADE EXPERIENCE WHEN CONNECTED TRADE TO JAPAN SHARING SESSIONS!"
+
+#: Template/Pages/about.ctp:279
+msgid "THÀNH VIÊN TIÊU BIỂU"
+msgstr "FEATURED MEMBERS"
+
+#: Template/Pages/about.ctp:280
+msgid "Số lương thành viên tham gia Japan Circle tăng không ngừng trên hệ thống, sau đây là hình ảnh vài thành viên tiêu biểu"
+msgstr "Japan Circle's members increased constantly on the system, here are a few images Featured Members"
+
+#: Template/Pages/about.ctp:287
+msgid "CÔNG TY CỔ PHẦN CƠ KHÍ XÂY DỰNG THƯƠNG MẠI ĐẠI DŨNG "
+msgstr "ENGINEERING COMMERCIAL BUILDING DAI DUNG JSC"
+
+#: Template/Pages/about.ctp:288;294
+msgid "Việt Nam"
+msgstr "Vietnam"
+
+#: Template/Pages/about.ctp:293
+msgid "CÔNG TY CỔ PHẦN CHỨNG KHOÁN KIS VIỆT NAM "
+msgstr "VIETNAM KIS JOINT STOCK COMPANY"
+
+#: Template/Pages/about.ctp:301
+msgid "CÔNG TY CỔ PHẦN NEVER ALONE"
+msgstr "NEVER ALONE JOINT STOCK COMPANY"
+
+#: Template/Pages/about.ctp:302;309;317;324;340;347
+msgid "Việt Nam "
+msgstr "Vietnam"
+
+#: Template/Pages/about.ctp:308
+msgid "CÔNG TY CỔ PHẦN ĐẦU TƯ SÀI GÒN ĐÀ NẴNG"
+msgstr "SAIGON DA NANG INVESTMENT JOINT STOCK COMPANY"
+
+#: Template/Pages/about.ctp:316
+msgid "CÔNG TY TNHH MINH PHÚC"
+msgstr "MINH PHUC COMPANY LIMITED"
+
+#: Template/Pages/about.ctp:323
+msgid "CÔNG TY TNHH TÔN VĂN"
+msgstr "TON VAN COMPANY LIMITED"
+
+#: Template/Pages/about.ctp:330
+msgid "CÔNG TY EICOH"
+msgstr "EICOH COMPANY"
+
+#: Template/Pages/about.ctp:331
+msgid "Nhật Bản "
+msgstr "Japan"
+
+#: Template/Pages/about.ctp:339
+msgid "CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI HẢI ÂU"
+msgstr "TRADE INVESTMENT JOINT STOCK COMPANY HAI AU"
+
+#: Template/Pages/about.ctp:346
+msgid "CÔNG TY TNHH THÊU VIỆT"
+msgstr "THEU VIET COMPANY LIMITED"
+
+#: Template/Pages/about.ctp:377
+msgid "Japan Circle. All rights reserved. "
+msgstr ""
+
+#: Template/Pages/add_inquiry.ctp:10
+msgid "Đăng sản phẩm / dịch vụ"
+msgstr "Add product / service"
+
+#: Template/Pages/add_inquiry.ctp:20
+#: Template/Pages/detail_member.ctp:110
+#: Template/Pages/member_register.ctp:81
+msgid "Industry"
+msgstr ""
+
+#: Template/Pages/add_inquiry.ctp:35
+msgid "Short Description"
+msgstr ""
+
+#: Template/Pages/add_inquiry.ctp:44
+msgid "Type Inquiry"
+msgstr ""
+
+#: Template/Pages/add_inquiry.ctp:45
+msgid "Select Type Inquiry"
+msgstr ""
+
+#: Template/Pages/add_inquiry.ctp:59
+msgid "Content"
+msgstr ""
+
+#: Template/Pages/add_inquiry.ctp:65
+msgid "Đăng thông tin"
+msgstr "Add information"
+
+#: Template/Pages/add_inquiry.ctp:70
+msgid "Thông tin sản phẩm / dịch vụ của quý khách sẽ được chúng tôi kiểm duyệt trước khi công bô thông tin."
+msgstr "Information products / services of our customers will be moderated before publication of information."
+
+#: Template/Pages/add_product.ctp:10
+msgid "Add new product / service"
+msgstr ""
+
+#: Template/Pages/add_product.ctp:17
+#: Template/Pages/member_update_profile.ctp:67
+msgid "Industries"
+msgstr ""
+
+#: Template/Pages/add_product.ctp:25
+msgid "Product code"
+msgstr ""
+
+#: Template/Pages/add_product.ctp:31
+msgid "Product name"
+msgstr ""
+
+#: Template/Pages/add_product.ctp:39
+msgid "Sort description"
+msgstr ""
+
+#: Template/Pages/add_product.ctp:47
+msgid "Product price"
+msgstr ""
+
+#: Template/Pages/add_product.ctp:53
+msgid "Unit"
+msgstr ""
+
+#: Template/Pages/add_product.ctp:59
+msgid "Product image"
+msgstr ""
+
+#: Template/Pages/add_product.ctp:73
+msgid "Submit info"
+msgstr ""
+
+#: Template/Pages/add_product.ctp:78
+msgid "The info of the product / service will be approval by Admin"
+msgstr ""
+
+#: Template/Pages/contact.ctp:27
+msgid "Gửi thông tin liên hệ"
+msgstr "Contact us"
+
+#: Template/Pages/contact.ctp:47
+#: Template/Pages/member_profile.ctp:56
+msgid "Điện thoại"
+msgstr "Phone"
+
+#: Template/Pages/contact.ctp:54
+msgid "Tiêu đề"
+msgstr "Title"
+
+#: Template/Pages/contact.ctp:58
+msgid "Nội dung liên hệ"
+msgstr "Message"
+
+#: Template/Pages/detail_member.ctp:13
+msgid "Member Information"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:17
+msgid "Company Information"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:18
+msgid "Product"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:19
+#: Template/Pages/member_register.ctp:259
+msgid "Inquiry"
+msgstr "Inquiries"
+
+#: Template/Pages/detail_member.ctp:25
+msgid "Logo Company"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:29
+msgid "Company Code"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:61
+msgid "Company Name"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:65
+msgid "Company Trading Name"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:69
+msgid "Company Short Name"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:73
+#: Template/Pages/member_register.ctp:168;169
+#: Template/Pages/member_update_profile.ctp:97
+msgid "City"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:77
+#: Template/Pages/member_update_profile.ctp:91
+msgid "Address"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:81
+#: Template/Pages/member_register.ctp:182;188
+#: Template/Pages/member_update_profile.ctp:108;109
+msgid "Phone"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:93
+#: Template/Pages/member_profile.ctp:68
+#: Template/Pages/member_register.ctp:200
+#: Template/Pages/member_update_profile.ctp:131;132
+msgid "Website"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:97
+msgid "Contact"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:102
+msgid "Established"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:106
+msgid "Staff"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:122
+msgid "Content Business"
+msgstr ""
+
+#: Template/Pages/list_member.ctp:149
+#: Template/Pages/list_member_by_countries.ctp:136
+msgid "First"
+msgstr ""
+
+#: Template/Pages/list_member.ctp:169
+#: Template/Pages/list_member_by_countries.ctp:156
+msgid "Last"
+msgstr ""
+
+#: Template/Pages/list_member_by_countries.ctp:20
+msgid "Member Viet Nam"
+msgstr "Member in  Viet Nam"
+
+#: Template/Pages/list_member_by_countries.ctp:23
+msgid "Member Japan"
+msgstr "Members in Japan"
+
+#: Template/Pages/member_inquiries.ctp:5
+#: Template/Pages/member_profile.ctp:5
+#: Template/Pages/member_update_profile.ctp:11
+msgid "Thông tin thành viên"
+msgstr "Member's information"
+
+#: Template/Pages/member_inquiries.ctp:10
+#: Template/Pages/member_product.ctp:10
+#: Template/Pages/member_profile.ctp:10
+msgid "Trang thành viên"
+msgstr "Member page"
+
+#: Template/Pages/member_inquiries.ctp:26
+msgid "Hiển thị 1-1 của 1 kết quả."
+msgstr ""
+
+#: Template/Pages/member_inquiries.ctp:30
+#: Template/Pages/member_product.ctp:31
+msgid "Hình"
+msgstr "Photo"
+
+#: Template/Pages/member_inquiries.ctp:32
+msgid "Loại hợp tác"
+msgstr "Type"
+
+#: Template/Pages/member_inquiries.ctp:33
+#: Template/Pages/member_product.ctp:39
+msgid "Trạng thái"
+msgstr "Status"
+
+#: Template/Pages/member_inquiries.ctp:34
+#: Template/Pages/member_product.ctp:40
+msgid "Ngày cập nhật"
+msgstr "Update date"
+
+#: Template/Pages/member_inquiries.ctp:59
+msgid "Đăng nhu cầu hợp tác mới"
+msgstr "Add new an Inquiry"
+
+#: Template/Pages/member_login.ctp:25
+msgid "Đăng nhập tài khoản"
+msgstr "Login"
+
+#: Template/Pages/member_login.ctp:28
+msgid "Vui lòng điền thông tin đăng nhập bên dưới"
+msgstr "Please enter your login information."
+
+#: Template/Pages/member_login.ctp:35
+msgid "Mật khẩu"
+msgstr "Password (Required)"
+
+#: Template/Pages/member_login.ctp:41
+msgid "Ghi nhớ đăng nhập lần sau"
+msgstr "Remember me"
+
+#: Template/Pages/member_login.ctp:54
+msgid "Quên mật khẩu"
+msgstr "Reset password"
+
+#: Template/Pages/member_login.ctp:54
+msgid "nhấp chuột tại đây"
+msgstr "Sign up"
+
+msgid "nhấp chuột tại đây "
+msgstr "I forget my password"
+#: Template/Pages/member_product.ctp:11
+msgid "Sản phẩm - dịch vụ"
+msgstr "Products - Services"
+
+#: Template/Pages/member_product.ctp:25
+msgid "Danh sách sản phẩm dịch vụ"
+msgstr "List of services"
+
+#: Template/Pages/member_product.ctp:33
+msgid "Tên sản phẩm / Dịch vụ"
+msgstr "Name of product / service"
+
+#: Template/Pages/member_product.ctp:35
+msgid "Giá"
+msgstr "Price"
+
+#: Template/Pages/member_product.ctp:38
+msgid "Đơn vị"
+msgstr "Unit"
+
+#: Template/Pages/member_product.ctp:55
+msgid "Đã duyệt"
+msgstr "Approved"
+
+#: Template/Pages/member_product.ctp:55
+msgid "Chờ duyệt"
+msgstr "Waiting approve"
+
+#: Template/Pages/member_product.ctp:60
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: Template/Pages/member_product.ctp:69
+msgid "Đăng sản phẩm mới"
+msgstr "Add a new product"
+
+#: Template/Pages/member_profile.ctp:24
+msgid "Thông tin doanh nghiệp "
+msgstr "Company information"
+
+#: Template/Pages/member_profile.ctp:32
+#: Template/Pages/member_update_profile.ctp:41
+msgid "Tên doanh nghiệp"
+msgstr "Name of company."
+
+#: Template/Pages/member_profile.ctp:36
+#: Template/Pages/member_register.ctp:63
+msgid "Tên giao dịch "
+msgstr "Trading Name"
+
+#: Template/Pages/member_profile.ctp:40
+#: Template/Pages/member_update_profile.ctp:58
+msgid "Tên viết tắt"
+msgstr "Short name"
+
+#: Template/Pages/member_profile.ctp:44
+msgid "Mã số thuế"
+msgstr "Tax Code"
+
+#: Template/Pages/member_profile.ctp:48
+#: Template/Pages/member_update_profile.ctp:90
+msgid "Địa chỉ"
+msgstr "Address"
+
+#: Template/Pages/member_profile.ctp:52
+msgid "Quận / TP"
+msgstr "District"
+
+#: Template/Pages/member_profile.ctp:72
+#: Template/Pages/member_update_profile.ctp:137
+msgid "Người liên hệ"
+msgstr "Contact person"
+
+#: Template/Pages/member_profile.ctp:76
+msgid "Năm thành lập"
+msgstr "Established"
+
+#: Template/Pages/member_profile.ctp:80
+#: Template/Pages/member_update_profile.ctp:184
+msgid "Vốn điều lệ"
+msgstr "Company capital"
+
+#: Template/Pages/member_profile.ctp:84
+msgid "Số lượng nhân viên"
+msgstr "Staff"
+
+#: Template/Pages/member_profile.ctp:88
+msgid "Loại thành viên"
+msgstr "Type of member"
+
+#: Template/Pages/member_profile.ctp:93;133
+msgid "Chỉnh sửa"
+msgstr "Edit"
+
+#: Template/Pages/member_profile.ctp:95
+msgid "Thông tin ngành"
+msgstr "Industry information"
+
+#: Template/Pages/member_profile.ctp:99
+msgid "Phân loại ngành"
+msgstr "Type industries"
+
+#: Template/Pages/member_profile.ctp:103
+msgid "Ngành"
+msgstr "Industry"
+
+#: Template/Pages/member_profile.ctp:107
+msgid "Loại hình"
+msgstr "Type"
+
+#: Template/Pages/member_profile.ctp:113
+msgid "Hình thức hợp tác"
+msgstr "Forms of Cooperation"
+
+#: Template/Pages/member_profile.ctp:123
+msgid "Các dịch vụ cần nhất:"
+msgstr "Needs"
+
+#: Template/Pages/member_register.ctp:5
+#: Template/Pages/member_update_profile.ctp:16
+msgid "Đăng ký thành viên"
+msgstr "Register"
+
+#: Template/Pages/member_register.ctp:26
+msgid "BƯỚC 1 : THÔNG TIN THÀNH VIÊN "
+msgstr "STEP1: Input Login info and Company Data"
+
+#: Template/Pages/member_register.ctp:32
+msgid "Thông tin đăng nhập"
+msgstr "Login information"
+
+#: Template/Pages/member_register.ctp:36
+msgid "Email (tên truy cập) "
+msgstr "Email"
+
+#: Template/Pages/member_register.ctp:38
+msgid "Account"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:51
+#: Template/Pages/member_update_profile.ctp:31
+msgid "Thông tin doanh nghiệp"
+msgstr "Enterprise Information"
+
+#: Template/Pages/member_register.ctp:55
+msgid "Tên doanh nghiệp "
+msgstr "Company name"
+
+#: Template/Pages/member_register.ctp:57
+msgid "Company"
+msgstr "Company name"
+
+#: Template/Pages/member_register.ctp:65
+msgid "Trading Name"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:73
+msgid "Tên viết tắt "
+msgstr "Short name"
+
+#: Template/Pages/member_register.ctp:75
+msgid "Short Name"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:89
+msgid "Type Business"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:90
+#: Template/Pages/member_update_profile.ctp:76
+msgid "Select Type Business"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:95
+#: Template/Pages/member_update_profile.ctp:85;176
+msgid "Country"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:96
+#: Template/Pages/member_update_profile.ctp:85
+msgid "Select Country"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:102
+#: Template/Pages/member_update_profile.ctp:176
+msgid "Select Language"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:110
+msgid "Company Established"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:116
+msgid "Tax Code"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:124
+msgid "Company capital"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:130
+msgid "staff"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:136;137
+#: Template/Pages/member_update_profile.ctp:205;264
+msgid "Logo"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:144
+#: Template/Pages/member_update_profile.ctp:219
+msgid "Business"
+msgstr "Description of Business"
+
+#: Template/Pages/member_register.ctp:149
+msgid "Tiếp bước 2 >>> "
+msgstr "Go to Step 2"
+
+#: Template/Pages/member_register.ctp:155
+msgid "BƯỚC 2 : THÔNG TIN LIÊN HỆ"
+msgstr "STEP2: Input Contact person's Info"
+
+#: Template/Pages/member_register.ctp:162
+msgid "Adress"
+msgstr "Address"
+
+#: Template/Pages/member_register.ctp:169
+#: Template/Pages/member_update_profile.ctp:97
+msgid "Select City"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:174;175
+#: Template/Pages/member_update_profile.ctp:103
+msgid "Prefecture"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:208
+msgid "Contact person"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:220
+#: Template/Pages/member_update_profile.ctp:143
+msgid "Division"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:221
+#: Template/Pages/member_update_profile.ctp:143
+msgid "Select Division"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:221;227
+msgid "form-control"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:226
+#: Template/Pages/member_update_profile.ctp:150
+msgid "Department"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:232
+msgid "Tiếp bước 3 >>> "
+msgstr "Go to Step 3"
+
+#: Template/Pages/member_register.ctp:251
+msgid "Need"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:252
+#: Template/Pages/member_update_profile.ctp:246
+msgid "Needs"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:269
+msgid "Chọn loại thành viên"
+msgstr "Select member type"
+
+#: Template/Pages/member_register.ctp:273
+msgid "Dịch vụ"
+msgstr "Services"
+
+#: Template/Pages/member_register.ctp:275
+msgid "Cơ bản"
+msgstr "Basic"
+
+#: Template/Pages/member_register.ctp:277
+msgid "Cao cấp"
+msgstr "Advance"
+
+#: Template/Pages/member_register.ctp:280
+msgid "Phí tham gia thành viên"
+msgstr "Fee"
+
+#: Template/Pages/member_register.ctp:281
+msgid "Miễn phí"
+msgstr "Free"
+
+#: Template/Pages/member_register.ctp:282
+msgid "6.600.000 VNĐ / năm"
+msgstr "6.6000.000 VND / year"
+
+#: Template/Pages/member_register.ctp:285
+msgid "Truy cập dữ liệu thành viên"
+msgstr "Possible access the data members Circle Japan"
+
+#: Template/Pages/member_register.ctp:295
+msgid "Bản tin nội bộ (bằng email)"
+msgstr "Newsletter (email)"
+
+#: Template/Pages/member_register.ctp:305
+msgid "Cung cấp điều tra thị trường (về đầu tư, thông tin thị trường, thông tin ngành, thông tin công ty, tư vấn nhân sự…)"
+msgstr "Provides market survey (on investment, market information, industry information, company information, HR consulting, ...)"
+
+#: Template/Pages/member_register.ctp:307;312;323
+msgid "Giảm 5% trên phí dịch vụ"
+msgstr "5% discount"
+
+#: Template/Pages/member_register.ctp:310
+msgid "Được tham gia các sự kiện của Japan Circle."
+msgstr "To participate in the events of Japan Circle."
+
+#: Template/Pages/member_register.ctp:315
+msgid "Được PR, quảng cáo trên website và ấn phẩm của Japan Circle."
+msgstr "PR, advertising on websites and publications of Japan Circle."
+
+#: Template/Pages/member_register.ctp:317
+msgid "Miễn phí tháng đầu tiên"
+msgstr "Free first month"
+
+#: Template/Pages/member_register.ctp:318
+msgid "Giảm 5% trên phí dịch vụ từ tháng thứ 2"
+msgstr "5% discount on monthly service fees from 2nd"
+
+#: Template/Pages/member_register.ctp:321
+msgid "Các dịch vụ hỗ trợ khác."
+msgstr "Other support services."
+
+#: Template/Pages/member_register.ctp:326
+msgid "Thời hạn đăng ký"
+msgstr "Deadline for registration"
+
+#: Template/Pages/member_register.ctp:330
+msgid "Chọn loại thành viên đăng ký"
+msgstr "Select member type"
+
+#: Template/Pages/member_register.ctp:341
+msgid "Hoàn tất đăng ký thành viên"
+msgstr "Submit"
+
+#: Template/Pages/member_register.ctp:353
+msgid "Tiện ích thành viên"
+msgstr "Utility Member"
+
+#: Template/Pages/member_register.ctp:355
+msgid "Quý doanh nghiệp cung cấp thông tin chính xác để Japan Circle thực hiện tốt nhất việc giới thiệu và kết nối giữa các doanh nghiệp Việt Nam và Nhật Bản. "
+msgstr "Please provide accurate information to make the best introduction and business connections between Vietnam and Japan."
+
+#: Template/Pages/member_register.ctp:356
+msgid "Chúng tôi cung cấp 2 loại thành viên : "
+msgstr "We offer 2 types of membership:"
+
+#: Template/Pages/member_register.ctp:356
+msgid "Thành viên cơ bản"
+msgstr "Basic member"
+
+#: Template/Pages/member_register.ctp:356
+msgid "và"
+msgstr "and"
+
+#: Template/Pages/member_register.ctp:356
+msgid "Thành viên Cao Cấp"
+msgstr "Premium membership"
+
+#: Template/Pages/member_register.ctp:356
+msgid ". Khi là thành viên quý doanh nghiệp sẽ nhận được những tiện ích như : "
+msgstr ". As a member you will receive the business facilities such as : "
+
+#: Template/Pages/member_register.ctp:360
+msgid "Các tiện ích và dịch vụ"
+msgstr "What We Provide"
+
+#: Template/Pages/member_register.ctp:364
+msgid "Cung cấp thông tin kinh tế, thương mại hàng tuần"
+msgstr "Weekly economic news in Japan and in Vietnam."
+
+#: Template/Pages/member_register.ctp:365
+msgid "Cung cấp báo cáo hàng tháng"
+msgstr "Monthly report (about what?)"
+
+#: Template/Pages/member_register.ctp:367
+msgid "Tư vấn kinh nghiệm giao thương với công ty Nhật (*)"
+msgstr "Matching your potential business partners."
+
+#: Template/Pages/member_register.ctp:368
+msgid "Tư vấn pháp luật, kinh doanh tại Nhật (*)"
+msgstr "Consultancy about trade and regal issues with Japan."
+
+#: Template/Pages/member_register.ctp:369
+msgid "Tư vấn đào tạo nhân lực (*)"
+msgstr "HR Consultancy."
+
+#: Template/Pages/member_register.ctp:375
+msgid "Giới thiệu công ty Nhật trong các chuyến thị sát kinh doanh"
+msgstr "Matching Company visits in Japan."
+
+#: Template/Pages/member_register.ctp:376
+msgid "Thông tin về Hội thảo và Triển lãm tại Nhật Bản."
+msgstr "Information about conference and exhibition in Japan."
+
+#: Template/Pages/member_register.ctp:379
+msgid "Tiếp cận dữ liệu thành viên của Japan Circle."
+msgstr "Meetups"
+
+#: Template/Pages/member_update_profile.ctp:49
+msgid "Tên giao dịch"
+msgstr "Trading name"
+
+#: Template/Pages/member_update_profile.ctp:66
+msgid "Ngành nghề"
+msgstr "Industry"
+
+#: Template/Pages/member_update_profile.ctp:67
+msgid "Select industries"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:75
+msgid "Loại hình doanh nghiệp"
+msgstr "Type"
+
+#: Template/Pages/member_update_profile.ctp:76
+msgid "Company Type"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:84
+msgid "Doanh nghiệp"
+msgstr "Company"
+
+#: Template/Pages/member_update_profile.ctp:96
+msgid "Thành phố"
+msgstr "City"
+
+#: Template/Pages/member_update_profile.ctp:102
+msgid "Quận"
+msgstr "District"
+
+#: Template/Pages/member_update_profile.ctp:116;117
+msgid "Phone 2"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:142
+msgid "Chức vụ"
+msgstr "Division"
+
+#: Template/Pages/member_update_profile.ctp:149
+msgid "Phòng ban (nếu có)"
+msgstr "Department (optional)"
+
+#: Template/Pages/member_update_profile.ctp:157
+msgid "Mobile"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:163
+msgid "Ngày thành lập"
+msgstr "Established"
+
+#: Template/Pages/member_update_profile.ctp:169
+msgid "Mã số thuê"
+msgstr "Tax code"
+
+#: Template/Pages/member_update_profile.ctp:175
+msgid "Có thể giao tiếp"
+msgstr "Language"
+
+#: Template/Pages/member_update_profile.ctp:193
+msgid "Số nhân viên"
+msgstr "Staff"
+
+#: Template/Pages/member_update_profile.ctp:204
+msgid "Logo công ty"
+msgstr "Logo"
+
+#: Template/Pages/member_update_profile.ctp:218
+msgid "Nội dung kinh doanh"
+msgstr "Business content"
+
+#: Template/Pages/member_update_profile.ctp:233
+msgid "Hình thức hợp tác Đơn vị mong muốn"
+msgstr "Cooperation"
+
+#: Template/Pages/member_update_profile.ctp:242
+msgid "Các dịch vụ hỗ trợ nào sau đây Đơn vị cần nhất:"
+msgstr "Needs"
+
+#: Template/Pages/member_update_profile.ctp:256
+msgid "Thông tin doanh nghiệp của quý khách được dịch sang tiếng Nhật và công bố trên webite http://japan-circle.com cho thị trường Nhật Bản. Mọi thay đổi sẽ được chúng tôi kiểm duyệt lại trước khi dịch sang tiếng Nhật và công bố."
+msgstr "Your information is translated into Japanese and published on the webite http://japan-circle.com for the Japanese market. All changes will be our moderation before translated into Japanese and published."
+
+#: Template/Pages/members.ctp:16
+msgid "Thành viên Việt Nam"
+msgstr "Vietnamese member"
+
+#: Template/Pages/members.ctp:20
+msgid "Viet Dragon Entainment"
+msgstr ""
+
+#: Template/Pages/members.ctp:530
+msgid "Đầu tiên"
+msgstr "First"
+
+#: Template/Pages/news_category.ctp:11
+msgid "Cơ hội hợp tác"
+msgstr "Inquiries"
+
+#: Template/Pages/news_index.ctp:11
+msgid "Tin tức"
+msgstr "News"
+
+#: Template/Pages/news_index.ctp:34
+msgid "Các tin cùng chủ đề"
+msgstr "Related"
+
+#: Template/Users/login.ctp:44
+msgid "Please enter email address/username"
+msgstr ""
+
+#: Template/Users/login.ctp:51
+msgid "Enter your password"
+msgstr ""
+
+#: Template/Users/reset_password.ctp:4
+msgid "New Password"
+msgstr ""
+
+#: Template/Users/reset_password.ctp:8
+msgid "Confirm Password"
+msgstr ""
+
+#: Template/Users/reset_password.ctp:13
+msgid "Change Password"
+msgstr ""
+#: Template/Pages/index.ctp
+msgid "Xem thêm hoạt động"
+msgstr "more activities"
+
+#: Template/Pages/index.ctp
+msgid "Xem thêm cơ hội hợp tác"
+msgstr "more inquiries"
+#: Template/Pages/index.ctp
+msgid "Xem thêm"
+msgstr "read more"
+#: Template/Pages/sidebar-right.ctp
+msgid "Tìm kiếm"
+msgstr "Search"
+
+msgid "Thành viên Việt Nam thuộc ngành {0}"
+msgstr ""
+
+msgid "Thông báo quên mật khẩu"
+msgstr ""
+
+msgid "BƯỚC 3 : THÔNG TIN HỢP TÁC"
+msgstr "STEP3: Input Inquiries"
+
+msgid "Xin vui lòng điền thông tin nhu cầu hợp tác của quý công ty"
+msgstr " "
+
+msgid "Đổi mật khẩu thành công"
+msgstr "Change password success"
+
+msgid "Nhấp chuột để tạo mới mật khẩu hoặc vào đường dẫn bên dưới."
+msgstr "Click to change password or click bellow link "
+
+msgid "Chân thành cảm ơn!"
+msgstr "Thank you very much!"
+
+msgid "Trân trọng,"
+msgstr "Best Regards,"
+
+msgid "Kính chào Quý Công ty"
+msgstr "Dear Company"
+
+msgid "Chúc mừng Quý Công ty đã đăng ký thành công và trở thành thành viên chính thức của Japan Circle - Cầu nối giao thương Việt Nam - Nhật Bản."
+msgstr "Congratulations your Company successfully registered and become an official member of Japan Circle - Linking business Vietnam - Japan."
+
+msgid "Thông tin đăng nhập"
+msgstr "Login information"
+
+msgid "Hệ thống chúng tôi sẽ kiểm tra và hiện thị thông tin của Quý công ty trên website Japan Circle trong thời gian sớm nhất."
+msgstr "Our system will check and display the information on the website of your company in Japan Circle shortly."
+
+msgid "Cảm ơn quý khách đã liên hệ, chúng tôi đã nhận được thông tin và sẽ phúc đáp trong thời gian sớm nhất."
+msgstr "Thank you for your contact, we have received information and will respond in the shortest time."
+
+msgid "CÔNG TY TNHH TƯ VẤN THƯƠNG MẠI VIỆT NHẬT"
+msgstr "JAPAN VIETNAM TRADE CONSULTING CO.LTD"
+
+msgid "Điện Thoại:  (+848) 2228 6190 / 2228 6194 / 2217 8295"
+msgstr "Phone:  (+848) 2228 6190 / 2228 6194 / 2217 8295"
+
+msgid "Địa chỉ: Tầng 6,VFC Tower, 29 Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Tp. HCM"
+msgstr "Address: Level 6, VFC Tower, 29 Ton Duc Thang Street, Ben Nghe Ward, District 1, HCMC. HCM"
+
+msgid "Tầng 6,VFC Tower, 29 Tôn Đức Thắng, Phường Bến Nghé, Quận 1, Tp. HCM"
+msgstr "Level 6, VFC Tower, 29 Ton Duc Thang Street, Ben Nghe Ward, District 1, HCMC. HCM"
+
+msgid "Để có thể hỗ trợ tốt nhất quý doanh nghiệp trong việc tìm kiếm đối tác Nhật cũng như phản hồi các thông tin liên quan đến Inquiry một cách nhanh nhất, Qúy Doanh nghiệp vui lòng cung cấp cho Japan Circle những thông tin như dưới đây."
+msgstr "In order to best assist you in finding business partners Japan as well as feedback of relevant information to the fastest Inquiry, Please give Japan Circle information below."
+
+msgid "Thông tin với"
+msgstr "Field with"
+
+msgid "là thông tin bắt buộc"
+msgstr "is required"
+
+msgid "để việc đăng kí thông tin diễn ra nhanh hơn)"
+msgstr "registration information to go faster"
+
+msgid "(Nếu quý công ty đã là thành viên của Japan Circle, vui lòng"
+msgstr "(If you are already a member of Japan Circle, please"
+
+msgid "MỞ RỘNG CƠ HỘI GIAO THƯƠNG"
+msgstr "EXPANDING TRADE OPPORTUNITIES"
+
+msgid "Thông tin  thị trường Nhật"
+msgstr "Japanese Market Information"
+
+msgid "Kết nối khách hàng Nhật"
+msgstr "Japanese customer connection"
+
+msgid "Dữ liệu thành viên"
+msgstr "Member data"
+
+msgid "Ưu đãi đặc biệt"
+msgstr "Special Deals"
+
+msgid "Hỗ trợ cao cấp"
+msgstr "Premium Support"
+
+msgid "Thông báo quên mật khẩu"
+msgstr "Notify forgot password"
+
+msgid "Xin vui lòng kiểm tra email để cài đặt lại mật khẩu"
+msgstr "Please check your email to reset your password"
+
+msgid "Bạn đã có tài khoản"
+msgstr " "
+
+msgid "đăng nhập tại đây"
+msgstr "login here"
+
+msgid "Thành viên Nhật Bản"
+msgstr "Members in Japan"
+
+msgid "Chức năng thành viên"
+msgstr "Member's function"
+
+msgid "Thành viên Việt Nam thuộc ngành {0}"
+msgstr "Vietnamese members of industry {0}"
+
+msgid "Xác nhận mật khẩu hiện tại"
+msgstr "Confirm current password"
+
+msgid "Mật khẩu mới "
+msgstr "New password"
+
+msgid "Nhập lại mật khẩu mới"
+msgstr "Retype new password"
+
+msgid "Thay đổi"
+msgstr "Change"
+
+msgid "Bạn vui lòng sử dụng mật khẩu mới vào lần đăng nhập kế tiếp."
+msgstr "Please use new password in next login"
+
+msgid "Đăng ký hợp tác"
+msgstr "Inquiry register"
+
+msgid "Tên công ty / Họ tên"
+msgstr "Company/ Your Name(Required)"
+
+msgid "Gửi đi"
+msgstr "Send"
+
+msgid "Thông tin liên hệ"
+msgstr "Contact information"
+
+msgid "Cộng đồng"
+msgstr "Communities"
+
+msgid "Phóng to"
+msgstr "zoom out"
+
+msgid "Đối tác"
+msgstr "Partner"
+
+msgid "Hiện chưa có sản phẩm hoặc dịch vụ"
+msgstr "There are currently no products or services"
+
+msgid " Có "
+msgstr " "
+
+msgid " lượt người xem"
+msgstr " view "
+
+msgid "năm"
+msgstr "year"
+
+msgid "Khôi phục mật khẩu"
+msgstr "Reset password"
+
+msgid "Vui lòng điền email để lấy lại mật khẩu"
+msgstr "Enter your email to reset your password."
+
+msgid "Gửi liên hệ thành công. Xin cảm ơn!"
+msgstr "Send contact successful. Thank you!"
+
+msgid "Đã có lỗi xảy ra! Vui lòng điền đầy đủ thông tin hoặc có thể bạn đã gửi liên hệ trước đó. Xin cảm ơn!"
+msgstr "※Please fill in all required items below."
+
+msgid "Mật khẩu hiện tại không khớp!"
+msgstr "Current password does not match!"
+
+msgid "Mật khẩu mới không khớp nhau!"
+msgstr "New password do not match!"
+
+msgid "Japan Circle - Đổi mật khẩu thành công !"
+msgstr "Japan Circle - Change password succeed!"
+
+msgid "Japan Circle - Quên mật khẩu!"
+msgstr "Japan Circle - Forgot your password?"
+
+msgid "Không thể giải quyết yêu cầu ."
+msgstr "Unable to resolve the request."
+
+msgid "Chi tiết"
+msgstr "Detail"
+
+msgid "Thông tin chi tiết"
+msgstr "Detail information"
+
+msgid "Tìm"
+msgstr "Search"
+
+#: Controller/ActivitiesController.php:55;82
+msgid "The activity has been saved."
+msgstr ""
+
+#: Controller/ActivitiesController.php:58;85
+msgid "The activity could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ActivitiesController.php:106
+msgid "The activity has been deleted."
+msgstr ""
+
+#: Controller/ActivitiesController.php:108
+msgid "The activity could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ActivityCategoriesController.php:52;77
+msgid "The activity category has been saved."
+msgstr ""
+
+#: Controller/ActivityCategoriesController.php:55;80
+msgid "The activity category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ActivityCategoriesController.php:99
+msgid "The activity category has been deleted."
+msgstr ""
+
+#: Controller/ActivityCategoriesController.php:101
+msgid "The activity category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/AdvertisementsController.php:54;80
+msgid "The advertisement has been saved."
+msgstr ""
+
+#: Controller/AdvertisementsController.php:57;83
+msgid "The advertisement could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AdvertisementsController.php:102
+msgid "The advertisement has been deleted."
+msgstr ""
+
+#: Controller/AdvertisementsController.php:104
+msgid "The advertisement could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/BannersController.php:52;78
+msgid "The banner has been saved."
+msgstr ""
+
+#: Controller/BannersController.php:55;81
+msgid "The banner could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BannersController.php:101
+msgid "The banner has been deleted."
+msgstr ""
+
+#: Controller/BannersController.php:103
+msgid "The banner could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CommentsController.php:52;77
+msgid "The comment has been saved."
+msgstr ""
+
+#: Controller/CommentsController.php:55;80
+msgid "The comment could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CommentsController.php:99
+msgid "The comment has been deleted."
+msgstr ""
+
+#: Controller/CommentsController.php:101
+msgid "The comment could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CompanyInquiriesController.php:80
+msgid "The company inquiry has been saved."
+msgstr ""
+
+#: Controller/CompanyInquiriesController.php:83
+msgid "The company inquiry could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CompanyInquiriesController.php:111
+msgid "The company inquiry has been deleted."
+msgstr ""
+
+#: Controller/CompanyInquiriesController.php:113
+msgid "The company inquiry could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CooperationsController.php:52;77
+msgid "The cooperation has been saved."
+msgstr ""
+
+#: Controller/CooperationsController.php:55;80
+msgid "The cooperation could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CooperationsController.php:99
+msgid "The cooperation has been deleted."
+msgstr ""
+
+#: Controller/CooperationsController.php:101
+msgid "The cooperation could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/HomeMenusController.php:98;125
+msgid "The home menu has been saved."
+msgstr ""
+
+#: Controller/HomeMenusController.php:101;128
+msgid "The home menu could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/HomeMenusController.php:148
+msgid "The home menu has been deleted."
+msgstr ""
+
+#: Controller/HomeMenusController.php:150
+msgid "The home menu could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/HomeMenusController.php:178
+#: Template/HomeMenus/add.ctp:56
+#: Template/HomeMenus/edit.ctp:56
+msgid "Select Child"
+msgstr ""
+
+#: Controller/InquiriesController.php:52;85
+msgid "The inquiry has been saved."
+msgstr ""
+
+#: Controller/InquiriesController.php:55;88
+msgid "The inquiry could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/InquiriesController.php:115
+msgid "The inquiry has been deleted."
+msgstr ""
+
+#: Controller/InquiriesController.php:117
+msgid "The inquiry could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MembersController.php:35
+#: Template/Members/add.ctp:8
+#: Template/Members/edit.ctp:8
+#: Template/Members/index.ctp:28
+#: Template/Members/view.ctp:9
+msgid "List of Member"
+msgstr ""
+
+#: Controller/MembersController.php:81;90;94;162;171;175
+msgid "The member could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MembersController.php:87;168
+msgid "The member has been saved."
+msgstr ""
+
+#: Controller/MembersController.php:226
+msgid "The member has been deleted."
+msgstr ""
+
+#: Controller/MembersController.php:228
+msgid "The member could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MembersController.php:240
+#: Template/Members/add.ctp:89
+#: Template/Members/edit.ctp:88
+msgid "Select Prefecture"
+msgstr ""
+
+#: Controller/MembersController.php:259
+#: Template/CompanyInquiries/edit.ctp:41
+#: Template/Inquiries/add.ctp:36
+#: Template/Inquiries/edit.ctp:36
+#: Template/Members/add.ctp:48
+#: Template/Members/edit.ctp:47
+#: Template/Productions/edit.ctp:41
+msgid "Select Industry"
+msgstr ""
+
+#: Controller/MembersController.php:282
+msgid "Japan"
+msgstr ""
+
+#: Controller/MembersController.php:282
+msgid "Viet Nam"
+msgstr ""
+
+#: Controller/MembersController.php:301;321
+msgid "Member Unapproved"
+msgstr ""
+
+#: Controller/MembersController.php:320
+msgid "Vip"
+msgstr ""
+
+#: Controller/MembersController.php:320
+msgid "Member Default"
+msgstr ""
+
+#: Controller/NeedsController.php:52;77
+msgid "The need has been saved."
+msgstr ""
+
+#: Controller/NeedsController.php:55;80
+msgid "The need could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NeedsController.php:99
+msgid "The need has been deleted."
+msgstr ""
+
+#: Controller/NeedsController.php:101
+msgid "The need could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:52;77
+msgid "The news category has been saved."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:55;80
+msgid "The news category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:99
+msgid "The news category has been deleted."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:101
+msgid "The news category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/NewsController.php:55;83
+msgid "The news has been saved."
+msgstr ""
+
+#: Controller/NewsController.php:58;86
+msgid "The news could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NewsController.php:108
+msgid "The news has been deleted."
+msgstr ""
+
+#: Controller/NewsController.php:110
+msgid "The news could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ProductionsController.php:92
+msgid "The production has been saved."
+msgstr ""
+
+#: Controller/ProductionsController.php:95
+msgid "The production could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ProductionsController.php:118
+msgid "The production has been deleted."
+msgstr ""
+
+#: Controller/ProductionsController.php:120
+msgid "The production could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TitlesController.php:52;77
+msgid "The title has been saved."
+msgstr ""
+
+#: Controller/TitlesController.php:55;80
+msgid "The title could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TitlesController.php:99
+msgid "The title has been deleted."
+msgstr ""
+
+#: Controller/TitlesController.php:101
+msgid "The title could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TopListInquiriesController.php:52;77
+msgid "The top list inquiry has been saved."
+msgstr ""
+
+#: Controller/TopListInquiriesController.php:55;80
+msgid "The top list inquiry could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TopListInquiriesController.php:99
+msgid "The top list inquiry has been deleted."
+msgstr ""
+
+#: Controller/TopListInquiriesController.php:101
+msgid "The top list inquiry could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TypeBusinessController.php:52;77
+msgid "The type busines has been saved."
+msgstr ""
+
+#: Controller/TypeBusinessController.php:55;80
+msgid "The type busines could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TypeBusinessController.php:99
+msgid "The type busines has been deleted."
+msgstr ""
+
+#: Controller/TypeBusinessController.php:101
+msgid "The type busines could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TypeCompaniesController.php:55;80
+msgid "The type company has been saved."
+msgstr ""
+
+#: Controller/TypeCompaniesController.php:58;83
+msgid "The type company could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TypeCompaniesController.php:102
+msgid "The type company has been deleted."
+msgstr ""
+
+#: Controller/TypeCompaniesController.php:104
+msgid "The type company could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:65;117
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:70;120
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:92
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:94
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:142
+msgid "The current password incorrect"
+msgstr ""
+
+#: Controller/UsersController.php:148
+msgid "The password has been changed."
+msgstr ""
+
+#: Controller/UsersController.php:151
+msgid "The user could not be changed. Please, try again."
+msgstr ""
+
+#: Template/tmp_add.ctp:1
+#: Template/tmp_list.ctp:1
+msgid "Sytem"
+msgstr ""
+
+#: Template/tmp_add.ctp:6
+#: Template/tmp_list.ctp:6
+#: Template/Users/add.ctp:2;7
+#: Template/Users/change_password.ctp:6
+#: Template/Users/index.ctp:4;10
+#: Template/Users/profile.ctp:2;7
+#: Template/Users/view.ctp:3;9
+msgid "System"
+msgstr ""
+
+#: Template/tmp_add.ctp:6
+#: Template/tmp_list.ctp:6;19
+msgid "List of static pages"
+msgstr ""
+
+#: Template/tmp_add.ctp:17
+msgid "Edit static page"
+msgstr ""
+
+#: Template/tmp_add.ctp:26
+#: Template/tmp_list.ctp:44
+#: Template/Comments/add.ctp:36;37
+#: Template/Comments/edit.ctp:36;37
+#: Template/Comments/view.ctp:42
+#: Template/CompanyInquiries/edit.ctp:44
+#: Template/CompanyInquiries/index.ctp:50
+#: Template/CompanyInquiries/view.ctp:58
+#: Template/Inquiries/add.ctp:38;40;42;44;46;48
+#: Template/Inquiries/edit.ctp:38;40;42;44;46;48
+#: Template/Inquiries/index.ctp:55;56;57
+#: Template/Titles/index.ctp:6
+#: Template/TopListInquiries/add.ctp:36;40;46
+#: Template/TopListInquiries/edit.ctp:36;40;46
+#: Template/TopListInquiries/view.ctp:42;46;50
+msgid "Title"
+msgstr ""
+
+#: Template/tmp_add.ctp:32
+#: Template/Activities/add.ctp:46;48;50;52;54;56
+#: Template/Activities/edit.ctp:46;48;50;52;54;56
+#: Template/Advertisements/add.ctp:55
+#: Template/Advertisements/edit.ctp:55
+#: Template/Advertisements/view.ctp:50
+#: Template/Comments/add.ctp:65
+#: Template/Comments/edit.ctp:65
+#: Template/Comments/view.ctp:66
+#: Template/CompanyInquiries/edit.ctp:53
+#: Template/Inquiries/add.ctp:101;105;109
+#: Template/Inquiries/edit.ctp:101;105;109
+#: Template/News/add.ctp:58;62;66
+#: Template/News/edit.ctp:58;62;66
+msgid "Content"
+msgstr ""
+
+#: Template/tmp_add.ctp:40
+#: Template/Activities/add.ctp:106
+#: Template/Activities/edit.ctp:105
+#: Template/ActivityCategories/add.ctp:54
+#: Template/ActivityCategories/edit.ctp:54
+#: Template/Advertisements/add.ctp:69
+#: Template/Advertisements/edit.ctp:69
+#: Template/Bake/Element/form.ctp:92
+#: Template/Banners/add.ctp:61
+#: Template/Banners/edit.ctp:61
+#: Template/Comments/add.ctp:72
+#: Template/Comments/edit.ctp:72
+#: Template/CompanyInquiries/edit.ctp:86
+#: Template/Cooperations/add.ctp:46
+#: Template/Cooperations/edit.ctp:46
+#: Template/HomeMenus/add.ctp:73
+#: Template/HomeMenus/edit.ctp:73
+#: Template/Inquiries/add.ctp:117
+#: Template/Inquiries/edit.ctp:117
+#: Template/Members/add.ctp:344
+#: Template/Members/edit.ctp:341
+#: Template/Needs/add.ctp:46
+#: Template/Needs/edit.ctp:46
+#: Template/News/add.ctp:109
+#: Template/News/edit.ctp:109
+#: Template/NewsCategories/add.ctp:53
+#: Template/NewsCategories/edit.ctp:53
+#: Template/Productions/add.ctp:67
+#: Template/Productions/edit.ctp:92
+#: Template/Titles/add.ctp:53
+#: Template/Titles/edit.ctp:53
+#: Template/TopListInquiries/add.ctp:69
+#: Template/TopListInquiries/edit.ctp:65
+#: Template/TypeBusiness/add.ctp:53
+#: Template/TypeBusiness/edit.ctp:53
+#: Template/TypeCompanies/add.ctp:53
+#: Template/TypeCompanies/edit.ctp:53
+#: Template/Users/add.ctp:141
+#: Template/Users/change_password.ctp:64
+#: Template/Users/profile.ctp:66
+msgid "Submit"
+msgstr ""
+
+#: Template/tmp_add.ctp:41
+msgid "Back"
+msgstr ""
+
+#: Template/tmp_list.ctp:38
+msgid "Filter Title"
+msgstr ""
+
+#: Template/tmp_list.ctp:45
+#: Template/Activities/index.ctp:59
+#: Template/ActivityCategories/index.ctp:57
+#: Template/Advertisements/index.ctp:55
+#: Template/Bake/Template/index.ctp:60
+#: Template/Banners/index.ctp:59
+#: Template/Comments/index.ctp:57
+#: Template/CompanyInquiries/index.ctp:53
+#: Template/Cooperations/index.ctp:55
+#: Template/HomeMenus/index.ctp:59
+#: Template/Inquiries/index.ctp:61
+#: Template/Members/index.ctp:59
+#: Template/Needs/index.ctp:55
+#: Template/News/index.ctp:57
+#: Template/NewsCategories/index.ctp:57
+#: Template/Productions/index.ctp:56
+#: Template/Titles/index.ctp:59
+#: Template/TopListInquiries/index.ctp:57
+#: Template/TypeBusiness/index.ctp:59
+#: Template/TypeCompanies/index.ctp:59
+msgid "Actions"
+msgstr ""
+
+#: Template/tmp_list.ctp:54
+#: Template/Activities/index.ctp:75
+#: Template/ActivityCategories/index.ctp:70
+#: Template/Advertisements/index.ctp:67
+#: Template/Bake/Template/index.ctp:97
+#: Template/Banners/index.ctp:73
+#: Template/Comments/index.ctp:70
+#: Template/CompanyInquiries/index.ctp:66
+#: Template/Cooperations/index.ctp:67
+#: Template/Element/link_action.ctp:3
+#: Template/HomeMenus/index.ctp:99
+#: Template/Inquiries/index.ctp:79
+#: Template/Members/index.ctp:74
+#: Template/Needs/index.ctp:67
+#: Template/News/index.ctp:70
+#: Template/NewsCategories/index.ctp:70
+#: Template/Productions/index.ctp:73
+#: Template/Titles/index.ctp:73
+#: Template/TopListInquiries/index.ctp:70
+#: Template/TypeBusiness/index.ctp:73
+#: Template/TypeCompanies/index.ctp:73
+msgid "View"
+msgstr ""
+
+#: Template/tmp_list.ctp:55
+#: Template/Activities/index.ctp:76
+#: Template/Activities/view.ctp:113
+#: Template/ActivityCategories/index.ctp:71
+#: Template/ActivityCategories/view.ctp:72
+#: Template/Advertisements/index.ctp:68
+#: Template/Advertisements/view.ctp:76
+#: Template/Bake/Template/index.ctp:98
+#: Template/Bake/Template/view.ctp:60
+#: Template/Banners/index.ctp:74
+#: Template/Banners/view.ctp:76
+#: Template/Comments/index.ctp:71
+#: Template/Comments/view.ctp:88
+#: Template/CompanyInquiries/index.ctp:67
+#: Template/CompanyInquiries/view.ctp:91
+#: Template/Cooperations/index.ctp:68
+#: Template/Cooperations/view.ctp:64
+#: Template/Element/link_action.ctp:6
+#: Template/HomeMenus/index.ctp:100
+#: Template/HomeMenus/view.ctp:80
+#: Template/Inquiries/index.ctp:80
+#: Template/Inquiries/view.ctp:132
+#: Template/Members/index.ctp:75
+#: Template/Members/view.ctp:242
+#: Template/Needs/index.ctp:68
+#: Template/Needs/view.ctp:64
+#: Template/News/index.ctp:71
+#: Template/News/view.ctp:113
+#: Template/NewsCategories/index.ctp:71
+#: Template/NewsCategories/view.ctp:68
+#: Template/Productions/index.ctp:74
+#: Template/Productions/view.ctp:95
+#: Template/Titles/index.ctp:74
+#: Template/Titles/view.ctp:72
+#: Template/TopListInquiries/index.ctp:71
+#: Template/TopListInquiries/view.ctp:76
+#: Template/TypeBusiness/index.ctp:74
+#: Template/TypeBusiness/view.ctp:72
+#: Template/TypeCompanies/index.ctp:74
+#: Template/TypeCompanies/view.ctp:72
+#: Template/Users/view.ctp:76
+msgid "Edit"
+msgstr ""
+
+#: Template/tmp_list.ctp:56
+msgid "Delete"
+msgstr ""
+
+#: Template/tmp_list.ctp:56
+#: Template/Activities/index.ctp:77
+#: Template/ActivityCategories/index.ctp:72
+#: Template/Advertisements/index.ctp:69
+#: Template/Bake/Template/index.ctp:99
+#: Template/Banners/index.ctp:75
+#: Template/Comments/index.ctp:72
+#: Template/CompanyInquiries/index.ctp:68
+#: Template/Cooperations/index.ctp:69
+#: Template/Element/link_action.ctp:8
+#: Template/HomeMenus/index.ctp:101
+#: Template/Inquiries/index.ctp:81
+#: Template/Members/index.ctp:76
+#: Template/Needs/index.ctp:69
+#: Template/News/index.ctp:72
+#: Template/NewsCategories/index.ctp:72
+#: Template/Productions/index.ctp:75
+#: Template/Titles/index.ctp:75
+#: Template/TopListInquiries/index.ctp:72
+#: Template/TypeBusiness/index.ctp:75
+#: Template/TypeCompanies/index.ctp:75
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Activities/add.ctp:1;6
+#: Template/Activities/edit.ctp:1;6
+#: Template/Activities/index.ctp:1
+#: Template/Activities/view.ctp:2;7
+msgid "Activities"
+msgstr ""
+
+#: Template/Activities/add.ctp:8
+#: Template/Activities/edit.ctp:8
+#: Template/Activities/index.ctp:8;28
+#: Template/Activities/view.ctp:9
+msgid "List of Activity"
+msgstr ""
+
+#: Template/Activities/add.ctp:24;32
+msgid "Add Activity"
+msgstr ""
+
+#: Template/Activities/add.ctp:34;36;38;40;42;44
+#: Template/Activities/edit.ctp:34;36;38;40;42;44
+#: Template/Activities/view.ctp:42;46;50
+#: Template/ActivityCategories/add.ctp:34;38;42
+#: Template/ActivityCategories/edit.ctp:34;38;42
+#: Template/ActivityCategories/view.ctp:42;46;50
+#: Template/Advertisements/add.ctp:34;38;42
+#: Template/Advertisements/edit.ctp:34;38;42
+#: Template/Advertisements/index.ctp:51
+#: Template/Advertisements/view.ctp:42
+#: Template/Cooperations/add.ctp:34
+#: Template/Cooperations/edit.ctp:34
+#: Template/Cooperations/view.ctp:42
+#: Template/HomeMenus/add.ctp:35;39;43
+#: Template/HomeMenus/edit.ctp:35;39;43
+#: Template/HomeMenus/index.ctp:53
+#: Template/HomeMenus/view.ctp:42
+#: Template/Needs/add.ctp:34
+#: Template/Needs/edit.ctp:34
+#: Template/Needs/index.ctp:51
+#: Template/Needs/view.ctp:42
+#: Template/News/add.ctp:34;38;42
+#: Template/News/edit.ctp:34;38;42
+#: Template/News/view.ctp:42;46;50
+#: Template/NewsCategories/add.ctp:34;38;42
+#: Template/NewsCategories/edit.ctp:34;38;42
+#: Template/NewsCategories/index.ctp:52;53;54
+#: Template/NewsCategories/view.ctp:42;46;50
+#: Template/Productions/index.ctp:51
+#: Template/Productions/view.ctp:49
+#: Template/Titles/add.ctp:34;38;42
+#: Template/Titles/edit.ctp:34;38;42
+#: Template/Titles/index.ctp:53;54;55
+#: Template/Titles/view.ctp:42;46;50
+#: Template/Users/index.ctp:67
+#: Template/Users/view.ctp:53
+msgid "Name"
+msgstr ""
+
+#: Template/Activities/add.ctp:58
+#: Template/Activities/edit.ctp:58
+#: Template/Activities/view.ctp:55
+#: Template/Banners/add.ctp:34
+#: Template/Banners/edit.ctp:34
+#: Template/Banners/view.ctp:42
+#: Template/CompanyInquiries/edit.ctp:62
+#: Template/CompanyInquiries/view.ctp:46
+#: Template/Inquiries/add.ctp:50
+#: Template/Inquiries/edit.ctp:50
+#: Template/Inquiries/view.ctp:66
+#: Template/News/add.ctp:78
+#: Template/News/edit.ctp:78
+#: Template/News/view.ctp:75
+#: Template/Productions/edit.ctp:73
+#: Template/Productions/index.ctp:47
+#: Template/Productions/view.ctp:69
+msgid "Image"
+msgstr ""
+
+#: Template/Activities/add.ctp:60
+#: Template/Activities/edit.ctp:60
+#: Template/Activities/index.ctp:53
+#: Template/Banners/add.ctp:36
+#: Template/Banners/edit.ctp:36
+#: Template/Banners/index.ctp:53
+#: Template/CompanyInquiries/edit.ctp:63
+#: Template/CompanyInquiries/index.ctp:48
+#: Template/Inquiries/add.ctp:52
+#: Template/Inquiries/edit.ctp:52
+#: Template/Inquiries/index.ctp:54
+#: Template/News/index.ctp:52
+#: Template/Productions/add.ctp:56
+#: Template/Productions/edit.ctp:74
+msgid "image"
+msgstr ""
+
+#: Template/Activities/add.ctp:62
+#: Template/Activities/edit.ctp:62
+#: Template/ActivityCategories/index.ctp:6
+msgid "Activity Category"
+msgstr ""
+
+#: Template/Activities/add.ctp:64
+#: Template/Activities/edit.ctp:64
+#: Template/News/add.ctp:72
+#: Template/News/edit.ctp:72
+msgid "Select Category"
+msgstr ""
+
+#: Template/Activities/add.ctp:64
+#: Template/Activities/edit.ctp:64
+msgid "category"
+msgstr ""
+
+#: Template/Activities/add.ctp:66;70;74
+#: Template/Activities/edit.ctp:66;70;74
+#: Template/Activities/view.ctp:63;67;71
+#: Template/CompanyInquiries/view.ctp:62
+#: Template/Inquiries/add.ctp:65;67;69;71;73;75
+#: Template/Inquiries/edit.ctp:65;67;69;71;73;75
+#: Template/News/add.ctp:46;50;54
+#: Template/News/edit.ctp:46;50;54
+#: Template/News/view.ctp:54;59;63
+#: Template/Productions/edit.ctp:85
+#: Template/Productions/view.ctp:73
+msgid "Description"
+msgstr ""
+
+#: Template/Activities/add.ctp:68;72;76
+#: Template/Activities/edit.ctp:68;72;76
+#: Template/Activities/index.ctp:58
+#: Template/CompanyInquiries/edit.ctp:50
+#: Template/Productions/add.ctp:59
+#: Template/Productions/edit.ctp:86
+msgid "description"
+msgstr ""
+
+#: Template/Activities/add.ctp:78;82;86
+#: Template/Activities/edit.ctp:78;82;86
+#: Template/Activities/view.ctp:75;79;83
+#: Template/Productions/edit.ctp:58
+#: Template/Productions/view.ctp:57
+msgid "Short Description"
+msgstr ""
+
+#: Template/Activities/add.ctp:80;84;88
+#: Template/Activities/edit.ctp:80;84;88
+msgid "short description"
+msgstr ""
+
+#: Template/Activities/add.ctp:90
+#: Template/Activities/edit.ctp:90
+#: Template/Activities/view.ctp:87
+#: Template/News/add.ctp:98
+#: Template/News/edit.ctp:98
+#: Template/News/view.ctp:91
+msgid "New"
+msgstr ""
+
+#: Template/Activities/add.ctp:92
+#: Template/Activities/edit.ctp:92
+msgid "new"
+msgstr ""
+
+#: Template/Activities/add.ctp:94
+#: Template/Activities/edit.ctp:94
+#: Template/Activities/view.ctp:91
+#: Template/ActivityCategories/add.ctp:46
+#: Template/ActivityCategories/edit.ctp:46
+#: Template/ActivityCategories/view.ctp:54
+#: Template/Advertisements/add.ctp:61
+#: Template/Advertisements/edit.ctp:61
+#: Template/Advertisements/index.ctp:54
+#: Template/Advertisements/view.ctp:58
+#: Template/Banners/add.ctp:50
+#: Template/Banners/edit.ctp:50
+#: Template/Banners/view.ctp:58
+#: Template/Comments/add.ctp:56
+#: Template/Comments/edit.ctp:56
+#: Template/CompanyInquiries/edit.ctp:69
+#: Template/CompanyInquiries/view.ctp:68
+#: Template/Cooperations/add.ctp:38
+#: Template/Cooperations/edit.ctp:38
+#: Template/Cooperations/view.ctp:46
+#: Template/HomeMenus/add.ctp:63
+#: Template/HomeMenus/edit.ctp:63
+#: Template/HomeMenus/view.ctp:62
+#: Template/Inquiries/add.ctp:97
+#: Template/Inquiries/edit.ctp:97
+#: Template/Inquiries/index.ctp:60
+#: Template/Inquiries/view.ctp:110
+#: Template/Members/add.ctp:177;178
+#: Template/Members/edit.ctp:176;177
+#: Template/Members/view.ctp:202
+#: Template/Needs/add.ctp:38
+#: Template/Needs/edit.ctp:38
+#: Template/Needs/index.ctp:52
+#: Template/Needs/view.ctp:46
+#: Template/News/view.ctp:79
+#: Template/Productions/edit.ctp:80
+#: Template/Productions/index.ctp:54
+#: Template/Productions/view.ctp:77
+#: Template/TopListInquiries/add.ctp:57
+#: Template/TopListInquiries/edit.ctp:57
+#: Template/TopListInquiries/view.ctp:58
+#: Template/Users/add.ctp:95;96
+#: Template/Users/index.ctp:69
+#: Template/Users/view.ctp:61
+msgid "Status"
+msgstr ""
+
+#: Template/Activities/add.ctp:96
+#: Template/Activities/edit.ctp:96
+#: Template/ActivityCategories/add.ctp:48
+#: Template/ActivityCategories/edit.ctp:48
+#: Template/ActivityCategories/index.ctp:55
+#: Template/Advertisements/add.ctp:63
+#: Template/Advertisements/edit.ctp:63
+#: Template/Banners/add.ctp:52
+#: Template/Banners/edit.ctp:52
+#: Template/Banners/index.ctp:57
+#: Template/CompanyInquiries/edit.ctp:70
+#: Template/CompanyInquiries/index.ctp:52
+#: Template/Cooperations/add.ctp:40
+#: Template/Cooperations/edit.ctp:40
+#: Template/Cooperations/index.ctp:52
+#: Template/HomeMenus/add.ctp:64
+#: Template/HomeMenus/edit.ctp:64
+#: Template/HomeMenus/index.ctp:58
+#: Template/Inquiries/add.ctp:99
+#: Template/Inquiries/edit.ctp:99
+#: Template/Needs/add.ctp:40
+#: Template/Needs/edit.ctp:40
+#: Template/News/index.ctp:54
+#: Template/Productions/add.ctp:62
+#: Template/Productions/edit.ctp:81
+#: Template/TopListInquiries/add.ctp:58
+#: Template/TopListInquiries/edit.ctp:58
+#: Template/TopListInquiries/index.ctp:54
+msgid "status"
+msgstr ""
+
+#: Template/Activities/add.ctp:98
+#: Template/Activities/edit.ctp:98
+#: Template/Activities/view.ctp:95
+#: Template/Inquiries/add.ctp:85;87
+#: Template/Inquiries/edit.ctp:85;87
+#: Template/Inquiries/view.ctp:98
+#: Template/Members/add.ctp:184;185
+#: Template/Members/edit.ctp:183;184
+#: Template/News/add.ctp:102
+#: Template/News/edit.ctp:102
+#: Template/News/view.ctp:95
+msgid "Total View"
+msgstr ""
+
+#: Template/Activities/add.ctp:100
+#: Template/Activities/edit.ctp:100
+#: Template/News/add.ctp:104
+#: Template/News/edit.ctp:104
+msgid "total view"
+msgstr ""
+
+#: Template/Activities/edit.ctp:24;32
+msgid "Edit Activity"
+msgstr ""
+
+#: Template/Activities/index.ctp:6
+msgid "Activity"
+msgstr ""
+
+#: Template/Activities/index.ctp:15
+msgid "New Activity"
+msgstr ""
+
+#: Template/Activities/index.ctp:52
+#: Template/ActivityCategories/index.ctp:51
+#: Template/Banners/index.ctp:52
+#: Template/Comments/index.ctp:51
+#: Template/Cooperations/index.ctp:50
+#: Template/Inquiries/index.ctp:53
+#: Template/Needs/index.ctp:50
+#: Template/News/index.ctp:51
+#: Template/NewsCategories/index.ctp:51
+#: Template/TopListInquiries/index.ctp:51
+#: Template/TypeBusiness/index.ctp:52
+#: Template/TypeCompanies/index.ctp:52
+msgid "id"
+msgstr ""
+
+#: Template/Activities/index.ctp:54
+#: Template/ActivityCategories/add.ctp:36
+#: Template/ActivityCategories/edit.ctp:36
+#: Template/ActivityCategories/index.ctp:52
+#: Template/News/index.ctp:53
+#: Template/NewsCategories/add.ctp:36
+#: Template/NewsCategories/edit.ctp:36
+#: Template/Titles/add.ctp:36
+#: Template/Titles/edit.ctp:36
+msgid "name_vie"
+msgstr ""
+
+#: Template/Activities/index.ctp:55
+#: Template/ActivityCategories/add.ctp:40
+#: Template/ActivityCategories/edit.ctp:40
+#: Template/ActivityCategories/index.ctp:53
+#: Template/NewsCategories/add.ctp:40
+#: Template/NewsCategories/edit.ctp:40
+#: Template/Titles/add.ctp:40
+#: Template/Titles/edit.ctp:40
+msgid "name_eng"
+msgstr ""
+
+#: Template/Activities/index.ctp:56
+#: Template/ActivityCategories/add.ctp:44
+#: Template/ActivityCategories/edit.ctp:44
+#: Template/ActivityCategories/index.ctp:54
+#: Template/NewsCategories/add.ctp:44
+#: Template/NewsCategories/edit.ctp:44
+#: Template/Titles/add.ctp:44
+#: Template/Titles/edit.ctp:44
+msgid "name_jpn"
+msgstr ""
+
+#: Template/Activities/index.ctp:57
+msgid "activity_category_id"
+msgstr ""
+
+#: Template/Activities/view.ctp:38
+#: Template/ActivityCategories/view.ctp:38
+#: Template/Advertisements/index.ctp:50
+#: Template/Advertisements/view.ctp:38
+#: Template/Banners/view.ctp:38
+#: Template/Comments/view.ctp:38
+#: Template/CompanyInquiries/index.ctp:47
+#: Template/CompanyInquiries/view.ctp:38
+#: Template/Cooperations/view.ctp:38
+#: Template/HomeMenus/index.ctp:52
+#: Template/HomeMenus/view.ctp:38
+#: Template/Inquiries/view.ctp:38
+#: Template/Members/index.ctp:52
+#: Template/Members/view.ctp:38
+#: Template/Needs/view.ctp:38
+#: Template/News/view.ctp:38
+#: Template/NewsCategories/view.ctp:38
+#: Template/Productions/view.ctp:37
+#: Template/Titles/index.ctp:52
+#: Template/Titles/view.ctp:38
+#: Template/TopListInquiries/view.ctp:38
+#: Template/TypeBusiness/view.ctp:38
+#: Template/TypeCompanies/view.ctp:38
+msgid "Id"
+msgstr ""
+
+#: Template/Activities/view.ctp:59
+msgid "Activity Category Id"
+msgstr ""
+
+#: Template/Activities/view.ctp:88;92
+#: Template/ActivityCategories/index.ctp:67
+#: Template/ActivityCategories/view.ctp:55
+#: Template/Advertisements/index.ctp:65
+#: Template/Advertisements/view.ctp:59
+#: Template/Banners/index.ctp:70
+#: Template/Banners/view.ctp:59
+#: Template/News/index.ctp:66
+#: Template/News/view.ctp:80;92
+msgid "Yes"
+msgstr ""
+
+#: Template/Activities/view.ctp:88;92
+#: Template/ActivityCategories/index.ctp:67
+#: Template/ActivityCategories/view.ctp:55
+#: Template/Advertisements/index.ctp:65
+#: Template/Advertisements/view.ctp:59
+#: Template/Banners/index.ctp:70
+#: Template/Banners/view.ctp:59
+#: Template/News/index.ctp:66
+#: Template/News/view.ctp:80;92
+msgid "No"
+msgstr ""
+
+#: Template/Activities/view.ctp:99
+#: Template/ActivityCategories/view.ctp:58
+#: Template/Advertisements/view.ctp:62
+#: Template/Banners/view.ctp:62
+#: Template/Comments/view.ctp:74
+#: Template/CompanyInquiries/view.ctp:77
+#: Template/Cooperations/view.ctp:50
+#: Template/HomeMenus/view.ctp:66
+#: Template/Inquiries/view.ctp:118
+#: Template/Needs/view.ctp:50
+#: Template/News/view.ctp:99
+#: Template/NewsCategories/view.ctp:54
+#: Template/Productions/view.ctp:81
+#: Template/Titles/index.ctp:57
+#: Template/Titles/view.ctp:58
+#: Template/TopListInquiries/view.ctp:62
+#: Template/TypeBusiness/view.ctp:58
+#: Template/TypeCompanies/index.ctp:57
+#: Template/TypeCompanies/view.ctp:58
+#: Template/Users/view.ctp:65
+msgid "Created"
+msgstr ""
+
+#: Template/Activities/view.ctp:103
+#: Template/ActivityCategories/view.ctp:62
+#: Template/Advertisements/view.ctp:66
+#: Template/Banners/view.ctp:66
+#: Template/Comments/view.ctp:78
+#: Template/CompanyInquiries/view.ctp:81
+#: Template/Cooperations/view.ctp:54
+#: Template/HomeMenus/view.ctp:70
+#: Template/Inquiries/view.ctp:122
+#: Template/Needs/view.ctp:54
+#: Template/News/view.ctp:103
+#: Template/NewsCategories/view.ctp:58
+#: Template/Productions/index.ctp:55
+#: Template/Productions/view.ctp:85
+#: Template/Titles/index.ctp:58
+#: Template/Titles/view.ctp:62
+#: Template/TopListInquiries/view.ctp:66
+#: Template/TypeBusiness/view.ctp:62
+#: Template/TypeCompanies/index.ctp:58
+#: Template/TypeCompanies/view.ctp:62
+msgid "Modified"
+msgstr ""
+
+#: Template/Activities/view.ctp:112
+#: Template/ActivityCategories/view.ctp:71
+#: Template/Advertisements/view.ctp:75
+#: Template/Bake/Template/view.ctp:59
+#: Template/Banners/view.ctp:75
+#: Template/Comments/view.ctp:87
+#: Template/CompanyInquiries/view.ctp:90
+#: Template/Cooperations/view.ctp:63
+#: Template/HomeMenus/view.ctp:79
+#: Template/Inquiries/view.ctp:131
+#: Template/Members/view.ctp:241
+#: Template/Needs/view.ctp:63
+#: Template/News/view.ctp:112
+#: Template/NewsCategories/view.ctp:67
+#: Template/Productions/view.ctp:94
+#: Template/Titles/view.ctp:71
+#: Template/TopListInquiries/view.ctp:75
+#: Template/TypeBusiness/view.ctp:71
+#: Template/TypeCompanies/view.ctp:71
+#: Template/Users/view.ctp:75
+msgid "Cancel"
+msgstr ""
+
+#: Template/ActivityCategories/add.ctp:1;6
+#: Template/ActivityCategories/edit.ctp:1;6
+#: Template/ActivityCategories/index.ctp:1
+#: Template/ActivityCategories/view.ctp:2;7
+msgid "Activity Categories"
+msgstr ""
+
+#: Template/ActivityCategories/add.ctp:8
+#: Template/ActivityCategories/edit.ctp:8
+#: Template/ActivityCategories/index.ctp:8;28
+#: Template/ActivityCategories/view.ctp:9
+msgid "List of Activity Category"
+msgstr ""
+
+#: Template/ActivityCategories/add.ctp:24;32
+msgid "Add Activity Category"
+msgstr ""
+
+#: Template/ActivityCategories/edit.ctp:24;32
+msgid "Edit Activity Category"
+msgstr ""
+
+#: Template/ActivityCategories/index.ctp:15
+msgid "New Activity Category"
+msgstr ""
+
+#: Template/ActivityCategories/index.ctp:56
+#: Template/Banners/index.ctp:58
+#: Template/Cooperations/index.ctp:53
+#: Template/Needs/index.ctp:53
+#: Template/NewsCategories/index.ctp:55
+#: Template/TopListInquiries/index.ctp:55
+#: Template/TypeBusiness/index.ctp:57
+msgid "created"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:1;6
+#: Template/Advertisements/edit.ctp:1;6
+#: Template/Advertisements/index.ctp:1
+#: Template/Advertisements/view.ctp:2;7
+msgid "Advertisements"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:8
+#: Template/Advertisements/edit.ctp:8
+#: Template/Advertisements/index.ctp:8;28
+#: Template/Advertisements/view.ctp:9
+msgid "List of Advertisement"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:24;32
+msgid "Add Advertisement"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:36;40;44
+#: Template/Advertisements/edit.ctp:36;40;44
+#: Template/Comments/add.ctp:66
+#: Template/Comments/edit.ctp:66
+#: Template/CompanyInquiries/edit.ctp:54
+msgid "content"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:46
+#: Template/Advertisements/edit.ctp:46
+#: Template/Advertisements/index.ctp:52
+#: Template/Advertisements/view.ctp:46
+#: Template/Banners/add.ctp:46
+#: Template/Banners/edit.ctp:46
+#: Template/Banners/view.ctp:54
+msgid "Position"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:48
+#: Template/Advertisements/edit.ctp:48
+#: Template/Banners/add.ctp:48
+#: Template/Banners/edit.ctp:48
+msgid "Select Position"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:48
+#: Template/Advertisements/edit.ctp:48
+#: Template/Banners/add.ctp:48
+#: Template/Banners/edit.ctp:48
+#: Template/Banners/index.ctp:56
+msgid "position"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:50;52
+#: Template/Advertisements/edit.ctp:50;52
+#: Template/Advertisements/index.ctp:53
+#: Template/Advertisements/view.ctp:54
+#: Template/Comments/add.ctp:60
+#: Template/Comments/edit.ctp:60
+#: Template/Comments/view.ctp:62
+#: Template/CompanyInquiries/edit.ctp:73
+#: Template/CompanyInquiries/view.ctp:73
+#: Template/HomeMenus/add.ctp:59
+#: Template/HomeMenus/edit.ctp:59
+#: Template/HomeMenus/view.ctp:58
+#: Template/Inquiries/view.ctp:114
+#: Template/Members/add.ctp:173;174
+#: Template/Members/edit.ctp:172;173
+#: Template/Members/view.ctp:197
+#: Template/Titles/add.ctp:46
+#: Template/Titles/edit.ctp:46
+#: Template/Titles/index.ctp:56
+#: Template/Titles/view.ctp:54
+#: Template/TypeBusiness/view.ctp:54
+#: Template/TypeCompanies/add.ctp:46
+#: Template/TypeCompanies/edit.ctp:46
+#: Template/TypeCompanies/index.ctp:56
+#: Template/TypeCompanies/view.ctp:54
+msgid "Order"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:57
+#: Template/Advertisements/edit.ctp:57
+#: Template/Banners/add.ctp:40
+#: Template/Banners/edit.ctp:40
+#: Template/Banners/index.ctp:54
+#: Template/TopListInquiries/add.ctp:51
+#: Template/TopListInquiries/edit.ctp:51
+#: Template/TopListInquiries/index.ctp:53
+msgid "url"
+msgstr ""
+
+#: Template/Advertisements/edit.ctp:24;32
+msgid "Edit Advertisement"
+msgstr ""
+
+#: Template/Advertisements/index.ctp:6
+msgid "Advertisement"
+msgstr ""
+
+#: Template/Advertisements/index.ctp:15
+msgid "New Advertisement"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:9;14
+#: Template/Bake/Template/index.ctp:10
+#: Template/Bake/Template/view.ctp:12;17
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:16
+#: Template/Bake/Template/index.ctp:17;37
+#: Template/Bake/Template/view.ctp:19
+msgid "List of <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:32;40
+msgid "<%= Inflector::humanize($action) %> <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:54;58;67;71;83
+#: Template/Bake/Template/index.ctp:58
+msgid "<%= $field %>"
+msgstr ""
+
+#: Template/Bake/Template/index.ctp:15
+msgid "<%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Template/index.ctp:24
+msgid "New <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Template/view.ctp:49
+msgid "<%= Inflector::humanize($field) %>"
+msgstr ""
+
+#: Template/Banners/add.ctp:1;6
+#: Template/Banners/edit.ctp:1;6
+#: Template/Banners/index.ctp:1
+#: Template/Banners/view.ctp:2;7
+msgid "Banners"
+msgstr ""
+
+#: Template/Banners/add.ctp:8
+#: Template/Banners/edit.ctp:8
+#: Template/Banners/index.ctp:8;28
+#: Template/Banners/view.ctp:9
+msgid "List of Banner"
+msgstr ""
+
+#: Template/Banners/add.ctp:24;32
+msgid "Add Banner"
+msgstr ""
+
+#: Template/Banners/add.ctp:38
+#: Template/Banners/edit.ctp:38
+#: Template/Banners/view.ctp:46
+#: Template/TopListInquiries/add.ctp:50
+#: Template/TopListInquiries/edit.ctp:50
+#: Template/TopListInquiries/view.ctp:54
+msgid "Url"
+msgstr ""
+
+#: Template/Banners/add.ctp:42
+#: Template/Banners/edit.ctp:42
+#: Template/Banners/view.ctp:50
+msgid "Text"
+msgstr ""
+
+#: Template/Banners/add.ctp:44
+#: Template/Banners/edit.ctp:44
+#: Template/Banners/index.ctp:55
+msgid "text"
+msgstr ""
+
+#: Template/Banners/edit.ctp:24;32
+msgid "Edit Banner"
+msgstr ""
+
+#: Template/Banners/index.ctp:6
+msgid "Banner"
+msgstr ""
+
+#: Template/Banners/index.ctp:15
+msgid "New Banner"
+msgstr ""
+
+#: Template/Comments/add.ctp:1;6
+#: Template/Comments/edit.ctp:1;6
+#: Template/Comments/index.ctp:1
+#: Template/Comments/view.ctp:2;7
+msgid "Comments"
+msgstr ""
+
+#: Template/Comments/add.ctp:8
+#: Template/Comments/edit.ctp:8
+#: Template/Comments/index.ctp:8;28
+#: Template/Comments/view.ctp:9
+msgid "List of Comment"
+msgstr ""
+
+#: Template/Comments/add.ctp:24;32
+msgid "Add Comment"
+msgstr ""
+
+#: Template/Comments/add.ctp:40;41
+#: Template/Comments/edit.ctp:40;41
+#: Template/Comments/view.ctp:46
+msgid "Author"
+msgstr ""
+
+#: Template/Comments/add.ctp:46;47
+#: Template/Comments/edit.ctp:46;47
+#: Template/Comments/view.ctp:50
+msgid "Author Info"
+msgstr ""
+
+#: Template/Comments/add.ctp:50
+#: Template/Comments/edit.ctp:50
+#: Template/Comments/view.ctp:58
+msgid "Date"
+msgstr ""
+
+#: Template/Comments/add.ctp:51
+#: Template/Comments/edit.ctp:51
+#: Template/Comments/index.ctp:54
+msgid "date"
+msgstr ""
+
+#: Template/Comments/add.ctp:57
+#: Template/Comments/edit.ctp:57
+#: Template/CompanyInquiries/edit.ctp:70
+#: Template/Cooperations/add.ctp:40
+#: Template/Cooperations/edit.ctp:40
+#: Template/Inquiries/add.ctp:99
+#: Template/Inquiries/edit.ctp:99
+#: Template/Members/add.ctp:178
+#: Template/Members/edit.ctp:177
+#: Template/Needs/add.ctp:40
+#: Template/Needs/edit.ctp:40
+#: Template/Productions/edit.ctp:81
+#: Template/TopListInquiries/add.ctp:58
+#: Template/TopListInquiries/edit.ctp:58
+msgid "Select Status"
+msgstr ""
+
+#: Template/Comments/add.ctp:57
+#: Template/Comments/edit.ctp:57
+#: Template/Comments/index.ctp:55
+msgid "active"
+msgstr ""
+
+#: Template/Comments/add.ctp:61
+#: Template/Comments/edit.ctp:61
+#: Template/Comments/index.ctp:56
+#: Template/CompanyInquiries/edit.ctp:74
+#: Template/HomeMenus/add.ctp:60
+#: Template/HomeMenus/edit.ctp:60
+#: Template/HomeMenus/index.ctp:57
+#: Template/Titles/add.ctp:48
+#: Template/Titles/edit.ctp:48
+#: Template/TypeBusiness/add.ctp:44
+#: Template/TypeBusiness/edit.ctp:44
+#: Template/TypeBusiness/index.ctp:56
+#: Template/TypeCompanies/add.ctp:48
+#: Template/TypeCompanies/edit.ctp:48
+msgid "order"
+msgstr ""
+
+#: Template/Comments/edit.ctp:24;32
+msgid "Edit Comment"
+msgstr ""
+
+#: Template/Comments/index.ctp:6
+msgid "Comment"
+msgstr ""
+
+#: Template/Comments/index.ctp:15
+msgid "New Comment"
+msgstr ""
+
+#: Template/Comments/index.ctp:52
+#: Template/CompanyInquiries/edit.ctp:45
+#: Template/TopListInquiries/add.ctp:37;41;47
+#: Template/TopListInquiries/edit.ctp:37;41;47
+#: Template/TopListInquiries/index.ctp:52
+msgid "title"
+msgstr ""
+
+#: Template/Comments/index.ctp:53
+msgid "author"
+msgstr ""
+
+#: Template/Comments/view.ctp:54
+#: Template/Users/view.ctp:45
+msgid "Avatar"
+msgstr ""
+
+#: Template/Comments/view.ctp:70
+#: Template/News/add.ctp:82
+#: Template/News/edit.ctp:82
+msgid "Active"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:1;6
+#: Template/CompanyInquiries/index.ctp:1
+#: Template/CompanyInquiries/view.ctp:2;7
+msgid "Company Inquiries"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:8
+#: Template/CompanyInquiries/index.ctp:8;24
+#: Template/CompanyInquiries/view.ctp:9
+msgid "List of Company Inquiry"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:24;32
+msgid "Edit Company Inquiry"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:40
+#: Template/CompanyInquiries/index.ctp:49
+#: Template/CompanyInquiries/view.ctp:54
+#: Template/Inquiries/add.ctp:34;36
+#: Template/Inquiries/edit.ctp:34;36
+#: Template/Members/add.ctp:47;48
+#: Template/Members/edit.ctp:46;47
+#: Template/Members/view.ctp:83
+#: Template/Productions/edit.ctp:40
+#: Template/Productions/view.ctp:45
+msgid "Industry"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:41
+#: Template/Productions/add.ctp:38
+#: Template/Productions/edit.ctp:41
+msgid "industry_code"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:49
+msgid "Descriptions"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:58
+#: Template/CompanyInquiries/view.ctp:50
+#: Template/HomeMenus/add.ctp:51
+#: Template/HomeMenus/edit.ctp:51
+#: Template/HomeMenus/index.ctp:55
+#: Template/HomeMenus/view.ctp:50
+#: Template/Inquiries/add.ctp:81
+#: Template/Inquiries/edit.ctp:81
+#: Template/Inquiries/view.ctp:94
+msgid "Type"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:59
+#: Template/HomeMenus/add.ctp:52
+#: Template/HomeMenus/edit.ctp:52
+#: Template/Inquiries/add.ctp:83
+#: Template/Inquiries/edit.ctp:83
+msgid "Select Type"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:59
+#: Template/HomeMenus/add.ctp:52
+#: Template/HomeMenus/edit.ctp:52
+#: Template/Inquiries/add.ctp:83
+#: Template/Inquiries/edit.ctp:83
+msgid "type"
+msgstr ""
+
+#: Template/CompanyInquiries/index.ctp:6
+msgid "Company Inquiry"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:42
+msgid "Compay"
+msgstr ""
+
+#: Template/Cooperations/add.ctp:1;6
+#: Template/Cooperations/edit.ctp:1;6
+#: Template/Cooperations/index.ctp:1
+#: Template/Cooperations/view.ctp:2;7
+msgid "Cooperations"
+msgstr ""
+
+#: Template/Cooperations/add.ctp:8
+#: Template/Cooperations/edit.ctp:8
+#: Template/Cooperations/index.ctp:8;28
+#: Template/Cooperations/view.ctp:9
+msgid "List of Cooperation"
+msgstr ""
+
+#: Template/Cooperations/add.ctp:24;32
+msgid "Add Cooperation"
+msgstr ""
+
+#: Template/Cooperations/add.ctp:36
+#: Template/Cooperations/edit.ctp:36
+#: Template/Cooperations/index.ctp:51
+#: Template/HomeMenus/add.ctp:36;40;44
+#: Template/HomeMenus/edit.ctp:36;40;44
+#: Template/Needs/add.ctp:36
+#: Template/Needs/edit.ctp:36
+#: Template/Productions/add.ctp:41
+#: Template/Productions/edit.ctp:48
+msgid "name"
+msgstr ""
+
+#: Template/Cooperations/edit.ctp:24;32
+msgid "Edit Cooperation"
+msgstr ""
+
+#: Template/Cooperations/index.ctp:6
+#: Template/Members/add.ctp:217;221
+#: Template/Members/edit.ctp:216;220
+#: Template/Members/view.ctp:222
+msgid "Cooperation"
+msgstr ""
+
+#: Template/Cooperations/index.ctp:15
+msgid "New Cooperation"
+msgstr ""
+
+#: Template/Cooperations/index.ctp:54
+#: Template/Needs/index.ctp:54
+#: Template/News/index.ctp:56
+#: Template/NewsCategories/index.ctp:56
+#: Template/TopListInquiries/index.ctp:56
+#: Template/TypeBusiness/index.ctp:58
+msgid "modified"
+msgstr ""
+
+#: Template/Element/breadcrumb.ctp:4
+msgid "Warning! This will reset your pages"
+msgstr ""
+
+#: Template/Element/breadcrumb_content.ctp:15
+#: Template/Users/index.ctp:19
+msgid "Add New"
+msgstr ""
+
+#: Template/Element/button_add_top.ctp:3
+msgid "New %s"
+msgstr ""
+
+#: Template/Element/footer.ctp:5
+msgid "Power by Hiworld JSC"
+msgstr ""
+
+#: Template/Element/header.ctp:16
+msgid "Collapse Menu"
+msgstr ""
+
+#: Template/Element/header.ctp:29
+msgid "Setting"
+msgstr ""
+
+#: Template/Element/header.ctp:33
+msgid "Profile"
+msgstr ""
+
+#: Template/Element/header.ctp:37
+msgid "Shortcut"
+msgstr ""
+
+#: Template/Element/header.ctp:41;63
+msgid "Full Screen"
+msgstr ""
+
+#: Template/Element/header.ctp:45
+msgid "Logout"
+msgstr ""
+
+#: Template/Element/header.ctp:54
+msgid "Sign Out"
+msgstr ""
+
+#: Template/Element/header.ctp:54
+msgid "You can improve your security further after logging out by closing this opened browser"
+msgstr ""
+
+#: Template/Element/paginator.ctp:9
+msgid "< First"
+msgstr ""
+
+#: Template/Element/paginator.ctp:10
+msgid "Prev"
+msgstr ""
+
+#: Template/Element/paginator.ctp:17
+msgid "Next"
+msgstr ""
+
+#: Template/Element/paginator.ctp:18
+msgid "> Last"
+msgstr ""
+
+#: Template/Element/paginator.ctp:26
+msgid "Add new"
+msgstr ""
+
+#: Template/Element/paginator.ctp:33
+msgid "Delete Selected"
+msgstr ""
+
+#: Template/Element/paginator.ctp:40
+msgid "Back to translate"
+msgstr ""
+
+#: Template/Element/paginator.ctp:41
+msgid "Save data"
+msgstr ""
+
+#: Template/Element/shortcut.ctp:12
+msgid "My Profile"
+msgstr ""
+
+#: Template/Element/shortcut.ctp:22
+#: Template/Users/change_password.ctp:23
+msgid "Change password"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:1;6
+#: Template/HomeMenus/edit.ctp:1;6
+#: Template/HomeMenus/index.ctp:1
+#: Template/HomeMenus/view.ctp:2;7
+msgid "Home Menus"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:8
+#: Template/HomeMenus/edit.ctp:8
+#: Template/HomeMenus/index.ctp:8;28
+#: Template/HomeMenus/view.ctp:9
+msgid "List of Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:24;32
+msgid "Add Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:47
+#: Template/HomeMenus/edit.ctp:47
+#: Template/HomeMenus/index.ctp:54
+msgid "Parent"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:48
+#: Template/HomeMenus/edit.ctp:48
+msgid "Select Parent"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:48
+#: Template/HomeMenus/edit.ctp:48
+msgid "parent_id"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:55
+#: Template/HomeMenus/edit.ctp:55
+msgid "Child"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:56
+#: Template/HomeMenus/edit.ctp:56
+#: Template/HomeMenus/index.ctp:56
+msgid "child_id"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:64
+#: Template/HomeMenus/edit.ctp:64
+msgid "Select status"
+msgstr ""
+
+#: Template/HomeMenus/edit.ctp:24;32
+msgid "Edit Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/index.ctp:6
+msgid "Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/index.ctp:15
+msgid "New Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/index.ctp:97
+#: Template/HomeMenus/view.ctp:63
+msgid "True"
+msgstr ""
+
+#: Template/HomeMenus/index.ctp:97
+#: Template/HomeMenus/view.ctp:63
+msgid "False"
+msgstr ""
+
+#: Template/HomeMenus/view.ctp:46
+msgid "Parent Id"
+msgstr ""
+
+#: Template/HomeMenus/view.ctp:54
+msgid "Child Id"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:1;6
+#: Template/Inquiries/edit.ctp:1;6
+#: Template/Inquiries/index.ctp:1
+#: Template/Inquiries/view.ctp:2;7
+msgid "Inquiries"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:8
+#: Template/Inquiries/edit.ctp:8
+#: Template/Inquiries/index.ctp:8;28
+#: Template/Inquiries/view.ctp:9
+msgid "List of Inquiry"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:24;32
+msgid "Add Inquiry"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:56
+#: Template/Inquiries/edit.ctp:56
+#: Template/Inquiries/index.ctp:58;59
+#: Template/Inquiries/view.ctp:70
+msgid "Date Start"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:57
+#: Template/Inquiries/edit.ctp:57
+msgid "date_start"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:61
+#: Template/Inquiries/edit.ctp:61
+#: Template/Inquiries/view.ctp:74
+msgid "Date End"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:62
+#: Template/Inquiries/edit.ctp:62
+msgid "date_end"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:89;91
+#: Template/Inquiries/edit.ctp:89;91
+msgid "Inquiry Meta DESC"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:93;95
+#: Template/Inquiries/edit.ctp:93;95
+#: Template/Inquiries/view.ctp:106
+msgid "Inquiry Meta Keyword"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:103
+#: Template/Inquiries/edit.ctp:103
+msgid "content_vie"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:107
+#: Template/Inquiries/edit.ctp:107
+msgid "content_eng"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:111
+#: Template/Inquiries/edit.ctp:111
+msgid "content_jpn"
+msgstr ""
+
+#: Template/Inquiries/edit.ctp:24;32
+msgid "Edit Inquiry"
+msgstr ""
+
+#: Template/Inquiries/index.ctp:15
+msgid "New Inquiry"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:42
+msgid "Title Vie"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:46
+msgid "Title Eng"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:50
+msgid "Title Jpn"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:54
+msgid "Content Vie"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:58
+msgid "Content Eng"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:62
+msgid "Content Jpn"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:78
+msgid "Description Vie"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:82
+msgid "Description Eng"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:86
+msgid "Description Jpn"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:102
+msgid "Inquiry Meta Desc"
+msgstr ""
+
+#: Template/Members/add.ctp:1;6
+#: Template/Members/edit.ctp:1;6
+#: Template/Members/index.ctp:1
+#: Template/Members/view.ctp:2;7
+msgid "Members"
+msgstr ""
+
+#: Template/Members/add.ctp:24;32
+msgid "Add Member"
+msgstr ""
+
+#: Template/Members/add.ctp:36
+#: Template/Members/edit.ctp:35
+msgid "Vietnamese"
+msgstr ""
+
+#: Template/Members/add.ctp:37
+#: Template/Members/edit.ctp:36
+msgid "English"
+msgstr ""
+
+#: Template/Members/add.ctp:38
+#: Template/Members/edit.ctp:37
+msgid "Japanese"
+msgstr ""
+
+#: Template/Members/add.ctp:43;44
+#: Template/Members/edit.ctp:42;43
+msgid "Category Industry"
+msgstr ""
+
+#: Template/Members/add.ctp:44
+#: Template/Members/edit.ctp:43
+msgid "Select Category Industry"
+msgstr ""
+
+#: Template/Members/add.ctp:53
+#: Template/Members/edit.ctp:52
+msgid "Business Type"
+msgstr ""
+
+#: Template/Members/add.ctp:54
+#: Template/Members/edit.ctp:53
+msgid "Select Type Business"
+msgstr ""
+
+#: Template/Members/add.ctp:54;206;207
+#: Template/Members/edit.ctp:53;205;206
+#: Template/Members/view.ctp:217
+msgid "Company Type"
+msgstr ""
+
+#: Template/Members/add.ctp:57;58
+#: Template/Members/edit.ctp:56;57
+#: Template/Members/view.ctp:167
+msgid "Logo"
+msgstr ""
+
+#: Template/Members/add.ctp:64;65;272;273;320;321
+#: Template/Members/edit.ctp:63;64;271;272;319;320
+#: Template/Members/index.ctp:55
+#: Template/Members/view.ctp:78
+#: Template/Productions/edit.ctp:36
+msgid "Company Name"
+msgstr ""
+
+#: Template/Members/add.ctp:68;69;246;247;295;296
+#: Template/Members/edit.ctp:67;68;245;246;294;295
+#: Template/Members/view.ctp:94
+msgid "Company Trading Name"
+msgstr ""
+
+#: Template/Members/add.ctp:74;75;250;251;299;300
+#: Template/Members/edit.ctp:73;74;249;250;298;299
+#: Template/Members/view.ctp:99
+msgid "Company Short Name"
+msgstr ""
+
+#: Template/Members/add.ctp:78;79;268;269;316;317
+#: Template/Members/edit.ctp:77;78;267;268;315;316
+#: Template/Members/view.ctp:114
+msgid "Address"
+msgstr ""
+
+#: Template/Members/add.ctp:84;85
+#: Template/Members/edit.ctp:83;84
+#: Template/Members/view.ctp:104
+msgid "City"
+msgstr ""
+
+#: Template/Members/add.ctp:85
+#: Template/Members/edit.ctp:84
+msgid "Select City"
+msgstr ""
+
+#: Template/Members/add.ctp:88;89
+#: Template/Members/edit.ctp:87;88
+#: Template/Members/view.ctp:109
+msgid "Prefecture"
+msgstr ""
+
+#: Template/Members/add.ctp:94;95
+#: Template/Members/edit.ctp:93;94
+#: Template/Members/view.ctp:119;124
+msgid "Phone"
+msgstr ""
+
+#: Template/Members/add.ctp:98;99
+#: Template/Members/edit.ctp:97;98
+msgid "Phone 2"
+msgstr ""
+
+#: Template/Members/add.ctp:104;105
+#: Template/Members/edit.ctp:103;104
+#: Template/Members/index.ctp:58
+#: Template/Members/view.ctp:131
+msgid "Fax"
+msgstr "FAX"
+
+#: Template/Members/add.ctp:108;109
+#: Template/Members/edit.ctp:107;108
+#: Template/Members/index.ctp:53
+#: Template/Members/view.ctp:41
+#: Template/Users/index.ctp:66
+#: Template/Users/view.ctp:49
+msgid "Email"
+msgstr "Email"
+
+#: Template/Members/add.ctp:114;115
+#: Template/Members/edit.ctp:113;114
+#: Template/Members/index.ctp:56
+#: Template/Members/view.ctp:135
+msgid "Website"
+msgstr ""
+
+#: Template/Members/add.ctp:118;278;279;326;327
+#: Template/Members/edit.ctp:117;277;278;325;326
+#: Template/Members/index.ctp:54
+#: Template/Members/view.ctp:172
+msgid "Manager"
+msgstr ""
+
+#: Template/Members/add.ctp:121
+#: Template/Members/edit.ctp:120
+msgid "First Name"
+msgstr ""
+
+#: Template/Members/add.ctp:124
+#: Template/Members/edit.ctp:123
+msgid "Last Name"
+msgstr ""
+
+#: Template/Members/add.ctp:131
+#: Template/Members/edit.ctp:130
+#: Template/Members/view.ctp:177
+msgid "Gender"
+msgstr "Title"
+
+#: Template/Members/add.ctp:132
+#: Template/Members/edit.ctp:131
+msgid "Select Title"
+msgstr ""
+
+#: Template/Members/add.ctp:132
+#: Template/Members/edit.ctp:131
+msgid "address_en"
+msgstr ""
+
+#: Template/Members/add.ctp:135;136;256;257;305;306
+#: Template/Members/edit.ctp:134;135;255;256;304;305
+#: Template/Members/view.ctp:182
+msgid "Department"
+msgstr ""
+
+#: Template/Members/add.ctp:142;143
+#: Template/Members/edit.ctp:141;142
+#: Template/Members/view.ctp:187
+msgid "Division"
+msgstr ""
+
+#: Template/Members/add.ctp:143
+#: Template/Members/edit.ctp:142
+msgid "Select Division"
+msgstr ""
+
+#: Template/Members/add.ctp:147;148
+#: Template/Members/edit.ctp:146;147
+#: Template/Members/view.ctp:151
+msgid "Company Established"
+msgstr ""
+
+#: Template/Members/add.ctp:153;154
+#: Template/Members/edit.ctp:152;153
+#: Template/Members/view.ctp:155
+msgid "Company Tax Code"
+msgstr ""
+
+#: Template/Members/add.ctp:157;158
+#: Template/Members/edit.ctp:156;157
+#: Template/Members/view.ctp:159
+msgid "Company capital"
+msgstr ""
+
+#: Template/Members/add.ctp:163;164
+#: Template/Members/edit.ctp:162;163
+#: Template/Members/view.ctp:163
+msgid "Total Staff Member"
+msgstr ""
+
+#: Template/Members/add.ctp:167;168
+#: Template/Members/edit.ctp:166;167
+#: Template/Members/view.ctp:192
+msgid "Rated"
+msgstr ""
+
+#: Template/Members/add.ctp:188;189
+#: Template/Members/edit.ctp:187;188
+#: Template/Members/view.ctp:207
+msgid "Membership Type"
+msgstr ""
+
+#: Template/Members/add.ctp:189
+#: Template/Members/edit.ctp:188
+msgid "Select Member Type"
+msgstr ""
+
+#: Template/Members/add.ctp:195;196;261;262;310;311
+#: Template/Members/edit.ctp:194;195;260;261;309;310
+#: Template/Members/view.ctp:212
+msgid "Note"
+msgstr ""
+
+#: Template/Members/add.ctp:199;200;211
+#: Template/Members/edit.ctp:198;199;210
+msgid "Country"
+msgstr ""
+
+#: Template/Members/add.ctp:200
+#: Template/Members/edit.ctp:199
+msgid "Select Country"
+msgstr ""
+
+#: Template/Members/add.ctp:207
+#: Template/Members/edit.ctp:206
+msgid "Select Company Type"
+msgstr ""
+
+#: Template/Members/add.ctp:210
+#: Template/Members/edit.ctp:209
+#: Template/Members/view.ctp:139
+msgid "Language "
+msgstr "Language(You can choose more than one.)"
+
+#: Template/Members/add.ctp:211
+#: Template/Members/edit.ctp:210
+msgid "Select Language"
+msgstr ""
+
+#: Template/Members/add.ctp:224;228
+#: Template/Members/edit.ctp:223;227
+#: Template/Members/view.ctp:227
+#: Template/Needs/add.ctp:1;6
+#: Template/Needs/edit.ctp:1;6
+#: Template/Needs/index.ctp:1
+#: Template/Needs/view.ctp:2;7
+msgid "Needs"
+msgstr ""
+
+#: Template/Members/edit.ctp:24;32
+msgid "Edit Member"
+msgstr ""
+
+#: Template/Members/index.ctp:6
+msgid "Member"
+msgstr ""
+
+#: Template/Members/index.ctp:15
+msgid "New Member"
+msgstr ""
+
+#: Template/Members/index.ctp:57
+msgid "Mobile"
+msgstr ""
+
+#: Template/Members/view.ctp:88
+msgid "Company Country"
+msgstr ""
+
+#: Template/Needs/add.ctp:8
+#: Template/Needs/edit.ctp:8
+#: Template/Needs/index.ctp:8;28
+#: Template/Needs/view.ctp:9
+msgid "List of Need"
+msgstr ""
+
+#: Template/Needs/add.ctp:24;32
+msgid "Add Need"
+msgstr ""
+
+#: Template/Needs/edit.ctp:24;32
+msgid "Edit Need"
+msgstr ""
+
+#: Template/Needs/index.ctp:6
+msgid "Need"
+msgstr ""
+
+#: Template/Needs/index.ctp:15
+msgid "New Need"
+msgstr ""
+
+#: Template/News/add.ctp:1;6
+#: Template/News/edit.ctp:1;6
+#: Template/News/index.ctp:1;6
+#: Template/News/view.ctp:2;7
+msgid "News"
+msgstr ""
+
+#: Template/News/add.ctp:8
+#: Template/News/edit.ctp:8
+#: Template/News/index.ctp:8;28
+#: Template/News/view.ctp:9
+msgid "List of News"
+msgstr ""
+
+#: Template/News/add.ctp:24;32
+msgid "Add News"
+msgstr ""
+
+#: Template/News/add.ctp:36
+#: Template/News/edit.ctp:36
+msgid "name (vie)"
+msgstr ""
+
+#: Template/News/add.ctp:40
+#: Template/News/edit.ctp:40
+msgid "name (eng)"
+msgstr ""
+
+#: Template/News/add.ctp:44
+#: Template/News/edit.ctp:44
+msgid "name (jpn)"
+msgstr ""
+
+#: Template/News/add.ctp:48
+#: Template/News/edit.ctp:48
+msgid "description (vie)"
+msgstr ""
+
+#: Template/News/add.ctp:52
+#: Template/News/edit.ctp:52
+msgid "description (eng)"
+msgstr ""
+
+#: Template/News/add.ctp:56
+#: Template/News/edit.ctp:56
+msgid "description (jpn)"
+msgstr ""
+
+#: Template/News/add.ctp:60
+#: Template/News/edit.ctp:60
+msgid "content (vie)"
+msgstr ""
+
+#: Template/News/add.ctp:64
+#: Template/News/edit.ctp:64
+msgid "content (eng)"
+msgstr ""
+
+#: Template/News/add.ctp:68
+#: Template/News/edit.ctp:68
+msgid "content (jpn)"
+msgstr ""
+
+#: Template/News/add.ctp:70
+#: Template/News/edit.ctp:70
+#: Template/News/view.ctp:67
+msgid "Category"
+msgstr ""
+
+#: Template/News/add.ctp:74
+#: Template/News/edit.ctp:74
+#: Template/News/view.ctp:71
+msgid "Company ID"
+msgstr ""
+
+#: Template/News/add.ctp:76
+#: Template/News/edit.ctp:76
+msgid "company id"
+msgstr ""
+
+#: Template/News/add.ctp:86
+#: Template/News/edit.ctp:86
+msgid "Home Page"
+msgstr ""
+
+#: Template/News/add.ctp:90
+#: Template/News/edit.ctp:90
+msgid "News Meta DESC"
+msgstr ""
+
+#: Template/News/add.ctp:92
+#: Template/News/edit.ctp:92
+msgid "news meta desc"
+msgstr ""
+
+#: Template/News/add.ctp:94
+#: Template/News/edit.ctp:94
+#: Template/News/view.ctp:87
+msgid "News Meta Keyword"
+msgstr ""
+
+#: Template/News/add.ctp:96
+#: Template/News/edit.ctp:96
+msgid "news meta keyword"
+msgstr ""
+
+#: Template/News/edit.ctp:24;32
+msgid "Edit News"
+msgstr ""
+
+#: Template/News/index.ctp:15
+msgid "New News"
+msgstr ""
+
+#: Template/News/index.ctp:42
+msgid "Filter Id"
+msgstr ""
+
+#: Template/News/index.ctp:44
+msgid "Filter Name"
+msgstr ""
+
+#: Template/News/index.ctp:45
+msgid "Filter Status"
+msgstr ""
+
+#: Template/News/index.ctp:46
+msgid "Filter Total View"
+msgstr ""
+
+#: Template/News/index.ctp:47
+msgid "Filter Modified"
+msgstr ""
+
+#: Template/News/index.ctp:55
+msgid "total_view"
+msgstr ""
+
+#: Template/News/view.ctp:83
+msgid "News Meta Desc"
+msgstr ""
+
+#: Template/NewsCategories/add.ctp:1;6
+#: Template/NewsCategories/edit.ctp:1;6
+#: Template/NewsCategories/index.ctp:1
+#: Template/NewsCategories/view.ctp:2;7
+msgid "News Categories"
+msgstr ""
+
+#: Template/NewsCategories/add.ctp:8
+#: Template/NewsCategories/edit.ctp:8
+#: Template/NewsCategories/index.ctp:8;28
+#: Template/NewsCategories/view.ctp:9
+msgid "List of News Category"
+msgstr ""
+
+#: Template/NewsCategories/add.ctp:24;32
+msgid "Add News Category"
+msgstr ""
+
+#: Template/NewsCategories/edit.ctp:24;32
+msgid "Edit News Category"
+msgstr ""
+
+#: Template/NewsCategories/index.ctp:6
+msgid "News Category"
+msgstr ""
+
+#: Template/NewsCategories/index.ctp:15
+msgid "New News Category"
+msgstr ""
+
+#: Template/Productions/add.ctp:1;6
+#: Template/Productions/edit.ctp:1;6
+#: Template/Productions/index.ctp:1
+#: Template/Productions/view.ctp:1;6
+msgid "Productions"
+msgstr ""
+
+#: Template/Productions/add.ctp:8
+#: Template/Productions/edit.ctp:8
+#: Template/Productions/index.ctp:8;21
+#: Template/Productions/view.ctp:8
+msgid "List of Production"
+msgstr ""
+
+#: Template/Productions/add.ctp:24;32
+msgid "Add Production"
+msgstr ""
+
+#: Template/Productions/add.ctp:35
+msgid "member_id"
+msgstr ""
+
+#: Template/Productions/add.ctp:44
+#: Template/Productions/edit.ctp:52
+msgid "code"
+msgstr ""
+
+#: Template/Productions/add.ctp:47
+#: Template/Productions/edit.ctp:59
+msgid "short_description"
+msgstr ""
+
+#: Template/Productions/add.ctp:50
+#: Template/Productions/edit.ctp:63
+msgid "price"
+msgstr ""
+
+#: Template/Productions/add.ctp:53
+#: Template/Productions/edit.ctp:70
+msgid "unit"
+msgstr ""
+
+#: Template/Productions/edit.ctp:24;32
+msgid "Edit Production"
+msgstr ""
+
+#: Template/Productions/edit.ctp:47
+msgid "Production Name"
+msgstr ""
+
+#: Template/Productions/edit.ctp:51
+msgid "Production Code"
+msgstr ""
+
+#: Template/Productions/edit.ctp:62
+#: Template/Productions/index.ctp:52
+#: Template/Productions/view.ctp:61
+msgid "Price"
+msgstr ""
+
+#: Template/Productions/edit.ctp:69
+#: Template/Productions/index.ctp:53
+#: Template/Productions/view.ctp:65
+msgid "Unit"
+msgstr ""
+
+#: Template/Productions/index.ctp:6
+msgid "Production"
+msgstr ""
+
+#: Template/Productions/index.ctp:48
+msgid "Create"
+msgstr ""
+
+#: Template/Productions/index.ctp:50
+#: Template/Productions/view.ctp:53
+#: Template/Settings/businesses.ctp:36;40
+#: Template/Settings/cities.ctp:36;40
+#: Template/Settings/industries.ctp:36;40
+#: Template/Settings/prefectures.ctp:36;40
+msgid "Code"
+msgstr ""
+
+#: Template/Productions/view.ctp:41
+msgid "Member Id"
+msgstr ""
+
+#: Template/Settings/businesses.ctp:1
+msgid "Businesses"
+msgstr ""
+
+#: Template/Settings/businesses.ctp:6
+#: Template/Settings/cities.ctp:1;6
+#: Template/Settings/industries.ctp:6
+#: Template/Settings/prefectures.ctp:6
+msgid "Cities"
+msgstr ""
+
+#: Template/Settings/businesses.ctp:8;22
+#: Template/Settings/cities.ctp:8;22
+#: Template/Settings/industries.ctp:8;22
+#: Template/Settings/prefectures.ctp:8;22
+msgid "List of Cities"
+msgstr ""
+
+#: Template/Settings/businesses.ctp:37;41
+msgid "Businesses Name"
+msgstr ""
+
+#: Template/Settings/cities.ctp:37;41
+msgid "City Name"
+msgstr ""
+
+#: Template/Settings/industries.ctp:1
+msgid "Industries"
+msgstr ""
+
+#: Template/Settings/industries.ctp:37;41
+msgid "Industry Name"
+msgstr ""
+
+#: Template/Settings/prefectures.ctp:1
+msgid "Prefectures"
+msgstr ""
+
+#: Template/Settings/prefectures.ctp:37;41
+msgid "Prefecture Name"
+msgstr ""
+
+#: Template/Titles/add.ctp:1;6
+#: Template/Titles/edit.ctp:1;6
+#: Template/Titles/index.ctp:1
+#: Template/Titles/view.ctp:2;7
+msgid "Titles"
+msgstr ""
+
+#: Template/Titles/add.ctp:8
+#: Template/Titles/edit.ctp:8
+#: Template/Titles/index.ctp:8;28
+#: Template/Titles/view.ctp:9
+msgid "List of Title"
+msgstr ""
+
+#: Template/Titles/add.ctp:24;32
+msgid "Add Title"
+msgstr ""
+
+#: Template/Titles/edit.ctp:24;32
+msgid "Edit Title"
+msgstr ""
+
+#: Template/Titles/index.ctp:15
+msgid "New Title"
+msgstr ""
+
+#: Template/TopListInquiries/add.ctp:1;6
+#: Template/TopListInquiries/edit.ctp:1;6
+#: Template/TopListInquiries/index.ctp:1
+#: Template/TopListInquiries/view.ctp:2;7
+msgid "Top List Inquiries"
+msgstr ""
+
+#: Template/TopListInquiries/add.ctp:8
+#: Template/TopListInquiries/edit.ctp:8
+#: Template/TopListInquiries/index.ctp:8;28
+#: Template/TopListInquiries/view.ctp:9
+msgid "List of Top List Inquiry"
+msgstr ""
+
+#: Template/TopListInquiries/add.ctp:24;32
+msgid "Add Top List Inquiry"
+msgstr ""
+
+#: Template/TopListInquiries/edit.ctp:24;32
+msgid "Edit Top List Inquiry"
+msgstr ""
+
+#: Template/TopListInquiries/index.ctp:6
+msgid "Top List Inquiry"
+msgstr ""
+
+#: Template/TopListInquiries/index.ctp:15
+msgid "New Top List Inquiry"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:1;6
+#: Template/TypeBusiness/edit.ctp:1;6
+#: Template/TypeBusiness/index.ctp:1
+#: Template/TypeBusiness/view.ctp:2;7
+msgid "Type Business"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:8
+#: Template/TypeBusiness/edit.ctp:8
+#: Template/TypeBusiness/index.ctp:8;28
+#: Template/TypeBusiness/view.ctp:9
+msgid "List of Type Busines"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:24;32
+msgid "Add Type Busines"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:35
+#: Template/TypeBusiness/edit.ctp:35
+#: Template/TypeBusiness/index.ctp:53
+#: Template/TypeCompanies/add.ctp:36
+#: Template/TypeCompanies/edit.ctp:36
+msgid "type_name_vie"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:38
+#: Template/TypeBusiness/edit.ctp:38
+#: Template/TypeBusiness/index.ctp:54
+#: Template/TypeCompanies/add.ctp:40
+#: Template/TypeCompanies/edit.ctp:40
+msgid "type_name_eng"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:41
+#: Template/TypeBusiness/edit.ctp:41
+#: Template/TypeBusiness/index.ctp:55
+#: Template/TypeCompanies/add.ctp:44
+#: Template/TypeCompanies/edit.ctp:44
+msgid "type_name_jpn"
+msgstr ""
+
+#: Template/TypeBusiness/edit.ctp:24;32
+msgid "Edit Type Busines"
+msgstr ""
+
+#: Template/TypeBusiness/index.ctp:6
+msgid "Type Busines"
+msgstr ""
+
+#: Template/TypeBusiness/index.ctp:15
+msgid "New Type Busines"
+msgstr ""
+
+#: Template/TypeBusiness/view.ctp:42
+#: Template/TypeCompanies/view.ctp:42
+msgid "Type Name Vie"
+msgstr ""
+
+#: Template/TypeBusiness/view.ctp:46
+#: Template/TypeCompanies/view.ctp:46
+msgid "Type Name Eng"
+msgstr ""
+
+#: Template/TypeBusiness/view.ctp:50
+#: Template/TypeCompanies/view.ctp:50
+msgid "Type Name Jpn"
+msgstr ""
+
+#: Template/TypeCompanies/add.ctp:1;6
+#: Template/TypeCompanies/edit.ctp:1;6
+#: Template/TypeCompanies/index.ctp:1
+#: Template/TypeCompanies/view.ctp:2;7
+msgid "Type Companies"
+msgstr ""
+
+#: Template/TypeCompanies/add.ctp:8
+#: Template/TypeCompanies/edit.ctp:8
+#: Template/TypeCompanies/index.ctp:8;28
+#: Template/TypeCompanies/view.ctp:9
+msgid "List of Type Company"
+msgstr ""
+
+#: Template/TypeCompanies/add.ctp:24;32
+msgid "Add Type Company"
+msgstr ""
+
+#: Template/TypeCompanies/add.ctp:34;38;42
+#: Template/TypeCompanies/edit.ctp:34;38;42
+#: Template/TypeCompanies/index.ctp:53;54;55
+msgid "Classification of company"
+msgstr ""
+
+#: Template/TypeCompanies/edit.ctp:24;32
+msgid "Edit Type Company"
+msgstr ""
+
+#: Template/TypeCompanies/index.ctp:6
+msgid "Type Company"
+msgstr ""
+
+#: Template/TypeCompanies/index.ctp:15
+msgid "New Type Company"
+msgstr ""
+
+#: Template/Users/add.ctp:9
+#: Template/Users/index.ctp:12;33
+#: Template/Users/view.ctp:11
+msgid "List of user"
+msgstr ""
+
+#: Template/Users/add.ctp:25
+msgid "User Edit"
+msgstr ""
+
+#: Template/Users/add.ctp:27
+msgid "User Add"
+msgstr ""
+
+#: Template/Users/change_password.ctp:8
+#: Template/Users/profile.ctp:9
+msgid "My profile"
+msgstr ""
+
+#: Template/Users/index.ctp:65
+msgid "ID"
+msgstr ""
+
+#: Template/Users/index.ctp:68
+#: Template/Users/view.ctp:57
+msgid "Group"
+msgstr ""
+
+#: Template/Users/index.ctp:70
+msgid "Action"
+msgstr ""
+
+#: Template/Users/profile.ctp:24
+msgid "Edit profile"
+msgstr ""
+
+msgid "Cập nhật"
+msgstr "Update"
+
+msgid "Hiện tại chúng tôi không tìm thấy thông tin nào!"
+msgstr "Not found!"
+
+msgid "Cơ hội hợp tác cho kết quả tìm kiếm với \"{0}\""
+msgstr "Inquiries for search results with \"{0}\""
+
+msgid "Thông tin đang cập nhật"
+msgstr "This information is updating"
+
+msgid "Đổi mật khẩu thành công!"
+msgstr "Successful password change!"
+
+msgid "Hiển thị {0}-{1} của {2} kết quả."
+msgstr "Show {0} - {1} of {2} results."
+
+msgid "Kính chào Quý Công ty"
+msgstr "Dear Company"
+
+msgid "Chúc mừng Quý Công ty đã đăng ký thành công và trở thành thành viên chính thức của Japan Circle - Cầu nối giao thương Việt Nam - Nhật Bản."
+msgstr "Congratulations your Company successfully registered and become an official member of Japan Circle - Linking business Vietnam - Japan."
+
+msgid "Tên truy cập"
+msgstr "Login name"
+
+msgid "Ngày đăng ký"
+msgstr "Register date"
+
+msgid "Công ty"
+msgstr "Company name"
+
+msgid "Điện thoại công ty"
+msgstr "Phone"
+
+msgid "Website"
+msgstr ""
+
+msgid "Họ tên người đăng ký"
+msgstr "Register's name"
+
+msgid "Hình thức hợp tác mong muốn"
+msgstr "Inquiries"
+
+msgid "Các dịch vụ hỗ trợ đơn vị cần nhất"
+msgstr "Needs"
+
+msgid "Thay đổi mật khẩu"
+msgstr "Password changed"
+
+msgid "Mọi thắc mắc về việc chỉnh sửa, đăng nhập hoặc cập nhật thông tin, vui lòng liên hệ Japan Cirlce để được giải đáp."
+msgstr "Any questions about editing, login or updated information, please contact Japan cirlce for answer."
+
+msgid "Japan Circle xin thông báo thông tin đăng ký thành viên của Quý Công ty đã được cập nhật thành công trên hệ thống wesite."
+msgstr "Circle Japan is pleased to announce the registration information of your company were updated on the system successfully website."
+
+msgid "Vui lòng truy cập vào địa chỉ"
+msgstr "Please visit the address"
+
+msgid "mục Thành viên để xác nhận và hoàn tất các thông tin còn thiếu và nhận được những thông tin về thị trường và các cơ hội hợp tác từ Nhật Bản."
+msgstr "Member section to confirm and complete the missing information and get information about the market and the opportunities for cooperation from Japan."
+
+msgid "Gửi email thông báo đã duyệt thông tin thành viên"
+msgstr "Send email to members notify about approved information"
+
+msgid "Giới thiệu"
+msgstr "About us"
+
+msgid "Thêm sản phẩm"
+msgstr "Add product"
+
+msgid "Chỉnh sửa cơ hội hợp tác"
+msgstr "Update Inquiry"
+
+msgid "Thêm mới cơ hội hợp tác"
+msgstr "Add Inquiry"
+
+msgid "Japan Circle cam kết cung cấp các dịch vụ:"
+msgstr "Circle Japan committed to provide the following services:"
+
+msgid "Nhận được bản tin nội bộ cập nhật 02 kì vào ngày 15 và 30 hàng tháng (bằng email)"
+msgstr "Receive newsletter updates 02 times on the 15th and 30th of each month (by email)"
+
+msgid "Truy cập thông tin kết nối với thị trường Nhật Bản và các nước trong hệ thống thành viên Japan Circle Châu Á."
+msgstr "Access to Japan connected information and other countries in the membership system Asia Japan Circle."
+
+msgid "Nhận thông tin về nhu cầu hợp tác và sử dụng các dịch vụ hỗ trợ từ Japan Circle Supporters."
+msgstr "Get information on the need for cooperation and use of support services from Japan Supporters Circle."
+
+msgid "Được cung cấp thông tin kinh tế thương mại, hội thảo, hội chợ, triển lãm tại thị trường Nhật Bản"
+msgstr "Offered economic and trade information, seminars, fairs and exhibitions in Japan"
+
+msgid "Được thông tin và tham gia các sự kiện kết nối giao thương hoặc đào tạo của Japan Circle (Có phí hoặc không phí tham dự tùy sự kiện)"
+msgstr "Be informed and participate in connection event or training trade of Japan Circle (Attendance fee charged depending on the event)"
+
+msgid "Logo xuất hiện trên website và ấn phẩm của Japan Circle"
+msgstr "The logo appears on the website and publication of Japan Circle"
+
+msgid "Được hỗ trợ kết nối và giới thiệu sản phẩm/dịch vụ thông qua phòng họp skype online, showroom tại văn phòng Japan Circle."
+msgstr "Supported connectivity and introduce products / services online via skype conference room, office showroom in Japan Circle."
+
+msgid "Tổ chức các tour khảo sát, hỗ trợ ngôn ngữ..."
+msgstr "Organizing the survey tour, language support..."
+
+msgid "Tạp chí theo tháng"
+msgstr "Monthly magazine"
+
+msgid "Tên công ty"
+msgstr "Company Name"
+
+msgid "Mô tà ngành kinh doanh"
+msgstr "Business description"
+
+msgid "Yêu cầu thông tin"
+msgstr "Information request"
+
+msgid "Phòng ban"
+msgstr "Department"
+
+msgid "THÔNG TIN HỢP TÁC"
+msgstr "INQUIRIES INFORMATION"
+
+msgid "Chức danh"
+msgstr "Division"
+
+msgid "đăng nhập"
+msgstr "login"
+
+msgid "Bạn đã hoàn thành {0}% thông tin"
+msgstr "You have completed {0}% information"
+
+msgid "VD: 1000.000.000"
+msgstr "Example：1000.000.000"
+
+
+msgid "Quý khách đã gửi thông tin liên hệ nhu cầu hợp tác thành công. Japan Circle sẽ liên hệ quý khách trong thời gian sớm nhất."
+msgstr "You have sent contact information for successful collaboration needs. Circle Japan will contact you as soon as possible."
+
+msgid "Sau đây là thông tin quý khách đã cung cấp cho Japan Circle."
+msgstr "Here is the information you have provided to Japan Circle."
+
+msgid "Ngày liên hệ"
+msgstr "Date contact"
+
+msgid "Điện thoại / Fax"
+msgstr "Phone / Fax"
+
+msgid "Đăng ký mới"
+msgstr " "
+
+msgid "Địa chỉ Email"
+msgstr "Email"
+
+msgid "Không được bỏ trống ô này"
+msgstr "This item is required."
+
+msgid "This field cannot be left empty"
+msgstr "This item is required."
+
+msgid "Email Address "
+msgstr "Email(Required)"
+
+msgid "Điện thoại "
+msgstr "Phone(Required)"
+
+msgid "Tiêu đề "
+msgstr "Title(Required)"
+
+msgid "Viết nội dung liên hệ..."
+msgstr "Message(Required)"
+
+msgid "Quên mật khẩu "
+msgstr " "
+
+msgid "Prefecture"
+msgstr "District"
+
+msgid "Select Prefecture"
+msgstr "Select District"
+
+msgid "Phóng lớn"
+msgstr "zoom out"
+
+msgid "[Đã có đối tác]"
+msgstr "[There are already partners]"
+
+msgid "Contact Phone"
+msgstr "Mobile phone"
+
+msgid "Female"
+msgstr "Mrs"
+
+msgid "Male"
+msgstr "Mr"
+
+msgid "Division"
+msgstr "Job title"
+
+msgid "Image Product"
+msgstr "Upload your products"
+
+msgid "製品の写真があればファイルをアップロードしてください"
+msgstr "Please upload the product's photos (optional)"
+
+msgid " 検索結果が見つかりませんでした"
+msgstr "Search results not found"
+
+msgid "Dữ liệu không tồn tại"
+msgstr "No data"
+
+msgid "Home page admin"
+msgstr "Home page"
+
+msgid "Status inquiry"
+msgstr "Status"
+
+msgid "Select Status inquiries"
+msgstr "Select Status"

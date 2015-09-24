@@ -1,0 +1,2642 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-17 08:54+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ActivitiesController.php:55;82
+msgid "The activity has been saved."
+msgstr ""
+
+#: Controller/ActivitiesController.php:58;85
+msgid "The activity could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ActivitiesController.php:106
+msgid "The activity has been deleted."
+msgstr ""
+
+#: Controller/ActivitiesController.php:108
+msgid "The activity could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ActivityCategoriesController.php:52;77
+msgid "The activity category has been saved."
+msgstr ""
+
+#: Controller/ActivityCategoriesController.php:55;80
+msgid "The activity category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ActivityCategoriesController.php:99
+msgid "The activity category has been deleted."
+msgstr ""
+
+#: Controller/ActivityCategoriesController.php:101
+msgid "The activity category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/AdvertisementsController.php:54;80
+msgid "The advertisement has been saved."
+msgstr ""
+
+#: Controller/AdvertisementsController.php:57;83
+msgid "The advertisement could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AdvertisementsController.php:102
+msgid "The advertisement has been deleted."
+msgstr ""
+
+#: Controller/AdvertisementsController.php:104
+msgid "The advertisement could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/BannersController.php:52;78
+msgid "The banner has been saved."
+msgstr ""
+
+#: Controller/BannersController.php:55;81
+msgid "The banner could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/BannersController.php:101
+msgid "The banner has been deleted."
+msgstr ""
+
+#: Controller/BannersController.php:103
+msgid "The banner could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CommentsController.php:52;77
+msgid "The comment has been saved."
+msgstr ""
+
+#: Controller/CommentsController.php:55;80
+msgid "The comment could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CommentsController.php:99
+msgid "The comment has been deleted."
+msgstr ""
+
+#: Controller/CommentsController.php:101
+msgid "The comment could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CompanyInquiriesController.php:80
+msgid "The company inquiry has been saved."
+msgstr ""
+
+#: Controller/CompanyInquiriesController.php:83
+msgid "The company inquiry could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CompanyInquiriesController.php:111
+msgid "The company inquiry has been deleted."
+msgstr ""
+
+#: Controller/CompanyInquiriesController.php:113
+msgid "The company inquiry could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CooperationsController.php:52;77
+msgid "The cooperation has been saved."
+msgstr ""
+
+#: Controller/CooperationsController.php:55;80
+msgid "The cooperation could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CooperationsController.php:99
+msgid "The cooperation has been deleted."
+msgstr ""
+
+#: Controller/CooperationsController.php:101
+msgid "The cooperation could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/HomeMenusController.php:98;125
+msgid "The home menu has been saved."
+msgstr ""
+
+#: Controller/HomeMenusController.php:101;128
+msgid "The home menu could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/HomeMenusController.php:148
+msgid "The home menu has been deleted."
+msgstr ""
+
+#: Controller/HomeMenusController.php:150
+msgid "The home menu could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/HomeMenusController.php:178
+#: Template/HomeMenus/add.ctp:56
+#: Template/HomeMenus/edit.ctp:56
+msgid "Select Child"
+msgstr ""
+
+#: Controller/InquiriesController.php:52;85
+msgid "The inquiry has been saved."
+msgstr ""
+
+#: Controller/InquiriesController.php:55;88
+msgid "The inquiry could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/InquiriesController.php:115
+msgid "The inquiry has been deleted."
+msgstr ""
+
+#: Controller/InquiriesController.php:117
+msgid "The inquiry could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MembersController.php:35
+#: Template/Members/add.ctp:8
+#: Template/Members/edit.ctp:8
+#: Template/Members/index.ctp:28
+#: Template/Members/view.ctp:9
+msgid "List of Member"
+msgstr ""
+
+#: Controller/MembersController.php:81;90;94;162;171;175
+msgid "The member could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MembersController.php:87;168
+msgid "The member has been saved."
+msgstr ""
+
+#: Controller/MembersController.php:226
+msgid "The member has been deleted."
+msgstr ""
+
+#: Controller/MembersController.php:228
+msgid "The member could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MembersController.php:240
+#: Template/Members/add.ctp:89
+#: Template/Members/edit.ctp:88
+msgid "Select Prefecture"
+msgstr ""
+
+#: Controller/MembersController.php:259
+#: Template/CompanyInquiries/edit.ctp:41
+#: Template/Inquiries/add.ctp:36
+#: Template/Inquiries/edit.ctp:36
+#: Template/Members/add.ctp:48
+#: Template/Members/edit.ctp:47
+#: Template/Productions/edit.ctp:41
+msgid "Select Industry"
+msgstr ""
+
+#: Controller/MembersController.php:282
+msgid "Japan"
+msgstr ""
+
+#: Controller/MembersController.php:282
+msgid "Viet Nam"
+msgstr ""
+
+#: Controller/MembersController.php:301;321
+msgid "Member Unapproved"
+msgstr ""
+
+#: Controller/MembersController.php:320
+msgid "Vip"
+msgstr ""
+
+#: Controller/MembersController.php:320
+msgid "Member Default"
+msgstr ""
+
+#: Controller/NeedsController.php:52;77
+msgid "The need has been saved."
+msgstr ""
+
+#: Controller/NeedsController.php:55;80
+msgid "The need could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NeedsController.php:99
+msgid "The need has been deleted."
+msgstr ""
+
+#: Controller/NeedsController.php:101
+msgid "The need could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:52;77
+msgid "The news category has been saved."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:55;80
+msgid "The news category could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:99
+msgid "The news category has been deleted."
+msgstr ""
+
+#: Controller/NewsCategoriesController.php:101
+msgid "The news category could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/NewsController.php:55;83
+msgid "The news has been saved."
+msgstr ""
+
+#: Controller/NewsController.php:58;86
+msgid "The news could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/NewsController.php:108
+msgid "The news has been deleted."
+msgstr ""
+
+#: Controller/NewsController.php:110
+msgid "The news could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ProductionsController.php:92
+msgid "The production has been saved."
+msgstr ""
+
+#: Controller/ProductionsController.php:95
+msgid "The production could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ProductionsController.php:118
+msgid "The production has been deleted."
+msgstr ""
+
+#: Controller/ProductionsController.php:120
+msgid "The production could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TitlesController.php:52;77
+msgid "The title has been saved."
+msgstr ""
+
+#: Controller/TitlesController.php:55;80
+msgid "The title could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TitlesController.php:99
+msgid "The title has been deleted."
+msgstr ""
+
+#: Controller/TitlesController.php:101
+msgid "The title could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TopListInquiriesController.php:52;77
+msgid "The top list inquiry has been saved."
+msgstr ""
+
+#: Controller/TopListInquiriesController.php:55;80
+msgid "The top list inquiry could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TopListInquiriesController.php:99
+msgid "The top list inquiry has been deleted."
+msgstr ""
+
+#: Controller/TopListInquiriesController.php:101
+msgid "The top list inquiry could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TypeBusinessController.php:52;77
+msgid "The type busines has been saved."
+msgstr ""
+
+#: Controller/TypeBusinessController.php:55;80
+msgid "The type busines could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TypeBusinessController.php:99
+msgid "The type busines has been deleted."
+msgstr ""
+
+#: Controller/TypeBusinessController.php:101
+msgid "The type busines could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TypeCompaniesController.php:55;80
+msgid "The type company has been saved."
+msgstr ""
+
+#: Controller/TypeCompaniesController.php:58;83
+msgid "The type company could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TypeCompaniesController.php:102
+msgid "The type company has been deleted."
+msgstr ""
+
+#: Controller/TypeCompaniesController.php:104
+msgid "The type company could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:65;117
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:70;120
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:92
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:94
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:142
+msgid "The current password incorrect"
+msgstr ""
+
+#: Controller/UsersController.php:148
+msgid "The password has been changed."
+msgstr ""
+
+#: Controller/UsersController.php:151
+msgid "The user could not be changed. Please, try again."
+msgstr ""
+
+#: Template/tmp_add.ctp:1
+#: Template/tmp_list.ctp:1
+msgid "Sytem"
+msgstr ""
+
+#: Template/tmp_add.ctp:6
+#: Template/tmp_list.ctp:6
+#: Template/Users/add.ctp:2;7
+#: Template/Users/change_password.ctp:6
+#: Template/Users/index.ctp:4;10
+#: Template/Users/profile.ctp:2;7
+#: Template/Users/view.ctp:3;9
+msgid "System"
+msgstr ""
+
+#: Template/tmp_add.ctp:6
+#: Template/tmp_list.ctp:6;19
+msgid "List of static pages"
+msgstr ""
+
+#: Template/tmp_add.ctp:17
+msgid "Edit static page"
+msgstr ""
+
+#: Template/tmp_add.ctp:26
+#: Template/tmp_list.ctp:44
+#: Template/Comments/add.ctp:36;37
+#: Template/Comments/edit.ctp:36;37
+#: Template/Comments/view.ctp:42
+#: Template/CompanyInquiries/edit.ctp:44
+#: Template/CompanyInquiries/index.ctp:50
+#: Template/CompanyInquiries/view.ctp:58
+#: Template/Inquiries/add.ctp:38;40;42;44;46;48
+#: Template/Inquiries/edit.ctp:38;40;42;44;46;48
+#: Template/Inquiries/index.ctp:55;56;57
+#: Template/Titles/index.ctp:6
+#: Template/TopListInquiries/add.ctp:36;40;46
+#: Template/TopListInquiries/edit.ctp:36;40;46
+#: Template/TopListInquiries/view.ctp:42;46;50
+msgid "Title"
+msgstr ""
+
+#: Template/tmp_add.ctp:32
+#: Template/Activities/add.ctp:46;48;50;52;54;56
+#: Template/Activities/edit.ctp:46;48;50;52;54;56
+#: Template/Advertisements/add.ctp:55
+#: Template/Advertisements/edit.ctp:55
+#: Template/Advertisements/view.ctp:50
+#: Template/Comments/add.ctp:65
+#: Template/Comments/edit.ctp:65
+#: Template/Comments/view.ctp:66
+#: Template/CompanyInquiries/edit.ctp:53
+#: Template/Inquiries/add.ctp:101;105;109
+#: Template/Inquiries/edit.ctp:101;105;109
+#: Template/News/add.ctp:58;62;66
+#: Template/News/edit.ctp:58;62;66
+msgid "Content"
+msgstr ""
+
+#: Template/tmp_add.ctp:40
+#: Template/Activities/add.ctp:106
+#: Template/Activities/edit.ctp:105
+#: Template/ActivityCategories/add.ctp:54
+#: Template/ActivityCategories/edit.ctp:54
+#: Template/Advertisements/add.ctp:69
+#: Template/Advertisements/edit.ctp:69
+#: Template/Bake/Element/form.ctp:92
+#: Template/Banners/add.ctp:61
+#: Template/Banners/edit.ctp:61
+#: Template/Comments/add.ctp:72
+#: Template/Comments/edit.ctp:72
+#: Template/CompanyInquiries/edit.ctp:86
+#: Template/Cooperations/add.ctp:46
+#: Template/Cooperations/edit.ctp:46
+#: Template/HomeMenus/add.ctp:73
+#: Template/HomeMenus/edit.ctp:73
+#: Template/Inquiries/add.ctp:117
+#: Template/Inquiries/edit.ctp:117
+#: Template/Members/add.ctp:344
+#: Template/Members/edit.ctp:341
+#: Template/Needs/add.ctp:46
+#: Template/Needs/edit.ctp:46
+#: Template/News/add.ctp:109
+#: Template/News/edit.ctp:109
+#: Template/NewsCategories/add.ctp:53
+#: Template/NewsCategories/edit.ctp:53
+#: Template/Productions/add.ctp:67
+#: Template/Productions/edit.ctp:92
+#: Template/Titles/add.ctp:53
+#: Template/Titles/edit.ctp:53
+#: Template/TopListInquiries/add.ctp:69
+#: Template/TopListInquiries/edit.ctp:65
+#: Template/TypeBusiness/add.ctp:53
+#: Template/TypeBusiness/edit.ctp:53
+#: Template/TypeCompanies/add.ctp:53
+#: Template/TypeCompanies/edit.ctp:53
+#: Template/Users/add.ctp:141
+#: Template/Users/change_password.ctp:64
+#: Template/Users/profile.ctp:66
+msgid "Submit"
+msgstr ""
+
+#: Template/tmp_add.ctp:41
+msgid "Back"
+msgstr ""
+
+#: Template/tmp_list.ctp:38
+msgid "Filter Title"
+msgstr ""
+
+#: Template/tmp_list.ctp:45
+#: Template/Activities/index.ctp:59
+#: Template/ActivityCategories/index.ctp:57
+#: Template/Advertisements/index.ctp:55
+#: Template/Bake/Template/index.ctp:60
+#: Template/Banners/index.ctp:59
+#: Template/Comments/index.ctp:57
+#: Template/CompanyInquiries/index.ctp:53
+#: Template/Cooperations/index.ctp:55
+#: Template/HomeMenus/index.ctp:59
+#: Template/Inquiries/index.ctp:61
+#: Template/Members/index.ctp:59
+#: Template/Needs/index.ctp:55
+#: Template/News/index.ctp:57
+#: Template/NewsCategories/index.ctp:57
+#: Template/Productions/index.ctp:56
+#: Template/Titles/index.ctp:59
+#: Template/TopListInquiries/index.ctp:57
+#: Template/TypeBusiness/index.ctp:59
+#: Template/TypeCompanies/index.ctp:59
+msgid "Actions"
+msgstr ""
+
+#: Template/tmp_list.ctp:54
+#: Template/Activities/index.ctp:75
+#: Template/ActivityCategories/index.ctp:70
+#: Template/Advertisements/index.ctp:67
+#: Template/Bake/Template/index.ctp:97
+#: Template/Banners/index.ctp:73
+#: Template/Comments/index.ctp:70
+#: Template/CompanyInquiries/index.ctp:66
+#: Template/Cooperations/index.ctp:67
+#: Template/Element/link_action.ctp:3
+#: Template/HomeMenus/index.ctp:99
+#: Template/Inquiries/index.ctp:79
+#: Template/Members/index.ctp:74
+#: Template/Needs/index.ctp:67
+#: Template/News/index.ctp:70
+#: Template/NewsCategories/index.ctp:70
+#: Template/Productions/index.ctp:73
+#: Template/Titles/index.ctp:73
+#: Template/TopListInquiries/index.ctp:70
+#: Template/TypeBusiness/index.ctp:73
+#: Template/TypeCompanies/index.ctp:73
+msgid "View"
+msgstr ""
+
+#: Template/tmp_list.ctp:55
+#: Template/Activities/index.ctp:76
+#: Template/Activities/view.ctp:113
+#: Template/ActivityCategories/index.ctp:71
+#: Template/ActivityCategories/view.ctp:72
+#: Template/Advertisements/index.ctp:68
+#: Template/Advertisements/view.ctp:76
+#: Template/Bake/Template/index.ctp:98
+#: Template/Bake/Template/view.ctp:60
+#: Template/Banners/index.ctp:74
+#: Template/Banners/view.ctp:76
+#: Template/Comments/index.ctp:71
+#: Template/Comments/view.ctp:88
+#: Template/CompanyInquiries/index.ctp:67
+#: Template/CompanyInquiries/view.ctp:91
+#: Template/Cooperations/index.ctp:68
+#: Template/Cooperations/view.ctp:64
+#: Template/Element/link_action.ctp:6
+#: Template/HomeMenus/index.ctp:100
+#: Template/HomeMenus/view.ctp:80
+#: Template/Inquiries/index.ctp:80
+#: Template/Inquiries/view.ctp:132
+#: Template/Members/index.ctp:75
+#: Template/Members/view.ctp:242
+#: Template/Needs/index.ctp:68
+#: Template/Needs/view.ctp:64
+#: Template/News/index.ctp:71
+#: Template/News/view.ctp:113
+#: Template/NewsCategories/index.ctp:71
+#: Template/NewsCategories/view.ctp:68
+#: Template/Productions/index.ctp:74
+#: Template/Productions/view.ctp:95
+#: Template/Titles/index.ctp:74
+#: Template/Titles/view.ctp:72
+#: Template/TopListInquiries/index.ctp:71
+#: Template/TopListInquiries/view.ctp:76
+#: Template/TypeBusiness/index.ctp:74
+#: Template/TypeBusiness/view.ctp:72
+#: Template/TypeCompanies/index.ctp:74
+#: Template/TypeCompanies/view.ctp:72
+#: Template/Users/view.ctp:76
+msgid "Edit"
+msgstr ""
+
+#: Template/tmp_list.ctp:56
+msgid "Delete"
+msgstr ""
+
+#: Template/tmp_list.ctp:56
+#: Template/Activities/index.ctp:77
+#: Template/ActivityCategories/index.ctp:72
+#: Template/Advertisements/index.ctp:69
+#: Template/Bake/Template/index.ctp:99
+#: Template/Banners/index.ctp:75
+#: Template/Comments/index.ctp:72
+#: Template/CompanyInquiries/index.ctp:68
+#: Template/Cooperations/index.ctp:69
+#: Template/Element/link_action.ctp:8
+#: Template/HomeMenus/index.ctp:101
+#: Template/Inquiries/index.ctp:81
+#: Template/Members/index.ctp:76
+#: Template/Needs/index.ctp:69
+#: Template/News/index.ctp:72
+#: Template/NewsCategories/index.ctp:72
+#: Template/Productions/index.ctp:75
+#: Template/Titles/index.ctp:75
+#: Template/TopListInquiries/index.ctp:72
+#: Template/TypeBusiness/index.ctp:75
+#: Template/TypeCompanies/index.ctp:75
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Activities/add.ctp:1;6
+#: Template/Activities/edit.ctp:1;6
+#: Template/Activities/index.ctp:1
+#: Template/Activities/view.ctp:2;7
+msgid "Activities"
+msgstr ""
+
+#: Template/Activities/add.ctp:8
+#: Template/Activities/edit.ctp:8
+#: Template/Activities/index.ctp:8;28
+#: Template/Activities/view.ctp:9
+msgid "List of Activity"
+msgstr ""
+
+#: Template/Activities/add.ctp:24;32
+msgid "Add Activity"
+msgstr ""
+
+#: Template/Activities/add.ctp:34;36;38;40;42;44
+#: Template/Activities/edit.ctp:34;36;38;40;42;44
+#: Template/Activities/view.ctp:42;46;50
+#: Template/ActivityCategories/add.ctp:34;38;42
+#: Template/ActivityCategories/edit.ctp:34;38;42
+#: Template/ActivityCategories/view.ctp:42;46;50
+#: Template/Advertisements/add.ctp:34;38;42
+#: Template/Advertisements/edit.ctp:34;38;42
+#: Template/Advertisements/index.ctp:51
+#: Template/Advertisements/view.ctp:42
+#: Template/Cooperations/add.ctp:34
+#: Template/Cooperations/edit.ctp:34
+#: Template/Cooperations/view.ctp:42
+#: Template/HomeMenus/add.ctp:35;39;43
+#: Template/HomeMenus/edit.ctp:35;39;43
+#: Template/HomeMenus/index.ctp:53
+#: Template/HomeMenus/view.ctp:42
+#: Template/Needs/add.ctp:34
+#: Template/Needs/edit.ctp:34
+#: Template/Needs/index.ctp:51
+#: Template/Needs/view.ctp:42
+#: Template/News/add.ctp:34;38;42
+#: Template/News/edit.ctp:34;38;42
+#: Template/News/view.ctp:42;46;50
+#: Template/NewsCategories/add.ctp:34;38;42
+#: Template/NewsCategories/edit.ctp:34;38;42
+#: Template/NewsCategories/index.ctp:52;53;54
+#: Template/NewsCategories/view.ctp:42;46;50
+#: Template/Productions/index.ctp:51
+#: Template/Productions/view.ctp:49
+#: Template/Titles/add.ctp:34;38;42
+#: Template/Titles/edit.ctp:34;38;42
+#: Template/Titles/index.ctp:53;54;55
+#: Template/Titles/view.ctp:42;46;50
+#: Template/Users/index.ctp:67
+#: Template/Users/view.ctp:53
+msgid "Name"
+msgstr ""
+
+#: Template/Activities/add.ctp:58
+#: Template/Activities/edit.ctp:58
+#: Template/Activities/view.ctp:55
+#: Template/Banners/add.ctp:34
+#: Template/Banners/edit.ctp:34
+#: Template/Banners/view.ctp:42
+#: Template/CompanyInquiries/edit.ctp:62
+#: Template/CompanyInquiries/view.ctp:46
+#: Template/Inquiries/add.ctp:50
+#: Template/Inquiries/edit.ctp:50
+#: Template/Inquiries/view.ctp:66
+#: Template/News/add.ctp:78
+#: Template/News/edit.ctp:78
+#: Template/News/view.ctp:75
+#: Template/Productions/edit.ctp:73
+#: Template/Productions/index.ctp:47
+#: Template/Productions/view.ctp:69
+msgid "Image"
+msgstr ""
+
+#: Template/Activities/add.ctp:60
+#: Template/Activities/edit.ctp:60
+#: Template/Activities/index.ctp:53
+#: Template/Banners/add.ctp:36
+#: Template/Banners/edit.ctp:36
+#: Template/Banners/index.ctp:53
+#: Template/CompanyInquiries/edit.ctp:63
+#: Template/CompanyInquiries/index.ctp:48
+#: Template/Inquiries/add.ctp:52
+#: Template/Inquiries/edit.ctp:52
+#: Template/Inquiries/index.ctp:54
+#: Template/News/index.ctp:52
+#: Template/Productions/add.ctp:56
+#: Template/Productions/edit.ctp:74
+msgid "image"
+msgstr ""
+
+#: Template/Activities/add.ctp:62
+#: Template/Activities/edit.ctp:62
+#: Template/ActivityCategories/index.ctp:6
+msgid "Activity Category"
+msgstr ""
+
+#: Template/Activities/add.ctp:64
+#: Template/Activities/edit.ctp:64
+#: Template/News/add.ctp:72
+#: Template/News/edit.ctp:72
+msgid "Select Category"
+msgstr ""
+
+#: Template/Activities/add.ctp:64
+#: Template/Activities/edit.ctp:64
+msgid "category"
+msgstr ""
+
+#: Template/Activities/add.ctp:66;70;74
+#: Template/Activities/edit.ctp:66;70;74
+#: Template/Activities/view.ctp:63;67;71
+#: Template/CompanyInquiries/view.ctp:62
+#: Template/Inquiries/add.ctp:65;67;69;71;73;75
+#: Template/Inquiries/edit.ctp:65;67;69;71;73;75
+#: Template/News/add.ctp:46;50;54
+#: Template/News/edit.ctp:46;50;54
+#: Template/News/view.ctp:54;59;63
+#: Template/Productions/edit.ctp:85
+#: Template/Productions/view.ctp:73
+msgid "Description"
+msgstr ""
+
+#: Template/Activities/add.ctp:68;72;76
+#: Template/Activities/edit.ctp:68;72;76
+#: Template/Activities/index.ctp:58
+#: Template/CompanyInquiries/edit.ctp:50
+#: Template/Productions/add.ctp:59
+#: Template/Productions/edit.ctp:86
+msgid "description"
+msgstr ""
+
+#: Template/Activities/add.ctp:78;82;86
+#: Template/Activities/edit.ctp:78;82;86
+#: Template/Activities/view.ctp:75;79;83
+#: Template/Productions/edit.ctp:58
+#: Template/Productions/view.ctp:57
+msgid "Short Description"
+msgstr ""
+
+#: Template/Activities/add.ctp:80;84;88
+#: Template/Activities/edit.ctp:80;84;88
+msgid "short description"
+msgstr ""
+
+#: Template/Activities/add.ctp:90
+#: Template/Activities/edit.ctp:90
+#: Template/Activities/view.ctp:87
+#: Template/News/add.ctp:98
+#: Template/News/edit.ctp:98
+#: Template/News/view.ctp:91
+msgid "New"
+msgstr ""
+
+#: Template/Activities/add.ctp:92
+#: Template/Activities/edit.ctp:92
+msgid "new"
+msgstr ""
+
+#: Template/Activities/add.ctp:94
+#: Template/Activities/edit.ctp:94
+#: Template/Activities/view.ctp:91
+#: Template/ActivityCategories/add.ctp:46
+#: Template/ActivityCategories/edit.ctp:46
+#: Template/ActivityCategories/view.ctp:54
+#: Template/Advertisements/add.ctp:61
+#: Template/Advertisements/edit.ctp:61
+#: Template/Advertisements/index.ctp:54
+#: Template/Advertisements/view.ctp:58
+#: Template/Banners/add.ctp:50
+#: Template/Banners/edit.ctp:50
+#: Template/Banners/view.ctp:58
+#: Template/Comments/add.ctp:56
+#: Template/Comments/edit.ctp:56
+#: Template/CompanyInquiries/edit.ctp:69
+#: Template/CompanyInquiries/view.ctp:68
+#: Template/Cooperations/add.ctp:38
+#: Template/Cooperations/edit.ctp:38
+#: Template/Cooperations/view.ctp:46
+#: Template/HomeMenus/add.ctp:63
+#: Template/HomeMenus/edit.ctp:63
+#: Template/HomeMenus/view.ctp:62
+#: Template/Inquiries/add.ctp:97
+#: Template/Inquiries/edit.ctp:97
+#: Template/Inquiries/index.ctp:60
+#: Template/Inquiries/view.ctp:110
+#: Template/Members/add.ctp:177;178
+#: Template/Members/edit.ctp:176;177
+#: Template/Members/view.ctp:202
+#: Template/Needs/add.ctp:38
+#: Template/Needs/edit.ctp:38
+#: Template/Needs/index.ctp:52
+#: Template/Needs/view.ctp:46
+#: Template/News/view.ctp:79
+#: Template/Productions/edit.ctp:80
+#: Template/Productions/index.ctp:54
+#: Template/Productions/view.ctp:77
+#: Template/TopListInquiries/add.ctp:57
+#: Template/TopListInquiries/edit.ctp:57
+#: Template/TopListInquiries/view.ctp:58
+#: Template/Users/add.ctp:95;96
+#: Template/Users/index.ctp:69
+#: Template/Users/view.ctp:61
+msgid "Status"
+msgstr ""
+
+#: Template/Activities/add.ctp:96
+#: Template/Activities/edit.ctp:96
+#: Template/ActivityCategories/add.ctp:48
+#: Template/ActivityCategories/edit.ctp:48
+#: Template/ActivityCategories/index.ctp:55
+#: Template/Advertisements/add.ctp:63
+#: Template/Advertisements/edit.ctp:63
+#: Template/Banners/add.ctp:52
+#: Template/Banners/edit.ctp:52
+#: Template/Banners/index.ctp:57
+#: Template/CompanyInquiries/edit.ctp:70
+#: Template/CompanyInquiries/index.ctp:52
+#: Template/Cooperations/add.ctp:40
+#: Template/Cooperations/edit.ctp:40
+#: Template/Cooperations/index.ctp:52
+#: Template/HomeMenus/add.ctp:64
+#: Template/HomeMenus/edit.ctp:64
+#: Template/HomeMenus/index.ctp:58
+#: Template/Inquiries/add.ctp:99
+#: Template/Inquiries/edit.ctp:99
+#: Template/Needs/add.ctp:40
+#: Template/Needs/edit.ctp:40
+#: Template/News/index.ctp:54
+#: Template/Productions/add.ctp:62
+#: Template/Productions/edit.ctp:81
+#: Template/TopListInquiries/add.ctp:58
+#: Template/TopListInquiries/edit.ctp:58
+#: Template/TopListInquiries/index.ctp:54
+msgid "status"
+msgstr ""
+
+#: Template/Activities/add.ctp:98
+#: Template/Activities/edit.ctp:98
+#: Template/Activities/view.ctp:95
+#: Template/Inquiries/add.ctp:85;87
+#: Template/Inquiries/edit.ctp:85;87
+#: Template/Inquiries/view.ctp:98
+#: Template/Members/add.ctp:184;185
+#: Template/Members/edit.ctp:183;184
+#: Template/News/add.ctp:102
+#: Template/News/edit.ctp:102
+#: Template/News/view.ctp:95
+msgid "Total View"
+msgstr ""
+
+#: Template/Activities/add.ctp:100
+#: Template/Activities/edit.ctp:100
+#: Template/News/add.ctp:104
+#: Template/News/edit.ctp:104
+msgid "total view"
+msgstr ""
+
+#: Template/Activities/edit.ctp:24;32
+msgid "Edit Activity"
+msgstr ""
+
+#: Template/Activities/index.ctp:6
+msgid "Activity"
+msgstr ""
+
+#: Template/Activities/index.ctp:15
+msgid "New Activity"
+msgstr ""
+
+#: Template/Activities/index.ctp:52
+#: Template/ActivityCategories/index.ctp:51
+#: Template/Banners/index.ctp:52
+#: Template/Comments/index.ctp:51
+#: Template/Cooperations/index.ctp:50
+#: Template/Inquiries/index.ctp:53
+#: Template/Needs/index.ctp:50
+#: Template/News/index.ctp:51
+#: Template/NewsCategories/index.ctp:51
+#: Template/TopListInquiries/index.ctp:51
+#: Template/TypeBusiness/index.ctp:52
+#: Template/TypeCompanies/index.ctp:52
+msgid "id"
+msgstr ""
+
+#: Template/Activities/index.ctp:54
+#: Template/ActivityCategories/add.ctp:36
+#: Template/ActivityCategories/edit.ctp:36
+#: Template/ActivityCategories/index.ctp:52
+#: Template/News/index.ctp:53
+#: Template/NewsCategories/add.ctp:36
+#: Template/NewsCategories/edit.ctp:36
+#: Template/Titles/add.ctp:36
+#: Template/Titles/edit.ctp:36
+msgid "name_vie"
+msgstr ""
+
+#: Template/Activities/index.ctp:55
+#: Template/ActivityCategories/add.ctp:40
+#: Template/ActivityCategories/edit.ctp:40
+#: Template/ActivityCategories/index.ctp:53
+#: Template/NewsCategories/add.ctp:40
+#: Template/NewsCategories/edit.ctp:40
+#: Template/Titles/add.ctp:40
+#: Template/Titles/edit.ctp:40
+msgid "name_eng"
+msgstr ""
+
+#: Template/Activities/index.ctp:56
+#: Template/ActivityCategories/add.ctp:44
+#: Template/ActivityCategories/edit.ctp:44
+#: Template/ActivityCategories/index.ctp:54
+#: Template/NewsCategories/add.ctp:44
+#: Template/NewsCategories/edit.ctp:44
+#: Template/Titles/add.ctp:44
+#: Template/Titles/edit.ctp:44
+msgid "name_jpn"
+msgstr ""
+
+#: Template/Activities/index.ctp:57
+msgid "activity_category_id"
+msgstr ""
+
+#: Template/Activities/view.ctp:38
+#: Template/ActivityCategories/view.ctp:38
+#: Template/Advertisements/index.ctp:50
+#: Template/Advertisements/view.ctp:38
+#: Template/Banners/view.ctp:38
+#: Template/Comments/view.ctp:38
+#: Template/CompanyInquiries/index.ctp:47
+#: Template/CompanyInquiries/view.ctp:38
+#: Template/Cooperations/view.ctp:38
+#: Template/HomeMenus/index.ctp:52
+#: Template/HomeMenus/view.ctp:38
+#: Template/Inquiries/view.ctp:38
+#: Template/Members/index.ctp:52
+#: Template/Members/view.ctp:38
+#: Template/Needs/view.ctp:38
+#: Template/News/view.ctp:38
+#: Template/NewsCategories/view.ctp:38
+#: Template/Productions/view.ctp:37
+#: Template/Titles/index.ctp:52
+#: Template/Titles/view.ctp:38
+#: Template/TopListInquiries/view.ctp:38
+#: Template/TypeBusiness/view.ctp:38
+#: Template/TypeCompanies/view.ctp:38
+msgid "Id"
+msgstr ""
+
+#: Template/Activities/view.ctp:59
+msgid "Activity Category Id"
+msgstr ""
+
+#: Template/Activities/view.ctp:88;92
+#: Template/ActivityCategories/index.ctp:67
+#: Template/ActivityCategories/view.ctp:55
+#: Template/Advertisements/index.ctp:65
+#: Template/Advertisements/view.ctp:59
+#: Template/Banners/index.ctp:70
+#: Template/Banners/view.ctp:59
+#: Template/News/index.ctp:66
+#: Template/News/view.ctp:80;92
+msgid "Yes"
+msgstr ""
+
+#: Template/Activities/view.ctp:88;92
+#: Template/ActivityCategories/index.ctp:67
+#: Template/ActivityCategories/view.ctp:55
+#: Template/Advertisements/index.ctp:65
+#: Template/Advertisements/view.ctp:59
+#: Template/Banners/index.ctp:70
+#: Template/Banners/view.ctp:59
+#: Template/News/index.ctp:66
+#: Template/News/view.ctp:80;92
+msgid "No"
+msgstr ""
+
+#: Template/Activities/view.ctp:99
+#: Template/ActivityCategories/view.ctp:58
+#: Template/Advertisements/view.ctp:62
+#: Template/Banners/view.ctp:62
+#: Template/Comments/view.ctp:74
+#: Template/CompanyInquiries/view.ctp:77
+#: Template/Cooperations/view.ctp:50
+#: Template/HomeMenus/view.ctp:66
+#: Template/Inquiries/view.ctp:118
+#: Template/Needs/view.ctp:50
+#: Template/News/view.ctp:99
+#: Template/NewsCategories/view.ctp:54
+#: Template/Productions/view.ctp:81
+#: Template/Titles/index.ctp:57
+#: Template/Titles/view.ctp:58
+#: Template/TopListInquiries/view.ctp:62
+#: Template/TypeBusiness/view.ctp:58
+#: Template/TypeCompanies/index.ctp:57
+#: Template/TypeCompanies/view.ctp:58
+#: Template/Users/view.ctp:65
+msgid "Created"
+msgstr ""
+
+#: Template/Activities/view.ctp:103
+#: Template/ActivityCategories/view.ctp:62
+#: Template/Advertisements/view.ctp:66
+#: Template/Banners/view.ctp:66
+#: Template/Comments/view.ctp:78
+#: Template/CompanyInquiries/view.ctp:81
+#: Template/Cooperations/view.ctp:54
+#: Template/HomeMenus/view.ctp:70
+#: Template/Inquiries/view.ctp:122
+#: Template/Needs/view.ctp:54
+#: Template/News/view.ctp:103
+#: Template/NewsCategories/view.ctp:58
+#: Template/Productions/index.ctp:55
+#: Template/Productions/view.ctp:85
+#: Template/Titles/index.ctp:58
+#: Template/Titles/view.ctp:62
+#: Template/TopListInquiries/view.ctp:66
+#: Template/TypeBusiness/view.ctp:62
+#: Template/TypeCompanies/index.ctp:58
+#: Template/TypeCompanies/view.ctp:62
+msgid "Modified"
+msgstr ""
+
+#: Template/Activities/view.ctp:112
+#: Template/ActivityCategories/view.ctp:71
+#: Template/Advertisements/view.ctp:75
+#: Template/Bake/Template/view.ctp:59
+#: Template/Banners/view.ctp:75
+#: Template/Comments/view.ctp:87
+#: Template/CompanyInquiries/view.ctp:90
+#: Template/Cooperations/view.ctp:63
+#: Template/HomeMenus/view.ctp:79
+#: Template/Inquiries/view.ctp:131
+#: Template/Members/view.ctp:241
+#: Template/Needs/view.ctp:63
+#: Template/News/view.ctp:112
+#: Template/NewsCategories/view.ctp:67
+#: Template/Productions/view.ctp:94
+#: Template/Titles/view.ctp:71
+#: Template/TopListInquiries/view.ctp:75
+#: Template/TypeBusiness/view.ctp:71
+#: Template/TypeCompanies/view.ctp:71
+#: Template/Users/view.ctp:75
+msgid "Cancel"
+msgstr ""
+
+#: Template/ActivityCategories/add.ctp:1;6
+#: Template/ActivityCategories/edit.ctp:1;6
+#: Template/ActivityCategories/index.ctp:1
+#: Template/ActivityCategories/view.ctp:2;7
+msgid "Activity Categories"
+msgstr ""
+
+#: Template/ActivityCategories/add.ctp:8
+#: Template/ActivityCategories/edit.ctp:8
+#: Template/ActivityCategories/index.ctp:8;28
+#: Template/ActivityCategories/view.ctp:9
+msgid "List of Activity Category"
+msgstr ""
+
+#: Template/ActivityCategories/add.ctp:24;32
+msgid "Add Activity Category"
+msgstr ""
+
+#: Template/ActivityCategories/edit.ctp:24;32
+msgid "Edit Activity Category"
+msgstr ""
+
+#: Template/ActivityCategories/index.ctp:15
+msgid "New Activity Category"
+msgstr ""
+
+#: Template/ActivityCategories/index.ctp:56
+#: Template/Banners/index.ctp:58
+#: Template/Cooperations/index.ctp:53
+#: Template/Needs/index.ctp:53
+#: Template/NewsCategories/index.ctp:55
+#: Template/TopListInquiries/index.ctp:55
+#: Template/TypeBusiness/index.ctp:57
+msgid "created"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:1;6
+#: Template/Advertisements/edit.ctp:1;6
+#: Template/Advertisements/index.ctp:1
+#: Template/Advertisements/view.ctp:2;7
+msgid "Advertisements"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:8
+#: Template/Advertisements/edit.ctp:8
+#: Template/Advertisements/index.ctp:8;28
+#: Template/Advertisements/view.ctp:9
+msgid "List of Advertisement"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:24;32
+msgid "Add Advertisement"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:36;40;44
+#: Template/Advertisements/edit.ctp:36;40;44
+#: Template/Comments/add.ctp:66
+#: Template/Comments/edit.ctp:66
+#: Template/CompanyInquiries/edit.ctp:54
+msgid "content"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:46
+#: Template/Advertisements/edit.ctp:46
+#: Template/Advertisements/index.ctp:52
+#: Template/Advertisements/view.ctp:46
+#: Template/Banners/add.ctp:46
+#: Template/Banners/edit.ctp:46
+#: Template/Banners/view.ctp:54
+msgid "Position"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:48
+#: Template/Advertisements/edit.ctp:48
+#: Template/Banners/add.ctp:48
+#: Template/Banners/edit.ctp:48
+msgid "Select Position"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:48
+#: Template/Advertisements/edit.ctp:48
+#: Template/Banners/add.ctp:48
+#: Template/Banners/edit.ctp:48
+#: Template/Banners/index.ctp:56
+msgid "position"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:50;52
+#: Template/Advertisements/edit.ctp:50;52
+#: Template/Advertisements/index.ctp:53
+#: Template/Advertisements/view.ctp:54
+#: Template/Comments/add.ctp:60
+#: Template/Comments/edit.ctp:60
+#: Template/Comments/view.ctp:62
+#: Template/CompanyInquiries/edit.ctp:73
+#: Template/CompanyInquiries/view.ctp:73
+#: Template/HomeMenus/add.ctp:59
+#: Template/HomeMenus/edit.ctp:59
+#: Template/HomeMenus/view.ctp:58
+#: Template/Inquiries/view.ctp:114
+#: Template/Members/add.ctp:173;174
+#: Template/Members/edit.ctp:172;173
+#: Template/Members/view.ctp:197
+#: Template/Titles/add.ctp:46
+#: Template/Titles/edit.ctp:46
+#: Template/Titles/index.ctp:56
+#: Template/Titles/view.ctp:54
+#: Template/TypeBusiness/view.ctp:54
+#: Template/TypeCompanies/add.ctp:46
+#: Template/TypeCompanies/edit.ctp:46
+#: Template/TypeCompanies/index.ctp:56
+#: Template/TypeCompanies/view.ctp:54
+msgid "Order"
+msgstr ""
+
+#: Template/Advertisements/add.ctp:57
+#: Template/Advertisements/edit.ctp:57
+#: Template/Banners/add.ctp:40
+#: Template/Banners/edit.ctp:40
+#: Template/Banners/index.ctp:54
+#: Template/TopListInquiries/add.ctp:51
+#: Template/TopListInquiries/edit.ctp:51
+#: Template/TopListInquiries/index.ctp:53
+msgid "url"
+msgstr ""
+
+#: Template/Advertisements/edit.ctp:24;32
+msgid "Edit Advertisement"
+msgstr ""
+
+#: Template/Advertisements/index.ctp:6
+msgid "Advertisement"
+msgstr ""
+
+#: Template/Advertisements/index.ctp:15
+msgid "New Advertisement"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:9;14
+#: Template/Bake/Template/index.ctp:10
+#: Template/Bake/Template/view.ctp:12;17
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:16
+#: Template/Bake/Template/index.ctp:17;37
+#: Template/Bake/Template/view.ctp:19
+msgid "List of <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:32;40
+msgid "<%= Inflector::humanize($action) %> <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:54;58;67;71;83
+#: Template/Bake/Template/index.ctp:58
+msgid "<%= $field %>"
+msgstr ""
+
+#: Template/Bake/Template/index.ctp:15
+msgid "<%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Template/index.ctp:24
+msgid "New <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Template/view.ctp:49
+msgid "<%= Inflector::humanize($field) %>"
+msgstr ""
+
+#: Template/Banners/add.ctp:1;6
+#: Template/Banners/edit.ctp:1;6
+#: Template/Banners/index.ctp:1
+#: Template/Banners/view.ctp:2;7
+msgid "Banners"
+msgstr ""
+
+#: Template/Banners/add.ctp:8
+#: Template/Banners/edit.ctp:8
+#: Template/Banners/index.ctp:8;28
+#: Template/Banners/view.ctp:9
+msgid "List of Banner"
+msgstr ""
+
+#: Template/Banners/add.ctp:24;32
+msgid "Add Banner"
+msgstr ""
+
+#: Template/Banners/add.ctp:38
+#: Template/Banners/edit.ctp:38
+#: Template/Banners/view.ctp:46
+#: Template/TopListInquiries/add.ctp:50
+#: Template/TopListInquiries/edit.ctp:50
+#: Template/TopListInquiries/view.ctp:54
+msgid "Url"
+msgstr ""
+
+#: Template/Banners/add.ctp:42
+#: Template/Banners/edit.ctp:42
+#: Template/Banners/view.ctp:50
+msgid "Text"
+msgstr ""
+
+#: Template/Banners/add.ctp:44
+#: Template/Banners/edit.ctp:44
+#: Template/Banners/index.ctp:55
+msgid "text"
+msgstr ""
+
+#: Template/Banners/edit.ctp:24;32
+msgid "Edit Banner"
+msgstr ""
+
+#: Template/Banners/index.ctp:6
+msgid "Banner"
+msgstr ""
+
+#: Template/Banners/index.ctp:15
+msgid "New Banner"
+msgstr ""
+
+#: Template/Comments/add.ctp:1;6
+#: Template/Comments/edit.ctp:1;6
+#: Template/Comments/index.ctp:1
+#: Template/Comments/view.ctp:2;7
+msgid "Comments"
+msgstr ""
+
+#: Template/Comments/add.ctp:8
+#: Template/Comments/edit.ctp:8
+#: Template/Comments/index.ctp:8;28
+#: Template/Comments/view.ctp:9
+msgid "List of Comment"
+msgstr ""
+
+#: Template/Comments/add.ctp:24;32
+msgid "Add Comment"
+msgstr ""
+
+#: Template/Comments/add.ctp:40;41
+#: Template/Comments/edit.ctp:40;41
+#: Template/Comments/view.ctp:46
+msgid "Author"
+msgstr ""
+
+#: Template/Comments/add.ctp:46;47
+#: Template/Comments/edit.ctp:46;47
+#: Template/Comments/view.ctp:50
+msgid "Author Info"
+msgstr ""
+
+#: Template/Comments/add.ctp:50
+#: Template/Comments/edit.ctp:50
+#: Template/Comments/view.ctp:58
+msgid "Date"
+msgstr ""
+
+#: Template/Comments/add.ctp:51
+#: Template/Comments/edit.ctp:51
+#: Template/Comments/index.ctp:54
+msgid "date"
+msgstr ""
+
+#: Template/Comments/add.ctp:57
+#: Template/Comments/edit.ctp:57
+#: Template/CompanyInquiries/edit.ctp:70
+#: Template/Cooperations/add.ctp:40
+#: Template/Cooperations/edit.ctp:40
+#: Template/Inquiries/add.ctp:99
+#: Template/Inquiries/edit.ctp:99
+#: Template/Members/add.ctp:178
+#: Template/Members/edit.ctp:177
+#: Template/Needs/add.ctp:40
+#: Template/Needs/edit.ctp:40
+#: Template/Productions/edit.ctp:81
+#: Template/TopListInquiries/add.ctp:58
+#: Template/TopListInquiries/edit.ctp:58
+msgid "Select Status"
+msgstr ""
+
+#: Template/Comments/add.ctp:57
+#: Template/Comments/edit.ctp:57
+#: Template/Comments/index.ctp:55
+msgid "active"
+msgstr ""
+
+#: Template/Comments/add.ctp:61
+#: Template/Comments/edit.ctp:61
+#: Template/Comments/index.ctp:56
+#: Template/CompanyInquiries/edit.ctp:74
+#: Template/HomeMenus/add.ctp:60
+#: Template/HomeMenus/edit.ctp:60
+#: Template/HomeMenus/index.ctp:57
+#: Template/Titles/add.ctp:48
+#: Template/Titles/edit.ctp:48
+#: Template/TypeBusiness/add.ctp:44
+#: Template/TypeBusiness/edit.ctp:44
+#: Template/TypeBusiness/index.ctp:56
+#: Template/TypeCompanies/add.ctp:48
+#: Template/TypeCompanies/edit.ctp:48
+msgid "order"
+msgstr ""
+
+#: Template/Comments/edit.ctp:24;32
+msgid "Edit Comment"
+msgstr ""
+
+#: Template/Comments/index.ctp:6
+msgid "Comment"
+msgstr ""
+
+#: Template/Comments/index.ctp:15
+msgid "New Comment"
+msgstr ""
+
+#: Template/Comments/index.ctp:52
+#: Template/CompanyInquiries/edit.ctp:45
+#: Template/TopListInquiries/add.ctp:37;41;47
+#: Template/TopListInquiries/edit.ctp:37;41;47
+#: Template/TopListInquiries/index.ctp:52
+msgid "title"
+msgstr ""
+
+#: Template/Comments/index.ctp:53
+msgid "author"
+msgstr ""
+
+#: Template/Comments/view.ctp:54
+#: Template/Users/view.ctp:45
+msgid "Avatar"
+msgstr ""
+
+#: Template/Comments/view.ctp:70
+#: Template/News/add.ctp:82
+#: Template/News/edit.ctp:82
+msgid "Active"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:1;6
+#: Template/CompanyInquiries/index.ctp:1
+#: Template/CompanyInquiries/view.ctp:2;7
+msgid "Company Inquiries"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:8
+#: Template/CompanyInquiries/index.ctp:8;24
+#: Template/CompanyInquiries/view.ctp:9
+msgid "List of Company Inquiry"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:24;32
+msgid "Edit Company Inquiry"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:35
+#: Template/CompanyInquiries/index.ctp:51
+#: Template/Inquiries/add.ctp:77;79
+#: Template/Inquiries/edit.ctp:77;79
+#: Template/Inquiries/view.ctp:90
+#: Template/Productions/index.ctp:49
+msgid "Company"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:40
+#: Template/CompanyInquiries/index.ctp:49
+#: Template/CompanyInquiries/view.ctp:54
+#: Template/Inquiries/add.ctp:34;36
+#: Template/Inquiries/edit.ctp:34;36
+#: Template/Members/add.ctp:47;48
+#: Template/Members/edit.ctp:46;47
+#: Template/Members/view.ctp:83
+#: Template/Productions/edit.ctp:40
+#: Template/Productions/view.ctp:45
+msgid "Industry"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:41
+#: Template/Productions/add.ctp:38
+#: Template/Productions/edit.ctp:41
+msgid "industry_code"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:49
+msgid "Descriptions"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:58
+#: Template/CompanyInquiries/view.ctp:50
+#: Template/HomeMenus/add.ctp:51
+#: Template/HomeMenus/edit.ctp:51
+#: Template/HomeMenus/index.ctp:55
+#: Template/HomeMenus/view.ctp:50
+#: Template/Inquiries/add.ctp:81
+#: Template/Inquiries/edit.ctp:81
+#: Template/Inquiries/view.ctp:94
+msgid "Type"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:59
+#: Template/HomeMenus/add.ctp:52
+#: Template/HomeMenus/edit.ctp:52
+#: Template/Inquiries/add.ctp:83
+#: Template/Inquiries/edit.ctp:83
+msgid "Select Type"
+msgstr ""
+
+#: Template/CompanyInquiries/edit.ctp:59
+#: Template/HomeMenus/add.ctp:52
+#: Template/HomeMenus/edit.ctp:52
+#: Template/Inquiries/add.ctp:83
+#: Template/Inquiries/edit.ctp:83
+msgid "type"
+msgstr ""
+
+#: Template/CompanyInquiries/index.ctp:6
+msgid "Company Inquiry"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:42
+msgid "Compay"
+msgstr ""
+
+#: Template/Cooperations/add.ctp:1;6
+#: Template/Cooperations/edit.ctp:1;6
+#: Template/Cooperations/index.ctp:1
+#: Template/Cooperations/view.ctp:2;7
+msgid "Cooperations"
+msgstr ""
+
+#: Template/Cooperations/add.ctp:8
+#: Template/Cooperations/edit.ctp:8
+#: Template/Cooperations/index.ctp:8;28
+#: Template/Cooperations/view.ctp:9
+msgid "List of Cooperation"
+msgstr ""
+
+#: Template/Cooperations/add.ctp:24;32
+msgid "Add Cooperation"
+msgstr ""
+
+#: Template/Cooperations/add.ctp:36
+#: Template/Cooperations/edit.ctp:36
+#: Template/Cooperations/index.ctp:51
+#: Template/HomeMenus/add.ctp:36;40;44
+#: Template/HomeMenus/edit.ctp:36;40;44
+#: Template/Needs/add.ctp:36
+#: Template/Needs/edit.ctp:36
+#: Template/Productions/add.ctp:41
+#: Template/Productions/edit.ctp:48
+msgid "name"
+msgstr ""
+
+#: Template/Cooperations/edit.ctp:24;32
+msgid "Edit Cooperation"
+msgstr ""
+
+#: Template/Cooperations/index.ctp:6
+#: Template/Members/add.ctp:217;221
+#: Template/Members/edit.ctp:216;220
+#: Template/Members/view.ctp:222
+msgid "Cooperation"
+msgstr ""
+
+#: Template/Cooperations/index.ctp:15
+msgid "New Cooperation"
+msgstr ""
+
+#: Template/Cooperations/index.ctp:54
+#: Template/Needs/index.ctp:54
+#: Template/News/index.ctp:56
+#: Template/NewsCategories/index.ctp:56
+#: Template/TopListInquiries/index.ctp:56
+#: Template/TypeBusiness/index.ctp:58
+msgid "modified"
+msgstr ""
+
+#: Template/Element/breadcrumb.ctp:4
+msgid "Warning! This will reset your pages"
+msgstr ""
+
+#: Template/Element/breadcrumb_content.ctp:15
+#: Template/Users/index.ctp:19
+msgid "Add New"
+msgstr ""
+
+#: Template/Element/button_add_top.ctp:3
+msgid "New %s"
+msgstr ""
+
+#: Template/Element/footer.ctp:5
+msgid "Power by Hiworld JSC"
+msgstr ""
+
+#: Template/Element/header.ctp:16
+msgid "Collapse Menu"
+msgstr ""
+
+#: Template/Element/header.ctp:29
+msgid "Setting"
+msgstr ""
+
+#: Template/Element/header.ctp:33
+msgid "Profile"
+msgstr ""
+
+#: Template/Element/header.ctp:37
+msgid "Shortcut"
+msgstr ""
+
+#: Template/Element/header.ctp:41;63
+msgid "Full Screen"
+msgstr ""
+
+#: Template/Element/header.ctp:45
+msgid "Logout"
+msgstr ""
+
+#: Template/Element/header.ctp:54
+msgid "Sign Out"
+msgstr ""
+
+#: Template/Element/header.ctp:54
+msgid "You can improve your security further after logging out by closing this opened browser"
+msgstr ""
+
+#: Template/Element/paginator.ctp:9
+msgid "< First"
+msgstr ""
+
+#: Template/Element/paginator.ctp:10
+msgid "Prev"
+msgstr ""
+
+#: Template/Element/paginator.ctp:17
+msgid "Next"
+msgstr ""
+
+#: Template/Element/paginator.ctp:18
+msgid "> Last"
+msgstr ""
+
+#: Template/Element/paginator.ctp:26
+msgid "Add new"
+msgstr ""
+
+#: Template/Element/paginator.ctp:33
+msgid "Delete Selected"
+msgstr ""
+
+#: Template/Element/paginator.ctp:40
+msgid "Back to translate"
+msgstr ""
+
+#: Template/Element/paginator.ctp:41
+msgid "Save data"
+msgstr ""
+
+#: Template/Element/shortcut.ctp:12
+msgid "My Profile"
+msgstr ""
+
+#: Template/Element/shortcut.ctp:22
+#: Template/Users/change_password.ctp:23
+msgid "Change password"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:1;6
+#: Template/HomeMenus/edit.ctp:1;6
+#: Template/HomeMenus/index.ctp:1
+#: Template/HomeMenus/view.ctp:2;7
+msgid "Home Menus"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:8
+#: Template/HomeMenus/edit.ctp:8
+#: Template/HomeMenus/index.ctp:8;28
+#: Template/HomeMenus/view.ctp:9
+msgid "List of Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:24;32
+msgid "Add Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:47
+#: Template/HomeMenus/edit.ctp:47
+#: Template/HomeMenus/index.ctp:54
+msgid "Parent"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:48
+#: Template/HomeMenus/edit.ctp:48
+msgid "Select Parent"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:48
+#: Template/HomeMenus/edit.ctp:48
+msgid "parent_id"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:55
+#: Template/HomeMenus/edit.ctp:55
+msgid "Child"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:56
+#: Template/HomeMenus/edit.ctp:56
+#: Template/HomeMenus/index.ctp:56
+msgid "child_id"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:64
+#: Template/HomeMenus/edit.ctp:64
+msgid "Select status"
+msgstr ""
+
+#: Template/HomeMenus/edit.ctp:24;32
+msgid "Edit Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/index.ctp:6
+msgid "Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/index.ctp:15
+msgid "New Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/index.ctp:97
+#: Template/HomeMenus/view.ctp:63
+msgid "True"
+msgstr ""
+
+#: Template/HomeMenus/index.ctp:97
+#: Template/HomeMenus/view.ctp:63
+msgid "False"
+msgstr ""
+
+#: Template/HomeMenus/view.ctp:46
+msgid "Parent Id"
+msgstr ""
+
+#: Template/HomeMenus/view.ctp:54
+msgid "Child Id"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:1;6
+#: Template/Inquiries/edit.ctp:1;6
+#: Template/Inquiries/index.ctp:1
+#: Template/Inquiries/view.ctp:2;7
+msgid "Inquiries"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:8
+#: Template/Inquiries/edit.ctp:8
+#: Template/Inquiries/index.ctp:8;28
+#: Template/Inquiries/view.ctp:9
+msgid "List of Inquiry"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:24;32
+msgid "Add Inquiry"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:56
+#: Template/Inquiries/edit.ctp:56
+#: Template/Inquiries/index.ctp:58;59
+#: Template/Inquiries/view.ctp:70
+msgid "Date Start"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:57
+#: Template/Inquiries/edit.ctp:57
+msgid "date_start"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:61
+#: Template/Inquiries/edit.ctp:61
+#: Template/Inquiries/view.ctp:74
+msgid "Date End"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:62
+#: Template/Inquiries/edit.ctp:62
+msgid "date_end"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:89;91
+#: Template/Inquiries/edit.ctp:89;91
+msgid "Inquiry Meta DESC"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:93;95
+#: Template/Inquiries/edit.ctp:93;95
+#: Template/Inquiries/view.ctp:106
+msgid "Inquiry Meta Keyword"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:103
+#: Template/Inquiries/edit.ctp:103
+msgid "content_vie"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:107
+#: Template/Inquiries/edit.ctp:107
+msgid "content_eng"
+msgstr ""
+
+#: Template/Inquiries/add.ctp:111
+#: Template/Inquiries/edit.ctp:111
+msgid "content_jpn"
+msgstr ""
+
+#: Template/Inquiries/edit.ctp:24;32
+msgid "Edit Inquiry"
+msgstr ""
+
+#: Template/Inquiries/index.ctp:6
+#: Template/Members/add.ctp:233;234;284;285;332;333
+#: Template/Members/edit.ctp:232;233;283;284;331;332
+#: Template/Members/view.ctp:232
+msgid "Inquiry"
+msgstr ""
+
+#: Template/Inquiries/index.ctp:15
+msgid "New Inquiry"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:42
+msgid "Title Vie"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:46
+msgid "Title Eng"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:50
+msgid "Title Jpn"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:54
+msgid "Content Vie"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:58
+msgid "Content Eng"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:62
+msgid "Content Jpn"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:78
+msgid "Description Vie"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:82
+msgid "Description Eng"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:86
+msgid "Description Jpn"
+msgstr ""
+
+#: Template/Inquiries/view.ctp:102
+msgid "Inquiry Meta Desc"
+msgstr ""
+
+#: Template/Members/add.ctp:1;6
+#: Template/Members/edit.ctp:1;6
+#: Template/Members/index.ctp:1
+#: Template/Members/view.ctp:2;7
+msgid "Members"
+msgstr ""
+
+#: Template/Members/add.ctp:24;32
+msgid "Add Member"
+msgstr ""
+
+#: Template/Members/add.ctp:36
+#: Template/Members/edit.ctp:35
+msgid "Vietnamese"
+msgstr ""
+
+#: Template/Members/add.ctp:37
+#: Template/Members/edit.ctp:36
+msgid "English"
+msgstr ""
+
+#: Template/Members/add.ctp:38
+#: Template/Members/edit.ctp:37
+msgid "Japanese"
+msgstr ""
+
+#: Template/Members/add.ctp:43;44
+#: Template/Members/edit.ctp:42;43
+msgid "Category Industry"
+msgstr ""
+
+#: Template/Members/add.ctp:44
+#: Template/Members/edit.ctp:43
+msgid "Select Category Industry"
+msgstr ""
+
+#: Template/Members/add.ctp:53
+#: Template/Members/edit.ctp:52
+msgid "Business Type"
+msgstr ""
+
+#: Template/Members/add.ctp:54
+#: Template/Members/edit.ctp:53
+msgid "Select Type Business"
+msgstr ""
+
+#: Template/Members/add.ctp:54;206;207
+#: Template/Members/edit.ctp:53;205;206
+#: Template/Members/view.ctp:217
+msgid "Company Type"
+msgstr ""
+
+#: Template/Members/add.ctp:57;58
+#: Template/Members/edit.ctp:56;57
+#: Template/Members/view.ctp:167
+msgid "Logo"
+msgstr ""
+
+#: Template/Members/add.ctp:64;65;272;273;320;321
+#: Template/Members/edit.ctp:63;64;271;272;319;320
+#: Template/Members/index.ctp:55
+#: Template/Members/view.ctp:78
+#: Template/Productions/edit.ctp:36
+msgid "Company Name"
+msgstr ""
+
+#: Template/Members/add.ctp:68;69;246;247;295;296
+#: Template/Members/edit.ctp:67;68;245;246;294;295
+#: Template/Members/view.ctp:94
+msgid "Company Trading Name"
+msgstr ""
+
+#: Template/Members/add.ctp:74;75;250;251;299;300
+#: Template/Members/edit.ctp:73;74;249;250;298;299
+#: Template/Members/view.ctp:99
+msgid "Company Short Name"
+msgstr ""
+
+#: Template/Members/add.ctp:78;79;268;269;316;317
+#: Template/Members/edit.ctp:77;78;267;268;315;316
+#: Template/Members/view.ctp:114
+msgid "Address"
+msgstr ""
+
+#: Template/Members/add.ctp:84;85
+#: Template/Members/edit.ctp:83;84
+#: Template/Members/view.ctp:104
+msgid "City"
+msgstr ""
+
+#: Template/Members/add.ctp:85
+#: Template/Members/edit.ctp:84
+msgid "Select City"
+msgstr ""
+
+#: Template/Members/add.ctp:88;89
+#: Template/Members/edit.ctp:87;88
+#: Template/Members/view.ctp:109
+msgid "Prefecture"
+msgstr ""
+
+#: Template/Members/add.ctp:94;95
+#: Template/Members/edit.ctp:93;94
+#: Template/Members/view.ctp:119;124
+msgid "Phone"
+msgstr ""
+
+#: Template/Members/add.ctp:98;99
+#: Template/Members/edit.ctp:97;98
+msgid "Phone 2"
+msgstr ""
+
+#: Template/Members/add.ctp:104;105
+#: Template/Members/edit.ctp:103;104
+#: Template/Members/index.ctp:58
+#: Template/Members/view.ctp:131
+msgid "Fax"
+msgstr ""
+
+#: Template/Members/add.ctp:108;109
+#: Template/Members/edit.ctp:107;108
+#: Template/Members/index.ctp:53
+#: Template/Members/view.ctp:41
+#: Template/Users/index.ctp:66
+#: Template/Users/view.ctp:49
+msgid "Email"
+msgstr ""
+
+#: Template/Members/add.ctp:114;115
+#: Template/Members/edit.ctp:113;114
+#: Template/Members/index.ctp:56
+#: Template/Members/view.ctp:135
+msgid "Website"
+msgstr ""
+
+#: Template/Members/add.ctp:118;278;279;326;327
+#: Template/Members/edit.ctp:117;277;278;325;326
+#: Template/Members/index.ctp:54
+#: Template/Members/view.ctp:172
+msgid "Manager"
+msgstr ""
+
+#: Template/Members/add.ctp:121
+#: Template/Members/edit.ctp:120
+msgid "First Name"
+msgstr ""
+
+#: Template/Members/add.ctp:124
+#: Template/Members/edit.ctp:123
+msgid "Last Name"
+msgstr ""
+
+#: Template/Members/add.ctp:131
+#: Template/Members/edit.ctp:130
+#: Template/Members/view.ctp:177
+msgid "Gender"
+msgstr ""
+
+#: Template/Members/add.ctp:132
+#: Template/Members/edit.ctp:131
+msgid "Select Gender"
+msgstr ""
+
+#: Template/Members/add.ctp:132
+#: Template/Members/edit.ctp:131
+msgid "address_en"
+msgstr ""
+
+#: Template/Members/add.ctp:135;136;256;257;305;306
+#: Template/Members/edit.ctp:134;135;255;256;304;305
+#: Template/Members/view.ctp:182
+msgid "Department"
+msgstr ""
+
+#: Template/Members/add.ctp:142;143
+#: Template/Members/edit.ctp:141;142
+#: Template/Members/view.ctp:187
+msgid "Division"
+msgstr ""
+
+#: Template/Members/add.ctp:143
+#: Template/Members/edit.ctp:142
+msgid "Select Division"
+msgstr ""
+
+#: Template/Members/add.ctp:147;148
+#: Template/Members/edit.ctp:146;147
+#: Template/Members/view.ctp:151
+msgid "Company Established"
+msgstr ""
+
+#: Template/Members/add.ctp:153;154
+#: Template/Members/edit.ctp:152;153
+#: Template/Members/view.ctp:155
+msgid "Company Tax Code"
+msgstr ""
+
+#: Template/Members/add.ctp:157;158
+#: Template/Members/edit.ctp:156;157
+#: Template/Members/view.ctp:159
+msgid "Company capital"
+msgstr ""
+
+#: Template/Members/add.ctp:163;164
+#: Template/Members/edit.ctp:162;163
+#: Template/Members/view.ctp:163
+msgid "Total Staff Member"
+msgstr ""
+
+#: Template/Members/add.ctp:167;168
+#: Template/Members/edit.ctp:166;167
+#: Template/Members/view.ctp:192
+msgid "Rated"
+msgstr ""
+
+#: Template/Members/add.ctp:188;189
+#: Template/Members/edit.ctp:187;188
+#: Template/Members/view.ctp:207
+msgid "Membership Type"
+msgstr ""
+
+#: Template/Members/add.ctp:189
+#: Template/Members/edit.ctp:188
+msgid "Select Member Type"
+msgstr ""
+
+#: Template/Members/add.ctp:195;196;261;262;310;311
+#: Template/Members/edit.ctp:194;195;260;261;309;310
+#: Template/Members/view.ctp:212
+msgid "Note"
+msgstr ""
+
+#: Template/Members/add.ctp:199;200;211
+#: Template/Members/edit.ctp:198;199;210
+msgid "Country"
+msgstr ""
+
+#: Template/Members/add.ctp:200
+#: Template/Members/edit.ctp:199
+msgid "Select Country"
+msgstr ""
+
+#: Template/Members/add.ctp:207
+#: Template/Members/edit.ctp:206
+msgid "Select Company Type"
+msgstr ""
+
+#: Template/Members/add.ctp:210
+#: Template/Members/edit.ctp:209
+#: Template/Members/view.ctp:139
+msgid "Language"
+msgstr ""
+
+#: Template/Members/add.ctp:211
+#: Template/Members/edit.ctp:210
+msgid "Select Language"
+msgstr ""
+
+#: Template/Members/add.ctp:224;228
+#: Template/Members/edit.ctp:223;227
+#: Template/Members/view.ctp:227
+#: Template/Needs/add.ctp:1;6
+#: Template/Needs/edit.ctp:1;6
+#: Template/Needs/index.ctp:1
+#: Template/Needs/view.ctp:2;7
+msgid "Needs"
+msgstr ""
+
+#: Template/Members/add.ctp:238;239;288;289;336;337
+#: Template/Members/edit.ctp:237;238;287;288;335;336
+msgid "Business"
+msgstr ""
+
+#: Template/Members/edit.ctp:24;32
+msgid "Edit Member"
+msgstr ""
+
+#: Template/Members/index.ctp:6
+msgid "Member"
+msgstr ""
+
+#: Template/Members/index.ctp:15
+msgid "New Member"
+msgstr ""
+
+#: Template/Members/index.ctp:57
+msgid "Mobile"
+msgstr ""
+
+#: Template/Members/view.ctp:88
+msgid "Company Country"
+msgstr ""
+
+#: Template/Needs/add.ctp:8
+#: Template/Needs/edit.ctp:8
+#: Template/Needs/index.ctp:8;28
+#: Template/Needs/view.ctp:9
+msgid "List of Need"
+msgstr ""
+
+#: Template/Needs/add.ctp:24;32
+msgid "Add Need"
+msgstr ""
+
+#: Template/Needs/edit.ctp:24;32
+msgid "Edit Need"
+msgstr ""
+
+#: Template/Needs/index.ctp:6
+msgid "Need"
+msgstr ""
+
+#: Template/Needs/index.ctp:15
+msgid "New Need"
+msgstr ""
+
+#: Template/News/add.ctp:1;6
+#: Template/News/edit.ctp:1;6
+#: Template/News/index.ctp:1;6
+#: Template/News/view.ctp:2;7
+msgid "News"
+msgstr ""
+
+#: Template/News/add.ctp:8
+#: Template/News/edit.ctp:8
+#: Template/News/index.ctp:8;28
+#: Template/News/view.ctp:9
+msgid "List of News"
+msgstr ""
+
+#: Template/News/add.ctp:24;32
+msgid "Add News"
+msgstr ""
+
+#: Template/News/add.ctp:36
+#: Template/News/edit.ctp:36
+msgid "name (vie)"
+msgstr ""
+
+#: Template/News/add.ctp:40
+#: Template/News/edit.ctp:40
+msgid "name (eng)"
+msgstr ""
+
+#: Template/News/add.ctp:44
+#: Template/News/edit.ctp:44
+msgid "name (jpn)"
+msgstr ""
+
+#: Template/News/add.ctp:48
+#: Template/News/edit.ctp:48
+msgid "description (vie)"
+msgstr ""
+
+#: Template/News/add.ctp:52
+#: Template/News/edit.ctp:52
+msgid "description (eng)"
+msgstr ""
+
+#: Template/News/add.ctp:56
+#: Template/News/edit.ctp:56
+msgid "description (jpn)"
+msgstr ""
+
+#: Template/News/add.ctp:60
+#: Template/News/edit.ctp:60
+msgid "content (vie)"
+msgstr ""
+
+#: Template/News/add.ctp:64
+#: Template/News/edit.ctp:64
+msgid "content (eng)"
+msgstr ""
+
+#: Template/News/add.ctp:68
+#: Template/News/edit.ctp:68
+msgid "content (jpn)"
+msgstr ""
+
+#: Template/News/add.ctp:70
+#: Template/News/edit.ctp:70
+#: Template/News/view.ctp:67
+msgid "Category"
+msgstr ""
+
+#: Template/News/add.ctp:74
+#: Template/News/edit.ctp:74
+#: Template/News/view.ctp:71
+msgid "Company ID"
+msgstr ""
+
+#: Template/News/add.ctp:76
+#: Template/News/edit.ctp:76
+msgid "company id"
+msgstr ""
+
+#: Template/News/add.ctp:86
+#: Template/News/edit.ctp:86
+msgid "Home Page"
+msgstr ""
+
+#: Template/News/add.ctp:90
+#: Template/News/edit.ctp:90
+msgid "News Meta DESC"
+msgstr "Mô tả siêu dữ liệu"
+
+#: Template/News/add.ctp:92
+#: Template/News/edit.ctp:92
+msgid "news meta desc"
+msgstr "mô tả siêu dữ liệu"
+
+#: Template/News/add.ctp:94
+#: Template/News/edit.ctp:94
+#: Template/News/view.ctp:87
+msgid "News Meta Keyword"
+msgstr "Từ khóa siêu dữ liệu"
+
+#: Template/News/add.ctp:96
+#: Template/News/edit.ctp:96
+msgid "news meta keyword"
+msgstr ""
+
+#: Template/News/edit.ctp:24;32
+msgid "Edit News"
+msgstr ""
+
+#: Template/News/index.ctp:15
+msgid "New News"
+msgstr ""
+
+#: Template/News/index.ctp:42
+msgid "Filter Id"
+msgstr ""
+
+#: Template/News/index.ctp:44
+msgid "Filter Name"
+msgstr ""
+
+#: Template/News/index.ctp:45
+msgid "Filter Status"
+msgstr ""
+
+#: Template/News/index.ctp:46
+msgid "Filter Total View"
+msgstr ""
+
+#: Template/News/index.ctp:47
+msgid "Filter Modified"
+msgstr ""
+
+#: Template/News/index.ctp:55
+msgid "total_view"
+msgstr ""
+
+#: Template/News/view.ctp:83
+msgid "News Meta Desc"
+msgstr ""
+
+#: Template/NewsCategories/add.ctp:1;6
+#: Template/NewsCategories/edit.ctp:1;6
+#: Template/NewsCategories/index.ctp:1
+#: Template/NewsCategories/view.ctp:2;7
+msgid "News Categories"
+msgstr ""
+
+#: Template/NewsCategories/add.ctp:8
+#: Template/NewsCategories/edit.ctp:8
+#: Template/NewsCategories/index.ctp:8;28
+#: Template/NewsCategories/view.ctp:9
+msgid "List of News Category"
+msgstr ""
+
+#: Template/NewsCategories/add.ctp:24;32
+msgid "Add News Category"
+msgstr ""
+
+#: Template/NewsCategories/edit.ctp:24;32
+msgid "Edit News Category"
+msgstr ""
+
+#: Template/NewsCategories/index.ctp:6
+msgid "News Category"
+msgstr ""
+
+#: Template/NewsCategories/index.ctp:15
+msgid "New News Category"
+msgstr ""
+
+#: Template/Productions/add.ctp:1;6
+#: Template/Productions/edit.ctp:1;6
+#: Template/Productions/index.ctp:1
+#: Template/Productions/view.ctp:1;6
+msgid "Productions"
+msgstr ""
+
+#: Template/Productions/add.ctp:8
+#: Template/Productions/edit.ctp:8
+#: Template/Productions/index.ctp:8;21
+#: Template/Productions/view.ctp:8
+msgid "List of Production"
+msgstr ""
+
+#: Template/Productions/add.ctp:24;32
+msgid "Add Production"
+msgstr ""
+
+#: Template/Productions/add.ctp:35
+msgid "member_id"
+msgstr ""
+
+#: Template/Productions/add.ctp:44
+#: Template/Productions/edit.ctp:52
+msgid "code"
+msgstr ""
+
+#: Template/Productions/add.ctp:47
+#: Template/Productions/edit.ctp:59
+msgid "short_description"
+msgstr ""
+
+#: Template/Productions/add.ctp:50
+#: Template/Productions/edit.ctp:63
+msgid "price"
+msgstr ""
+
+#: Template/Productions/add.ctp:53
+#: Template/Productions/edit.ctp:70
+msgid "unit"
+msgstr ""
+
+#: Template/Productions/edit.ctp:24;32
+msgid "Edit Production"
+msgstr ""
+
+#: Template/Productions/edit.ctp:47
+msgid "Production Name"
+msgstr ""
+
+#: Template/Productions/edit.ctp:51
+msgid "Production Code"
+msgstr ""
+
+#: Template/Productions/edit.ctp:62
+#: Template/Productions/index.ctp:52
+#: Template/Productions/view.ctp:61
+msgid "Price"
+msgstr ""
+
+#: Template/Productions/edit.ctp:69
+#: Template/Productions/index.ctp:53
+#: Template/Productions/view.ctp:65
+msgid "Unit"
+msgstr ""
+
+#: Template/Productions/index.ctp:6
+msgid "Production"
+msgstr ""
+
+#: Template/Productions/index.ctp:48
+msgid "Create"
+msgstr ""
+
+#: Template/Productions/index.ctp:50
+#: Template/Productions/view.ctp:53
+#: Template/Settings/businesses.ctp:36;40
+#: Template/Settings/cities.ctp:36;40
+#: Template/Settings/industries.ctp:36;40
+#: Template/Settings/prefectures.ctp:36;40
+msgid "Code"
+msgstr ""
+
+#: Template/Productions/view.ctp:41
+msgid "Member Id"
+msgstr ""
+
+#: Template/Settings/businesses.ctp:1
+msgid "Businesses"
+msgstr ""
+
+#: Template/Settings/businesses.ctp:6
+#: Template/Settings/cities.ctp:1;6
+#: Template/Settings/industries.ctp:6
+#: Template/Settings/prefectures.ctp:6
+msgid "Cities"
+msgstr ""
+
+#: Template/Settings/businesses.ctp:8;22
+#: Template/Settings/cities.ctp:8;22
+#: Template/Settings/industries.ctp:8;22
+#: Template/Settings/prefectures.ctp:8;22
+msgid "List of Cities"
+msgstr ""
+
+#: Template/Settings/businesses.ctp:37;41
+msgid "Businesses Name"
+msgstr ""
+
+#: Template/Settings/cities.ctp:37;41
+msgid "City Name"
+msgstr ""
+
+#: Template/Settings/industries.ctp:1
+msgid "Industries"
+msgstr ""
+
+#: Template/Settings/industries.ctp:37;41
+msgid "Industry Name"
+msgstr ""
+
+#: Template/Settings/prefectures.ctp:1
+msgid "Prefectures"
+msgstr ""
+
+#: Template/Settings/prefectures.ctp:37;41
+msgid "Prefecture Name"
+msgstr ""
+
+#: Template/Titles/add.ctp:1;6
+#: Template/Titles/edit.ctp:1;6
+#: Template/Titles/index.ctp:1
+#: Template/Titles/view.ctp:2;7
+msgid "Titles"
+msgstr ""
+
+#: Template/Titles/add.ctp:8
+#: Template/Titles/edit.ctp:8
+#: Template/Titles/index.ctp:8;28
+#: Template/Titles/view.ctp:9
+msgid "List of Title"
+msgstr ""
+
+#: Template/Titles/add.ctp:24;32
+msgid "Add Title"
+msgstr ""
+
+#: Template/Titles/edit.ctp:24;32
+msgid "Edit Title"
+msgstr ""
+
+#: Template/Titles/index.ctp:15
+msgid "New Title"
+msgstr ""
+
+#: Template/TopListInquiries/add.ctp:1;6
+#: Template/TopListInquiries/edit.ctp:1;6
+#: Template/TopListInquiries/index.ctp:1
+#: Template/TopListInquiries/view.ctp:2;7
+msgid "Top List Inquiries"
+msgstr ""
+
+#: Template/TopListInquiries/add.ctp:8
+#: Template/TopListInquiries/edit.ctp:8
+#: Template/TopListInquiries/index.ctp:8;28
+#: Template/TopListInquiries/view.ctp:9
+msgid "List of Top List Inquiry"
+msgstr ""
+
+#: Template/TopListInquiries/add.ctp:24;32
+msgid "Add Top List Inquiry"
+msgstr ""
+
+#: Template/TopListInquiries/edit.ctp:24;32
+msgid "Edit Top List Inquiry"
+msgstr ""
+
+#: Template/TopListInquiries/index.ctp:6
+msgid "Top List Inquiry"
+msgstr ""
+
+#: Template/TopListInquiries/index.ctp:15
+msgid "New Top List Inquiry"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:1;6
+#: Template/TypeBusiness/edit.ctp:1;6
+#: Template/TypeBusiness/index.ctp:1
+#: Template/TypeBusiness/view.ctp:2;7
+msgid "Type Business"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:8
+#: Template/TypeBusiness/edit.ctp:8
+#: Template/TypeBusiness/index.ctp:8;28
+#: Template/TypeBusiness/view.ctp:9
+msgid "List of Type Busines"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:24;32
+msgid "Add Type Busines"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:35
+#: Template/TypeBusiness/edit.ctp:35
+#: Template/TypeBusiness/index.ctp:53
+#: Template/TypeCompanies/add.ctp:36
+#: Template/TypeCompanies/edit.ctp:36
+msgid "type_name_vie"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:38
+#: Template/TypeBusiness/edit.ctp:38
+#: Template/TypeBusiness/index.ctp:54
+#: Template/TypeCompanies/add.ctp:40
+#: Template/TypeCompanies/edit.ctp:40
+msgid "type_name_eng"
+msgstr ""
+
+#: Template/TypeBusiness/add.ctp:41
+#: Template/TypeBusiness/edit.ctp:41
+#: Template/TypeBusiness/index.ctp:55
+#: Template/TypeCompanies/add.ctp:44
+#: Template/TypeCompanies/edit.ctp:44
+msgid "type_name_jpn"
+msgstr ""
+
+#: Template/TypeBusiness/edit.ctp:24;32
+msgid "Edit Type Busines"
+msgstr ""
+
+#: Template/TypeBusiness/index.ctp:6
+msgid "Type Busines"
+msgstr ""
+
+#: Template/TypeBusiness/index.ctp:15
+msgid "New Type Busines"
+msgstr ""
+
+#: Template/TypeBusiness/view.ctp:42
+#: Template/TypeCompanies/view.ctp:42
+msgid "Type Name Vie"
+msgstr ""
+
+#: Template/TypeBusiness/view.ctp:46
+#: Template/TypeCompanies/view.ctp:46
+msgid "Type Name Eng"
+msgstr ""
+
+#: Template/TypeBusiness/view.ctp:50
+#: Template/TypeCompanies/view.ctp:50
+msgid "Type Name Jpn"
+msgstr ""
+
+#: Template/TypeCompanies/add.ctp:1;6
+#: Template/TypeCompanies/edit.ctp:1;6
+#: Template/TypeCompanies/index.ctp:1
+#: Template/TypeCompanies/view.ctp:2;7
+msgid "Type Companies"
+msgstr ""
+
+#: Template/TypeCompanies/add.ctp:8
+#: Template/TypeCompanies/edit.ctp:8
+#: Template/TypeCompanies/index.ctp:8;28
+#: Template/TypeCompanies/view.ctp:9
+msgid "List of Type Company"
+msgstr ""
+
+#: Template/TypeCompanies/add.ctp:24;32
+msgid "Add Type Company"
+msgstr ""
+
+#: Template/TypeCompanies/add.ctp:34;38;42
+#: Template/TypeCompanies/edit.ctp:34;38;42
+#: Template/TypeCompanies/index.ctp:53;54;55
+msgid "Classification of company"
+msgstr ""
+
+#: Template/TypeCompanies/edit.ctp:24;32
+msgid "Edit Type Company"
+msgstr ""
+
+#: Template/TypeCompanies/index.ctp:6
+msgid "Type Company"
+msgstr ""
+
+#: Template/TypeCompanies/index.ctp:15
+msgid "New Type Company"
+msgstr ""
+
+#: Template/Users/add.ctp:9
+#: Template/Users/index.ctp:12;33
+#: Template/Users/view.ctp:11
+msgid "List of user"
+msgstr ""
+
+#: Template/Users/add.ctp:25
+msgid "User Edit"
+msgstr ""
+
+#: Template/Users/add.ctp:27
+msgid "User Add"
+msgstr ""
+
+#: Template/Users/change_password.ctp:8
+#: Template/Users/profile.ctp:9
+msgid "My profile"
+msgstr ""
+
+#: Template/Users/index.ctp:65
+msgid "ID"
+msgstr ""
+
+#: Template/Users/index.ctp:68
+#: Template/Users/view.ctp:57
+msgid "Group"
+msgstr ""
+
+#: Template/Users/index.ctp:70
+msgid "Action"
+msgstr ""
+
+#: Template/Users/profile.ctp:24
+msgid "Edit profile"
+msgstr ""

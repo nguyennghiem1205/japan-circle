@@ -1,0 +1,4815 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-13 08:33+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/PagesController.php:183;222
+msgid "Thank you for contact."
+msgstr "Cảm ơn đã gửi liên hệ!"
+
+#: Controller/PagesController.php:187;226
+msgid "The contact could not be sent. Please, try again."
+msgstr "Không thể gửi liên hệ vào lúc này. Vui lòng thử lại sau!"
+
+#: Controller/PagesController.php:255
+#: Template/Pages/member_register.ctp:245;246
+#: Template/Pages/member_update_profile.ctp:237
+msgid "Cooperation"
+msgstr "Cơ hội hợp tác"
+
+#: Controller/PagesController.php:271;342
+msgid "The production has been saved."
+msgstr "Sản phẩm đã được lưu!"
+
+#: Controller/PagesController.php:274;345
+msgid "The production could not be saved. Please, try again."
+msgstr "Không thể lưu sản phẩm. Vui lòng thử lại sau!"
+
+#: Controller/PagesController.php:318
+msgid "The company inquiry has been saved."
+msgstr "Nhu cầu hợp tác của công ty đã được lưu"
+
+#: Controller/PagesController.php:321
+msgid "The company inquiry could not be saved. Please, try again."
+msgstr "Vui lòng thử lại, nhu cầu hợp tác của công ty không thể lưu"
+
+#: Controller/PagesController.php:380
+msgid "The company inquiry has been deleted."
+msgstr "Nhu cầu hợp tác của công ty đã bị xóa"
+
+#: Controller/PagesController.php:382
+msgid "The company inquiry could not be deleted. Please, try again."
+msgstr "Vui lòng thử lại, nhu cầu hợp tác của công ty không thể xóa"
+
+#: Controller/PagesController.php:671;679;683;800;814;818
+msgid "The member could not be saved. Please, try again."
+msgstr "Vui lòng thử lại, Thành viên không thể lưu"
+
+#: Controller/PagesController.php:676;811
+msgid "The member has been saved."
+msgstr "Thành viên đã được lưu"
+
+#: Controller/PagesController.php:897
+#: Template/Pages/member_register.ctp:175
+#: Template/Pages/member_update_profile.ctp:103
+msgid "Select Prefecture"
+msgstr "Chọn quận/ huyện"
+
+#: Controller/PagesController.php:916
+#: Template/Pages/add_inquiry.ctp:21
+#: Template/Pages/add_product.ctp:18
+#: Template/Pages/member_register.ctp:82
+msgid "Select Industry"
+msgstr "Chọn ngành"
+
+#: Controller/UsersController.php:31
+msgid "Welcome &nbsp;"
+msgstr "Xin chào"
+
+#: Controller/UsersController.php:35;107
+msgid "Your account has been blocked"
+msgstr "Tài khoản của bạn đã bị khóa"
+
+#: Controller/UsersController.php:113
+msgid "Invalid email or password"
+msgstr "Sai email hoặc mật khẩu"
+
+#: Controller/UsersController.php:143
+msgid "Please check email to reset your password"
+msgstr "Vui lòng kiểm tra email để lấy lại mật khẩu"
+
+#: Controller/UsersController.php:149
+msgid "Email is not exist in the system, please try again"
+msgstr "Email này không tồn tại, vui lòng thử lại bằng email khác"
+
+#: Controller/UsersController.php:162
+msgid "Reset password link is invalid"
+msgstr "Link lấy lại mật khẩu không đúng"
+
+#: Model/Table/UsersTable.php:105
+msgid "Email is already exist"
+msgstr "Email đã được sử dụng"
+
+#: Template/CompanyInquiries/add.ctp:2
+#: Template/CompanyInquiries/edit.ctp:2
+#: Template/CompanyInquiries/index.ctp:2;20
+#: Template/CompanyInquiries/view.ctp:2
+msgid "Actions"
+msgstr "Hoạt động"
+
+#: Template/CompanyInquiries/add.ctp:4
+#: Template/CompanyInquiries/edit.ctp:10
+#: Template/CompanyInquiries/view.ctp:6
+msgid "List Company Inquiries"
+msgstr "Danh sách nhu cầu hợp tác"
+
+#: Template/CompanyInquiries/add.ctp:5
+#: Template/CompanyInquiries/edit.ctp:11
+#: Template/CompanyInquiries/index.ctp:5
+#: Template/CompanyInquiries/view.ctp:8
+msgid "List Members"
+msgstr "Danh sách thành viên"
+
+#: Template/CompanyInquiries/add.ctp:6
+#: Template/CompanyInquiries/edit.ctp:12
+#: Template/CompanyInquiries/index.ctp:6
+#: Template/CompanyInquiries/view.ctp:9
+msgid "New Member"
+msgstr "Tạo thành viên mới"
+
+#: Template/CompanyInquiries/add.ctp:12
+msgid "Add Company Inquiry"
+msgstr "Thêm Hợp tác mới"
+
+#: Template/CompanyInquiries/add.ctp:24
+#: Template/CompanyInquiries/edit.ctp:30
+msgid "Submit"
+msgstr "Lưu"
+
+#: Template/CompanyInquiries/edit.ctp:5
+#: Template/CompanyInquiries/index.ctp:36
+msgid "Delete"
+msgstr "Xóa"
+
+#: Template/CompanyInquiries/edit.ctp:7
+#: Template/CompanyInquiries/index.ctp:36
+#: Template/CompanyInquiries/view.ctp:5
+#: Template/Pages/member_inquiries.ctp:51
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Bạn có chắc chắn muốn xóa # {0}?"
+
+#: Template/CompanyInquiries/edit.ctp:18
+#: Template/CompanyInquiries/view.ctp:4
+msgid "Edit Company Inquiry"
+msgstr "Sửa Hợp tác công ty"
+
+#: Template/CompanyInquiries/index.ctp:4
+#: Template/CompanyInquiries/view.ctp:7
+msgid "New Company Inquiry"
+msgstr "Tạo Hợp tác công ty mới"
+
+#: Template/CompanyInquiries/index.ctp:34
+msgid "View"
+msgstr "Chi tiết"
+
+#: Template/CompanyInquiries/index.ctp:35
+#: Template/Pages/member_inquiries.ctp:49
+msgid "Edit"
+msgstr "Sửa"
+
+#: Template/CompanyInquiries/index.ctp:45
+msgid "previous"
+msgstr "trước"
+
+#: Template/CompanyInquiries/index.ctp:47
+msgid "next"
+msgstr "sau"
+
+#: Template/CompanyInquiries/view.ctp:5
+msgid "Delete Company Inquiry"
+msgstr "Xóa hợp tác công ty"
+
+#: Template/CompanyInquiries/view.ctp:16
+msgid "Industry Code"
+msgstr "Mã ngành"
+
+#: Template/CompanyInquiries/view.ctp:18
+#: Template/Pages/add_inquiry.ctp:27
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: Template/CompanyInquiries/view.ctp:20
+#: Template/Pages/add_product.ctp:67
+msgid "Description"
+msgstr "Mô tả"
+
+#: Template/CompanyInquiries/view.ctp:22
+#: Template/Pages/add_inquiry.ctp:50
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: Template/CompanyInquiries/view.ctp:24
+msgid "Status"
+msgstr "Trạng thái"
+
+#: Template/CompanyInquiries/view.ctp:26
+msgid "Member"
+msgstr "Thành viên"
+
+#: Template/CompanyInquiries/view.ctp:30
+msgid "Id"
+msgstr ""
+
+#: Template/CompanyInquiries/view.ctp:32
+msgid "Type"
+msgstr "Kiểu"
+
+#: Template/CompanyInquiries/view.ctp:34
+msgid "Order"
+msgstr "Thứ tự"
+
+#: Template/CompanyInquiries/view.ctp:38
+msgid "Created"
+msgstr "Ngày tạo"
+
+#: Template/CompanyInquiries/view.ctp:40
+msgid "Modified"
+msgstr "Ngày sửa"
+
+#: Template/Element/popup.ctp:1
+msgid "Sign-up"
+msgstr "Đăng ký"
+
+#: Template/Element/popup.ctp:7;23
+msgid "Login"
+msgstr "Đăng nhập"
+
+#: Template/Element/popup.ctp:12;44;69
+#: Template/Pages/contact.ctp:40
+#: Template/Pages/detail_member.ctp:89
+#: Template/Pages/member_login.ctp:32
+#: Template/Pages/member_profile.ctp:64
+#: Template/Pages/member_register.ctp:38
+msgid "Email"
+msgstr ""
+
+#: Template/Element/popup.ctp:16;45
+#: Template/Pages/member_register.ctp:44
+msgid "Password"
+msgstr "Mật khẩu"
+
+#: Template/Element/popup.ctp:18
+msgid "Forgot your password?"
+msgstr "Quên mật khẩu?"
+
+#: Template/Element/popup.ctp:29;54
+msgid "Login with Facebook"
+msgstr "Đăng nhập với Facebook"
+
+#: Template/Element/popup.ctp:33;79
+msgid "Don't have an account?"
+msgstr "Chưa có tài khoản?"
+
+#: Template/Element/popup.ctp:33;79
+msgid "Create a free account"
+msgstr "Tạo tài khoản miễn phí"
+
+#: Template/Element/popup.ctp:39
+msgid "Sign Up"
+msgstr "Đăng ký"
+
+#: Template/Element/popup.ctp:42
+#: Template/Pages/member_register.ctp:209
+msgid "First Name"
+msgstr "Tên"
+
+#: Template/Element/popup.ctp:43
+#: Template/Pages/member_register.ctp:215
+msgid "Last Name"
+msgstr "Họ"
+
+#: Template/Element/popup.ctp:48
+msgid "CREATE NEW ACCOUNT"
+msgstr "TẠO TÀI KHOẢN MỚI"
+
+#: Template/Element/popup.ctp:49
+msgid "Teams of Use"
+msgstr "Điều khoản sử dụng"
+
+#: Template/Element/popup.ctp:49
+msgid "Privacy Policy"
+msgstr "Chính sách hoạt động"
+
+#: Template/Element/popup.ctp:59
+msgid "Already have an account?"
+msgstr "Bạn đã có tài khoản?"
+
+#: Template/Element/popup.ctp:59;77
+msgid "Sign in"
+msgstr "Đăng nhập"
+
+#: Template/Element/popup.ctp:65
+msgid "Send a link to reset your password?"
+msgstr "Gửi link lấy lại mật khẩu?"
+
+#: Template/Element/popup.ctp:72
+msgid "Send Password"
+msgstr "Gửi mật khẩu"
+
+#: Template/Element/popup.ctp:77
+msgid "Try to "
+msgstr "Thử"
+
+#: Template/Element/frontend/box-member.ctp:12
+#: Template/Pages/member_login.ctp:6;11;47
+msgid "Đăng nhập"
+msgstr ""
+
+#: Template/Element/frontend/box-member.ctp:13
+msgid "Nếu bạn đã là thành viên Japan Circle"
+msgstr ""
+
+#: Template/Element/frontend/box-member.ctp:17
+#: Template/Pages/about.ctp:59
+msgid "Đăng ký"
+msgstr ""
+
+#: Template/Element/frontend/box-member.ctp:18
+msgid "Bạn chưa là thành viên Japan Circle"
+msgstr ""
+
+#: Template/Element/frontend/box-member.ctp:62
+msgid "Thông tin công ty"
+msgstr "Thông tin doanh nghiệp"
+
+#: Template/Element/frontend/box-member.ctp:63
+msgid "Sản phẩm và dịch vụ"
+msgstr ""
+
+#: Template/Element/frontend/box-member.ctp:64
+#: Template/Pages/member_inquiries.ctp:11;24;31
+#: Template/Pages/member_update_profile.ctp:225
+msgid "Nhu cầu hợp tác"
+msgstr ""
+
+#: Template/Element/frontend/box-member.ctp:65
+msgid "Đổi mật khẩu"
+msgstr ""
+
+#: Template/Element/frontend/box-member.ctp:66
+msgid "Thoát"
+msgstr ""
+
+#: Template/Element/frontend/footer.ctp:6
+#: Template/Pages/about.ctp:38
+#: Template/Pages/contact.ctp:15
+#: Template/Pages/member_register.ctp:10
+msgid "Liên hệ"
+msgstr ""
+
+#: Template/Element/frontend/list_news.ctp:32
+msgid "đọc thêm"
+msgstr ""
+
+#: Template/Element/frontend/nav-bar.ctp:11
+#: Template/Pages/about.ctp:32
+#: Template/Pages/contact.ctp:14
+#: Template/Pages/member_inquiries.ctp:9
+#: Template/Pages/member_login.ctp:10
+#: Template/Pages/member_product.ctp:9
+#: Template/Pages/member_profile.ctp:9
+#: Template/Pages/member_register.ctp:9
+#: Template/Pages/member_update_profile.ctp:15
+msgid "Trang chủ"
+msgstr ""
+
+#: Template/Element/frontend/sidebar-right.ctp:26
+msgid "Ý kiến thành viên"
+msgstr ""
+
+#: Template/Element/frontend/sidebar.ctp:4
+msgid "Thành viên Việt nam"
+msgstr ""
+
+#: Template/Element/frontend/sidebar.ctp:32
+msgid "Facebook"
+msgstr ""
+
+#: Template/Pages/about.ctp:33
+msgid "Vì sao?"
+msgstr ""
+
+#: Template/Pages/about.ctp:34
+msgid "Quyền lợi"
+msgstr ""
+
+#: Template/Pages/about.ctp:35
+msgid "Mạng lưới"
+msgstr ""
+
+#: Template/Pages/about.ctp:36
+msgid "Hoạt động"
+msgstr ""
+
+#: Template/Pages/about.ctp:37
+#: Template/Pages/member_register.ctp:274;276
+msgid "Thành viên"
+msgstr ""
+
+#: Template/Pages/about.ctp:53
+msgid "Cầu nối giao thương Việt Nam - Nhật Bản"
+msgstr ""
+
+#: Template/Pages/about.ctp:56
+msgid "Dự án Xúc tiến, Tư vấn và Kết nối Thương mại giữa doanh nghiệp Việt Nam và Nhật Bản. Đến với Japan Circle, Quý doanh nghiệp sẽ được cung cấp các dịch vụ tối ưu để kết nối kinh doanh giữa doanh nghiệp Việt Nam với doanh nghiệp Nhật Bản"
+msgstr ""
+
+#: Template/Pages/about.ctp:73
+msgid "NHỮNG KHÓ KHĂN GẶP PHẢI"
+msgstr ""
+
+#: Template/Pages/about.ctp:73
+msgid "KHI GIAO THƯƠNG VỚI THỊ TRƯỜNG NHẬT BẢN ?"
+msgstr ""
+
+#: Template/Pages/about.ctp:74
+msgid "Quý doanh nghiệp đang gặp khó khăn gì trong việc giao thương? Japan Circle sẽ cùng Quý doanh nghiệp tháo gỡ khó khăn."
+msgstr ""
+
+#: Template/Pages/about.ctp:83
+msgid "Thiếu thông tin"
+msgstr ""
+
+#: Template/Pages/about.ctp:86
+msgid "Rào cản ngôn ngữ"
+msgstr ""
+
+#: Template/Pages/about.ctp:89
+msgid "Mất thời gian tìm kiếm đối tác phù hợp"
+msgstr ""
+
+#: Template/Pages/about.ctp:92
+msgid "Rủi ro trong việc mở  rộng thị trường"
+msgstr ""
+
+#: Template/Pages/about.ctp:114
+msgid "HÃY ĐĂNG KÝ THÀNH VIÊN JAPAN CIRCLE NGAY HÔM NAY!"
+msgstr ""
+
+#: Template/Pages/about.ctp:119
+msgid "Quyền lợi thành viên"
+msgstr ""
+
+#: Template/Pages/about.ctp:121
+msgid "Được truy cập dữ liệu thành viên Japan Circle"
+msgstr ""
+
+#: Template/Pages/about.ctp:122
+msgid "Nhận bản tin nội bộ (email)"
+msgstr ""
+
+#: Template/Pages/about.ctp:123
+#: Template/Pages/member_register.ctp:290
+msgid "Được cung cấp thông tin kinh tế thương mại, hội thảo, hội chợ, triển lãm cho thị trường Nhật Bản."
+msgstr ""
+
+#: Template/Pages/about.ctp:124
+#: Template/Pages/member_register.ctp:300
+msgid "Được cung cấp thông tin kết nối với khách hàng Nhật."
+msgstr ""
+
+#: Template/Pages/about.ctp:125
+msgid "Nhận được thông tin về các sự kiện kết nối giao thương hoặc đào tạo."
+msgstr ""
+
+#: Template/Pages/about.ctp:126
+msgid "Được quảng cáo trên website và ấn phẩm của Japan Circle."
+msgstr ""
+
+#: Template/Pages/about.ctp:130
+msgid " Các dịch vụ hỗ trợ thêm"
+msgstr ""
+
+#: Template/Pages/about.ctp:132
+msgid "Giới thiệu về doanh nghiệp."
+msgstr ""
+
+#: Template/Pages/about.ctp:133
+msgid "$ clipboard() $"
+msgstr ""
+
+#: Template/Pages/about.ctp:134
+msgid "Điều tra thị trường."
+msgstr ""
+
+#: Template/Pages/about.ctp:135
+msgid "Tổ chức các tour khảo sát"
+msgstr ""
+
+#: Template/Pages/about.ctp:136
+msgid "Hỗ trợ ngôn ngữ"
+msgstr ""
+
+#: Template/Pages/about.ctp:137
+msgid "Tư vấn quảng cáo"
+msgstr ""
+
+#: Template/Pages/about.ctp:157
+msgid "JAPAN CIRCLE KHÔNG NGỪNG PHÁT TRIỂN"
+msgstr ""
+
+#: Template/Pages/about.ctp:182
+msgid "HOẠT ĐỘNG"
+msgstr ""
+
+#: Template/Pages/about.ctp:183
+msgid "JAPAN CIRCLE TỔ CHỨC CÁC BUỔI HỘI THẢO XÚC TIẾN THƯƠNG MẠI."
+msgstr ""
+
+#: Template/Pages/about.ctp:184
+msgid "VÀ CÁC BUỔI CHIA SẼ KINH NGHIỆP KHI GIAO THƯƠNG VỚI NHẬT BẢN!"
+msgstr ""
+
+#: Template/Pages/about.ctp:279
+msgid "THÀNH VIÊN TIÊU BIỂU"
+msgstr ""
+
+#: Template/Pages/about.ctp:280
+msgid "Số lương thành viên tham gia Japan Circle tăng không ngừng trên hệ thống, sau đây là hình ảnh vài thành viên tiêu biểu"
+msgstr ""
+
+#: Template/Pages/about.ctp:287
+msgid "CÔNG TY CỔ PHẦN CƠ KHÍ XÂY DỰNG THƯƠNG MẠI ĐẠI DŨNG "
+msgstr ""
+
+#: Template/Pages/about.ctp:288;294
+msgid "Việt Nam"
+msgstr ""
+
+#: Template/Pages/about.ctp:293
+msgid "CÔNG TY CỔ PHẦN CHỨNG KHOÁN KIS VIỆT NAM "
+msgstr ""
+
+#: Template/Pages/about.ctp:301
+msgid "CÔNG TY CỔ PHẦN NEVER ALONE"
+msgstr ""
+
+#: Template/Pages/about.ctp:302;309;317;324;340;347
+msgid "Việt Nam "
+msgstr ""
+
+#: Template/Pages/about.ctp:308
+msgid "CÔNG TY CỔ PHẦN ĐẦU TƯ SÀI GÒN ĐÀ NẴNG"
+msgstr ""
+
+#: Template/Pages/about.ctp:316
+msgid "CÔNG TY TNHH MINH PHÚC"
+msgstr ""
+
+#: Template/Pages/about.ctp:323
+msgid "CÔNG TY TNHH TÔN VĂN"
+msgstr ""
+
+#: Template/Pages/about.ctp:330
+msgid "CÔNG TY EICOH"
+msgstr ""
+
+#: Template/Pages/about.ctp:331
+msgid "Nhật Bản "
+msgstr ""
+
+#: Template/Pages/about.ctp:339
+msgid "CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI HẢI ÂU"
+msgstr ""
+
+#: Template/Pages/about.ctp:346
+msgid "CÔNG TY TNHH THÊU VIỆT"
+msgstr ""
+
+#: Template/Pages/about.ctp:377
+msgid "Japan Circle. All rights reserved. "
+msgstr ""
+
+#: Template/Pages/add_inquiry.ctp:10
+msgid "Đăng sản phẩm / dịch vụ"
+msgstr ""
+
+#: Template/Pages/add_inquiry.ctp:20
+#: Template/Pages/detail_member.ctp:110
+#: Template/Pages/member_register.ctp:81
+msgid "Industry"
+msgstr "Ngành"
+
+#: Template/Pages/add_inquiry.ctp:35
+msgid "Short Description"
+msgstr "Mô tả ngắn gọn"
+
+#: Template/Pages/add_inquiry.ctp:44
+msgid "Type Inquiry"
+msgstr " Loại hợp tác"
+
+#: Template/Pages/add_inquiry.ctp:45
+msgid "Select Type Inquiry"
+msgstr "Chọn kiểu hợp tác"
+
+#: Template/Pages/add_inquiry.ctp:59
+msgid "Content"
+msgstr "Nội dung"
+
+#: Template/Pages/add_inquiry.ctp:65
+msgid "Đăng thông tin"
+msgstr ""
+
+#: Template/Pages/add_inquiry.ctp:70
+msgid "Thông tin sản phẩm / dịch vụ của quý khách sẽ được chúng tôi kiểm duyệt trước khi công bô thông tin."
+msgstr ""
+
+#: Template/Pages/add_product.ctp:10
+msgid "Add new product / service"
+msgstr "Thêm sản phẩm mới"
+
+#: Template/Pages/add_product.ctp:17
+#: Template/Pages/member_update_profile.ctp:67
+msgid "Industries"
+msgstr "Các ngành"
+
+#: Template/Pages/add_product.ctp:25
+msgid "Product code"
+msgstr "Mã sản phẩm"
+
+#: Template/Pages/add_product.ctp:31
+msgid "Product name"
+msgstr "Tên sản phẩm"
+
+#: Template/Pages/add_product.ctp:39
+msgid "Sort description"
+msgstr "Mô tả ngắn"
+
+#: Template/Pages/add_product.ctp:47
+msgid "Product price"
+msgstr "Giá sản phẩm"
+
+#: Template/Pages/add_product.ctp:53
+msgid "Unit"
+msgstr "ĐVT"
+
+#: Template/Pages/add_product.ctp:59
+msgid "Product image"
+msgstr "Ảnh sản phẩm"
+
+#: Template/Pages/add_product.ctp:73
+msgid "Submit info"
+msgstr "Gửi thông tin"
+
+#: Template/Pages/add_product.ctp:78
+msgid "The info of the product / service will be approval by Admin"
+msgstr "Thông tin sản phẩm / dịch vụ sẽ được Admin phê duyệt"
+
+#: Template/Pages/contact.ctp:27
+msgid "Gửi thông tin liên hệ"
+msgstr ""
+
+#: Template/Pages/contact.ctp:47
+#: Template/Pages/member_profile.ctp:56
+msgid "Điện thoại"
+msgstr ""
+
+#: Template/Pages/contact.ctp:54
+msgid "Tiêu đề"
+msgstr ""
+
+#: Template/Pages/contact.ctp:58
+msgid "Nội dung liên hệ"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:13
+msgid "Member Information"
+msgstr "Thông tin thành viên"
+
+#: Template/Pages/detail_member.ctp:17
+msgid "Company Information"
+msgstr "Thông tin công ty"
+
+#: Template/Pages/detail_member.ctp:18
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: Template/Pages/detail_member.ctp:19
+#: Template/Pages/member_register.ctp:259
+msgid "Inquiry"
+msgstr "Cơ hội hợp tác"
+
+#: Template/Pages/detail_member.ctp:25
+msgid "Logo Company"
+msgstr "Logo công ty"
+
+#: Template/Pages/detail_member.ctp:29
+msgid "Company Code"
+msgstr "Mã công ty"
+
+#: Template/Pages/detail_member.ctp:61
+msgid "Company Name"
+msgstr "Tên công ty"
+
+#: Template/Pages/detail_member.ctp:65
+msgid "Company Trading Name"
+msgstr "Tên giao dịch"
+
+#: Template/Pages/detail_member.ctp:69
+msgid "Company Short Name"
+msgstr "Tên viết tắt"
+
+#: Template/Pages/detail_member.ctp:77
+#: Template/Pages/member_update_profile.ctp:91
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: Template/Pages/detail_member.ctp:81
+#: Template/Pages/member_register.ctp:182;188
+#: Template/Pages/member_update_profile.ctp:108;109
+msgid "Phone"
+msgstr "Điện thoại 1"
+
+#: Template/Pages/detail_member.ctp:85
+#: Template/Pages/member_profile.ctp:60
+#: Template/Pages/member_register.ctp:194
+#: Template/Pages/member_update_profile.ctp:125
+msgid "Fax"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:93
+#: Template/Pages/member_profile.ctp:68
+#: Template/Pages/member_register.ctp:200
+#: Template/Pages/member_update_profile.ctp:131;132
+msgid "Website"
+msgstr ""
+
+#: Template/Pages/detail_member.ctp:97
+msgid "Contact"
+msgstr "Người liên hệ"
+
+#: Template/Pages/detail_member.ctp:102
+msgid "Established"
+msgstr "Ngày thành lập"
+
+#: Template/Pages/detail_member.ctp:106
+msgid "Staff"
+msgstr "Số lượng nhân viên"
+
+#: Template/Pages/detail_member.ctp:122
+msgid "Content Business"
+msgstr "Nội dung kinh doanh"
+
+#: Template/Pages/list_member.ctp:149
+#: Template/Pages/list_member_by_countries.ctp:136
+msgid "First"
+msgstr "trang đầu"
+
+#: Template/Pages/list_member.ctp:169
+#: Template/Pages/list_member_by_countries.ctp:156
+msgid "Last"
+msgstr "trang cuối"
+
+#: Template/Pages/list_member_by_countries.ctp:20
+msgid "Member Viet Nam"
+msgstr "Thành viên Việt Nam"
+
+#: Template/Pages/list_member_by_countries.ctp:23
+msgid "Member Japan"
+msgstr "Thành viên Nhật Bản"
+
+#: Template/Pages/member_inquiries.ctp:5
+#: Template/Pages/member_profile.ctp:5
+#: Template/Pages/member_update_profile.ctp:11
+msgid "Thông tin thành viên"
+msgstr ""
+
+#: Template/Pages/member_inquiries.ctp:10
+#: Template/Pages/member_product.ctp:10
+#: Template/Pages/member_profile.ctp:10
+msgid "Trang thành viên"
+msgstr ""
+
+#: Template/Pages/member_inquiries.ctp:26
+msgid "Hiển thị 1-1 của 1 kết quả."
+msgstr ""
+
+#: Template/Pages/member_inquiries.ctp:30
+#: Template/Pages/member_product.ctp:31
+msgid "Hình"
+msgstr ""
+
+#: Template/Pages/member_inquiries.ctp:32
+msgid "Loại hợp tác"
+msgstr ""
+
+#: Template/Pages/member_inquiries.ctp:33
+#: Template/Pages/member_product.ctp:39
+msgid "Trạng thái"
+msgstr ""
+
+#: Template/Pages/member_inquiries.ctp:34
+#: Template/Pages/member_product.ctp:40
+msgid "Ngày cập nhật"
+msgstr ""
+
+#: Template/Pages/member_inquiries.ctp:59
+msgid "Đăng nhu cầu hợp tác mới"
+msgstr ""
+
+#: Template/Pages/member_login.ctp:25
+msgid "Đăng nhập tài khoản"
+msgstr ""
+
+#: Template/Pages/member_login.ctp:28
+msgid "Vui lòng điền thông tin đăng nhập bên dưới "
+msgstr ""
+
+#: Template/Pages/member_login.ctp:35
+msgid "Mật khẩu"
+msgstr ""
+
+#: Template/Pages/member_login.ctp:41
+msgid "Ghi nhớ đăng nhập lần sau"
+msgstr ""
+
+#: Template/Pages/member_login.ctp:54
+msgid "Quên mật khẩu"
+msgstr ""
+
+#: Template/Pages/member_login.ctp:54
+msgid "nhấp chuột tại đây"
+msgstr ""
+
+#: Template/Pages/member_product.ctp:11
+msgid "Sản phẩm - dịch vụ"
+msgstr ""
+
+#: Template/Pages/member_product.ctp:25
+msgid "Danh sách sản phẩm dịch vụ"
+msgstr ""
+
+#: Template/Pages/member_product.ctp:33
+msgid "Tên sản phẩm / Dịch vụ"
+msgstr ""
+
+#: Template/Pages/member_product.ctp:35
+msgid "Giá"
+msgstr ""
+
+#: Template/Pages/member_product.ctp:38
+msgid "Đơn vị"
+msgstr ""
+
+#: Template/Pages/member_product.ctp:55
+msgid "Đã duyệt"
+msgstr ""
+
+#: Template/Pages/member_product.ctp:55
+msgid "Chờ duyệt"
+msgstr ""
+
+#: Template/Pages/member_product.ctp:60
+msgid "Are you sure you want to delete?"
+msgstr "Bạn có chắc chắn muốn xóa?"
+
+#: Template/Pages/member_product.ctp:69
+msgid "Đăng sản phẩm mới"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:24
+msgid "Thông tin doanh nghiệp "
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:32
+#: Template/Pages/member_update_profile.ctp:41
+msgid "Tên doanh nghiệp"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:36
+#: Template/Pages/member_register.ctp:63
+msgid "Tên giao dịch "
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:40
+#: Template/Pages/member_update_profile.ctp:58
+msgid "Tên viết tắt"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:44
+msgid "Mã số thuế"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:48
+#: Template/Pages/member_update_profile.ctp:90
+msgid "Địa chỉ"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:52
+msgid "Quận / TP"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:72
+#: Template/Pages/member_update_profile.ctp:137
+msgid "Người liên hệ"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:76
+msgid "Năm thành lập"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:80
+#: Template/Pages/member_update_profile.ctp:184
+msgid "Vốn điều lệ"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:84
+msgid "Số lượng nhân viên"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:88
+msgid "Loại thành viên"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:93;133
+msgid "Chỉnh sửa"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:95
+msgid "Thông tin ngành"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:99
+msgid "Phân loại ngành"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:103
+msgid "Ngành"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:107
+msgid "Loại hình"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:113
+msgid "Hình thức hợp tác"
+msgstr ""
+
+#: Template/Pages/member_profile.ctp:123
+msgid "Các dịch vụ cần nhất:"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:5
+#: Template/Pages/member_update_profile.ctp:16
+msgid "Đăng ký thành viên"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:26
+msgid "BƯỚC 1 : THÔNG TIN THÀNH VIÊN "
+msgstr ""
+
+#: Template/Pages/member_register.ctp:32
+msgid "Thông tin đăng nhập"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:36
+msgid "Email (tên truy cập) "
+msgstr ""
+
+#: Template/Pages/member_register.ctp:38
+msgid "Account"
+msgstr "Tài khoản"
+
+#: Template/Pages/member_register.ctp:51
+#: Template/Pages/member_update_profile.ctp:31
+msgid "Thông tin doanh nghiệp"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:55
+msgid "Tên doanh nghiệp "
+msgstr ""
+
+#: Template/Pages/member_register.ctp:57
+msgid "Company"
+msgstr "Công ty"
+
+#: Template/Pages/member_register.ctp:65
+msgid "Trading Name"
+msgstr "Tên giao dịch"
+
+#: Template/Pages/member_register.ctp:73
+msgid "Tên viết tắt "
+msgstr ""
+
+#: Template/Pages/member_register.ctp:75
+msgid "Short Name"
+msgstr "Tên viết tắt"
+
+#: Template/Pages/member_register.ctp:89
+msgid "Type Business"
+msgstr "Loại hình kinh doanh"
+
+#: Template/Pages/member_register.ctp:90
+#: Template/Pages/member_update_profile.ctp:76
+msgid "Select Type Business"
+msgstr "Chọn loại hình kinh doanh"
+
+#: Template/Pages/member_register.ctp:95
+#: Template/Pages/member_update_profile.ctp:85;176
+msgid "Country"
+msgstr "Quốc gia"
+
+#: Template/Pages/member_register.ctp:96
+#: Template/Pages/member_update_profile.ctp:85
+msgid "Select Country"
+msgstr "Chọn quốc gia"
+
+#: Template/Pages/member_register.ctp:101
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+msgid "Language "
+msgstr "Ngôn ngữ (Có thể chọn nhiều ngôn ngữ)"
+
+#: Template/Pages/member_register.ctp:102
+#: Template/Pages/member_update_profile.ctp:176
+msgid "Select Language"
+msgstr "Lựa chọn ngôn ngữ"
+
+#: Template/Pages/member_register.ctp:110
+msgid "Company Established"
+msgstr "Ngày thành lập"
+
+#: Template/Pages/member_register.ctp:116
+msgid "Tax Code"
+msgstr "Mã số thuế"
+
+#: Template/Pages/member_register.ctp:124
+msgid "Company capital"
+msgstr "Vốn điều lệ"
+
+#: Template/Pages/member_register.ctp:130
+msgid "staff"
+msgstr "Số lượng nhân viên"
+
+#: Template/Pages/member_register.ctp:136;137
+#: Template/Pages/member_update_profile.ctp:205;264
+msgid "Logo"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:144
+#: Template/Pages/member_update_profile.ctp:219
+msgid "Business"
+msgstr "Kinh doanh"
+
+#: Template/Pages/member_register.ctp:149
+msgid "Tiếp bước 2 >>> "
+msgstr ""
+
+#: Template/Pages/member_register.ctp:155
+msgid "BƯỚC 2 : THÔNG TIN LIÊN HỆ"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:162
+msgid "Adress"
+msgstr "Địa chỉ"
+
+#: Template/Pages/member_register.ctp:169
+#: Template/Pages/member_update_profile.ctp:97
+msgid "Select City"
+msgstr "Chọn thành phố"
+
+#: Template/Pages/member_register.ctp:174;175
+#: Template/Pages/member_update_profile.ctp:103
+msgid "Prefecture"
+msgstr "Quận / huyện"
+
+#: Template/Pages/member_register.ctp:208
+msgid "Contact person"
+msgstr "Người liên hệ"
+
+#: Template/Pages/member_register.ctp:220
+#: Template/Pages/member_update_profile.ctp:143
+msgid "Division"
+msgstr "Chức vụ"
+
+#: Template/Pages/member_register.ctp:221
+#: Template/Pages/member_update_profile.ctp:143
+msgid "Select Division"
+msgstr "Lựa chọn chức vụ"
+
+msgid "Select District"
+msgstr "Lựa chọn Quận / Huyện"
+
+#: Template/Pages/member_register.ctp:221;227
+msgid "form-control"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:226
+#: Template/Pages/member_update_profile.ctp:150
+msgid "Department"
+msgstr "Phòng ban"
+
+#: Template/Pages/member_register.ctp:232
+msgid "Tiếp bước 3 >>> "
+msgstr ""
+
+#: Template/Pages/member_register.ctp:251
+msgid "Need"
+msgstr "Các dịch vụ hỗ trợ nào sau đây Đơn vị cần nhất:"
+
+msgid "Need "
+msgstr "Các dịch vụ hỗ trợ nào sau đây Đơn vị cần nhất:"
+
+#: Template/Pages/member_register.ctp:252
+#: Template/Pages/member_update_profile.ctp:246
+msgid "Needs"
+msgstr "Các dịch vụ hỗ trợ nào sau đây Đơn vị cần nhất:"
+
+#: Template/Pages/member_register.ctp:269
+msgid "Chọn loại thành viên"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:273
+msgid "Dịch vụ"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:275
+msgid "Cơ bản"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:277
+msgid "Cao cấp"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:280
+msgid "Phí tham gia thành viên"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:281
+msgid "Miễn phí"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:282
+msgid "6.600.000 VNĐ / năm"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:285
+msgid "Truy cập dữ liệu thành viên"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:295
+msgid "Bản tin nội bộ (bằng email)"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:305
+msgid "Cung cấp điều tra thị trường (về đầu tư, thông tin thị trường, thông tin ngành, thông tin công ty, tư vấn nhân sự…)"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:307;312;323
+msgid "Giảm 5% trên phí dịch vụ"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:310
+msgid "Được tham gia các sự kiện của Japan Circle."
+msgstr ""
+
+#: Template/Pages/member_register.ctp:315
+msgid "Được PR, quảng cáo trên website và ấn phẩm của Japan Circle."
+msgstr ""
+
+#: Template/Pages/member_register.ctp:317
+msgid "Miễn phí tháng đầu tiên"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:318
+msgid "Giảm 5% trên phí dịch vụ từ tháng thứ 2"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:321
+msgid "Các dịch vụ hỗ trợ khác."
+msgstr ""
+
+#: Template/Pages/member_register.ctp:326
+msgid "Thời hạn đăng ký"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:330
+msgid "Chọn loại thành viên đăng ký"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:341
+msgid "Hoàn tất đăng ký thành viên"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:353
+msgid "Tiện ích thành viên"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:355
+msgid "Quý doanh nghiệp cung cấp thông tin chính xác để Japan Circle thực hiện tốt nhất việc giới thiệu và kết nối giữa các doanh nghiệp Việt Nam và Nhật Bản. "
+msgstr ""
+
+#: Template/Pages/member_register.ctp:356
+msgid "Chúng tôi cung cấp 2 loại thành viên : "
+msgstr ""
+
+#: Template/Pages/member_register.ctp:356
+msgid "Thành viên cơ bản"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:356
+msgid "và"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:356
+msgid "Thành viên Cao Cấp"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:356
+msgid ". Khi là thành viên quý doanh nghiệp sẽ nhận được những tiện ích như : "
+msgstr ""
+
+#: Template/Pages/member_register.ctp:360
+msgid "Các tiện ích và dịch vụ"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:364
+msgid "Cung cấp thông tin kinh tế, thương mại hàng tuần"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:365
+msgid "Cung cấp báo cáo hàng tháng"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:366
+msgid "Giới thiệu khách hàng Nhật"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:367
+msgid "Tư vấn kinh nghiệm giao thương với công ty Nhật (*)"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:368
+msgid "Tư vấn pháp luật, kinh doanh tại Nhật (*)"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:369
+msgid "Tư vấn đào tạo nhân lực (*)"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:374
+msgid "Hỗ trợ tìm kiếm khách hàng Nhật (*)"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:375
+msgid "Giới thiệu công ty Nhật trong các chuyến thị sát kinh doanh"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:376
+msgid "Thông tin về Hội thảo và Triển lãm tại Nhật Bản."
+msgstr ""
+
+#: Template/Pages/member_register.ctp:377
+msgid "Hỗ trợ thủ tục tham gia Hội thảo, Triển lãm tại Nhật Bản. (*)"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:378
+msgid "Được mời tham dự hội nghị thường niên (*)"
+msgstr ""
+
+#: Template/Pages/member_register.ctp:379
+msgid "Tiếp cận dữ liệu thành viên của Japan Circle."
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:49
+msgid "Tên giao dịch"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:66
+msgid "Ngành nghề"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:67
+msgid "Select industries"
+msgstr "Lựa chọn ngành"
+
+#: Template/Pages/member_update_profile.ctp:75
+msgid "Loại hình doanh nghiệp"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:76
+msgid "Company Type"
+msgstr "Loại doanh nghiệp"
+
+#: Template/Pages/member_update_profile.ctp:84
+msgid "Doanh nghiệp"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:96
+msgid "Thành phố"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:102
+msgid "Quận"
+msgstr "Quận / huyện"
+
+#: Template/Pages/member_update_profile.ctp:116;117
+msgid "Phone 2"
+msgstr "Điện thoại 2"
+
+#: Template/Pages/member_update_profile.ctp:142
+msgid "Chức vụ"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:149
+msgid "Phòng ban (nếu có)"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:157
+msgid "Mobile"
+msgstr "Điện thoại 2"
+
+#: Template/Pages/member_update_profile.ctp:163
+msgid "Ngày thành lập"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:169
+msgid "Mã số thuê"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:175
+msgid "Có thể giao tiếp"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:193
+msgid "Số nhân viên"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:204
+msgid "Logo công ty"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:218
+msgid "Nội dung kinh doanh"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:233
+msgid "Hình thức hợp tác Đơn vị mong muốn"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:242
+msgid "Các dịch vụ hỗ trợ nào sau đây Đơn vị cần nhất:"
+msgstr ""
+
+#: Template/Pages/member_update_profile.ctp:256
+msgid "Thông tin doanh nghiệp của quý khách được dịch sang tiếng Nhật và công bố trên webite http://japan-circle.com cho thị trường Nhật Bản. Mọi thay đổi sẽ được chúng tôi kiểm duyệt lại trước khi dịch sang tiếng Nhật và công bố."
+msgstr ""
+
+#: Template/Pages/members.ctp:16
+msgid "Thành viên Việt Nam"
+msgstr ""
+
+#: Template/Pages/members.ctp:20
+msgid "Viet Dragon EntainmentViet Dragon Entainment"
+msgstr ""
+
+#: Template/Pages/members.ctp:530
+msgid "Đầu tiên"
+msgstr ""
+
+#: Template/Pages/news_category.ctp:11
+msgid "Cơ hội hợp tác"
+msgstr ""
+
+#: Template/Pages/news_index.ctp:11
+msgid "Tin tức"
+msgstr ""
+
+#: Template/Pages/news_index.ctp:34
+msgid "Các tin cùng chủ đề"
+msgstr ""
+
+#: Template/Users/login.ctp:44
+msgid "Please enter email address/username"
+msgstr "Vui lòng nhập email hoặc tên đăng nhập"
+
+#: Template/Users/login.ctp:51
+msgid "Enter your password"
+msgstr "Nhập mật khẩu"
+
+#: Template/Users/reset_password.ctp:4
+msgid "New Password"
+msgstr "Mật khẩu mới"
+
+#: Template/Users/reset_password.ctp:8
+msgid "Confirm Password"
+msgstr "Xác nhận mật khẩu"
+
+#: Template/Users/reset_password.ctp:13
+msgid "Change Password"
+msgstr "Đổi mật khẩu"
+
+msgid "Activities"
+msgstr "Hoạt động"
+
+msgid "Category Industry"
+msgstr "Ngành chính"
+
+msgid "Select Category Industry"
+msgstr "Chọn Ngành chính"
+
+msgid "Business Type"
+msgstr "Loại hình DN"
+
+msgid "Manager"
+msgstr "Người quản lý"
+
+msgid "Gender"
+msgstr "Giới tính"
+
+msgid "Select Gender"
+msgstr "Chọn giới tính"
+
+msgid "Company Tax Code"
+msgstr "Mã số thuế"
+
+msgid "Total Staff Member"
+msgstr "Số lượng NV"
+
+msgid "Select Status"
+msgstr "Chọn trạng thái"
+
+msgid "Total View"
+msgstr "Số lần xem"
+
+msgid "Membership Type"
+msgstr "Loại thành viên"
+
+msgid "Vip"
+msgstr "Thành viên Vip"
+
+msgid "Member Default"
+msgstr "Thành viên thường"
+
+msgid "Select Company type"
+msgstr "Chọn nhóm công ty"
+
+msgid "Note"
+msgstr "Ghi chú"
+
+msgid "Rated"
+msgstr "Xếp hạng"
+
+msgid "Select Member Type"
+msgstr "Chọn loại thành viên"
+
+msgid "Company Name English"
+msgstr "Tên tiếng Anh"
+
+msgid "Company Name Japanese"
+msgstr "Tên tiếng Nhật"
+
+msgid "Partner"
+msgstr "Đối tác "
+
+msgid "Cooperate"
+msgstr "Cùng hợp tác"
+
+msgid "Supplier"
+msgstr "Nhà cung cấp"
+
+msgid "Find Suppliers"
+msgstr "Tìm Nhà cung cấp"
+
+msgid "Japan"
+msgstr "Nhật Bản"
+
+msgid "Viet Nam"
+msgstr "Việt Nam"
+
+msgid "Member Unapproved"
+msgstr "Chưa Duyệt"
+
+msgid "Member Vip"
+msgstr "Thành viên Vip"
+
+msgid "Members"
+msgstr "Thành viên"
+
+msgid "List of Member"
+msgstr "Danh sách thành viên"
+
+msgid "Add Member"
+msgstr "Thêm thành viên"
+
+msgid "Production"
+msgstr "Sản phẩm"
+
+msgid "Member Comment"
+msgstr "Bình luận của khách hàng"
+
+msgid "Select Company Type"
+msgstr "Chọn nhóm công ty"
+
+msgid "__('Invalid email or password')"
+msgstr "Email hoặc password không đúng"
+
+msgid "Email is not exist!"
+msgstr "Email không tồn tại"
+
+msgid "This field is required"
+msgstr "Ô này bắt buộc phải nhập"
+
+msgid "This field cannot be left empty"
+msgstr "Không được bỏ trống ô này"
+
+msgid "Address Vie"
+msgstr "Địa chỉ tiếng Việt"
+
+msgid "Address Eng"
+msgstr "Địa chỉ tiếng Anh"
+
+msgid "Address Jpn"
+msgstr "Địa chỉ tiếng Nhật"
+
+msgid "Phone Number"
+msgstr "Số điện thoại   "
+
+msgid "Footer Left Vie"
+msgstr "Cuối trang trái Vie"
+
+msgid "Footer Left Eng"
+msgstr "Cuối trang trái Eng"
+
+msgid "Footer Left Jpn"
+msgstr "Cuối trang trái Jpn"
+
+msgid "Footer Right Vie"
+msgstr "Cuối trang phải Vie"
+
+msgid "Footer Right Eng"
+msgstr "Cuối trang phải Eng"
+
+msgid "Footer Right Jpn"
+msgstr "Cuối trang phải Jpn"
+
+#: Controller/ActivitiesController.php:55;82
+msgid "The activity has been saved."
+msgstr "Hoạt động đã được lưu"
+
+#: Controller/ActivitiesController.php:58;85
+msgid "The activity could not be saved. Please, try again."
+msgstr "Hoạt động không thể lưu. Vui lòng thử lại sau."
+
+#: Controller/ActivitiesController.php:106
+msgid "The activity has been deleted."
+msgstr "Hoạt động đã được xóa."
+
+#: Controller/ActivitiesController.php:108
+msgid "The activity could not be deleted. Please, try again."
+msgstr "Không thể xóa hoạt động. Vui lòng thử lại sau."
+
+#: Controller/ActivityCategoriesController.php:52;77
+msgid "The activity category has been saved."
+msgstr "Danh mục hoạt động đã được lưu"
+
+#: Controller/ActivityCategoriesController.php:55;80
+msgid "The activity category could not be saved. Please, try again."
+msgstr "Danh mục hoạt động không thể lưu. Vui lòng thử lại!"
+
+#: Controller/ActivityCategoriesController.php:99
+msgid "The activity category has been deleted."
+msgstr "Đã xóa danh mục hoạt "
+
+#: Controller/ActivityCategoriesController.php:101
+msgid "The activity category could not be deleted. Please, try again."
+msgstr "Danh mục hoạt động chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/AdvertisementsController.php:54;80
+msgid "The advertisement has been saved."
+msgstr "Quảng cáo đã được lưu."
+
+#: Controller/AdvertisementsController.php:57;83
+msgid "The advertisement could not be saved. Please, try again."
+msgstr "Quảng cáo không thể lưu. Vui lòng thử lại!"
+
+#: Controller/AdvertisementsController.php:102
+msgid "The advertisement has been deleted."
+msgstr "Quảng cáo đã được xóa."
+
+#: Controller/AdvertisementsController.php:104
+msgid "The advertisement could not be deleted. Please, try again."
+msgstr "Quảng cáo chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/BannersController.php:52;78
+msgid "The banner has been saved."
+msgstr "Banner đã được lưu."
+
+#: Controller/BannersController.php:55;81
+msgid "The banner could not be saved. Please, try again."
+msgstr "Banner không thể lưu. Vui lòng thử lại!"
+
+#: Controller/BannersController.php:101
+msgid "The banner has been deleted."
+msgstr "Banner đã được xóa."
+
+#: Controller/BannersController.php:103
+msgid "The banner could not be deleted. Please, try again."
+msgstr "Banner chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/CommentsController.php:52;77
+msgid "The comment has been saved."
+msgstr "Bình luận đã được lưu."
+
+#: Controller/CommentsController.php:55;80
+msgid "The comment could not be saved. Please, try again."
+msgstr "Bình luận không thể lưu. Vui lòng thử lại!"
+
+#: Controller/CommentsController.php:99
+msgid "The comment has been deleted."
+msgstr "Bình luận đã được xóa."
+
+#: Controller/CommentsController.php:101
+msgid "The comment could not be deleted. Please, try again."
+msgstr "Bình luận chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/CompanyInquiriesController.php:80
+msgid "The company inquiry has been saved."
+msgstr "Hợp tác doanh nghiệp đã được lưu."
+
+#: Controller/CompanyInquiriesController.php:83
+msgid "The company inquiry could not be saved. Please, try again."
+msgstr "Hợp tác doanh nghiệp không thể lưu. Vui lòng thử lại!"
+
+#: Controller/CompanyInquiriesController.php:111
+msgid "The company inquiry has been deleted."
+msgstr "Hợp tác công ty đã được xóa."
+
+#: Controller/CompanyInquiriesController.php:113
+msgid "The company inquiry could not be deleted. Please, try again."
+msgstr "Hợp tác công ty chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/CooperationsController.php:52;77
+msgid "The cooperation has been saved."
+msgstr "Hợp tác đã được lưu."
+
+#: Controller/CooperationsController.php:55;80
+msgid "The cooperation could not be saved. Please, try again."
+msgstr "Hợp tác không thể lưu. Vui lòng thử lại!"
+
+#: Controller/CooperationsController.php:99
+msgid "The cooperation has been deleted."
+msgstr "Hợp tác đã được xóa."
+
+#: Controller/CooperationsController.php:101
+msgid "The cooperation could not be deleted. Please, try again."
+msgstr "Hợp tác chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/HomeMenusController.php:98;125
+msgid "The home menu has been saved."
+msgstr "Home menu đã được lưu."
+
+#: Controller/HomeMenusController.php:101;128
+msgid "The home menu could not be saved. Please, try again."
+msgstr "Home menu không thể lưu. Vui lòng thử lại!"
+
+#: Controller/HomeMenusController.php:148
+msgid "The home menu has been deleted."
+msgstr "Home menu đã được xóa."
+
+#: Controller/HomeMenusController.php:150
+msgid "The home menu could not be deleted. Please, try again."
+msgstr "Home menu chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/HomeMenusController.php:178
+#: Template/HomeMenus/add.ctp:56
+#: Template/HomeMenus/edit.ctp:56
+msgid "Select Child"
+msgstr "Lựa chọn menu con"
+
+#: Controller/InquiriesController.php:52;85
+msgid "The inquiry has been saved."
+msgstr "Cơ hội hợp tác đã được lưu."
+
+#: Controller/InquiriesController.php:55;88
+msgid "The inquiry could not be saved. Please, try again."
+msgstr "Cơ hội hợp tác không thể lưu. Vui lòng thử lại!"
+
+#: Controller/InquiriesController.php:115
+msgid "The inquiry has been deleted."
+msgstr "Cơ hội hợp tác đã được xóa."
+
+#: Controller/InquiriesController.php:117
+msgid "The inquiry could not be deleted. Please, try again."
+msgstr "Cơ hội hợp tác chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/MembersController.php:35
+#: Template/Members/add.ctp:8
+#: Template/Members/edit.ctp:8
+#: Template/Members/index.ctp:28
+#: Template/Members/view.ctp:9
+msgid "List of Member"
+msgstr "Danh sách Thành viên"
+
+#: Controller/MembersController.php:81;90;94;162;171;175
+msgid "The member could not be saved. Please, try again."
+msgstr "Thành viên không thể lưu. Vui lòng thử lại!"
+
+#: Controller/MembersController.php:87;168
+msgid "The member has been saved."
+msgstr "Thành viên đã được lưu."
+
+#: Controller/MembersController.php:226
+msgid "The member has been deleted."
+msgstr "Thành viên đã được xóa."
+
+#: Controller/MembersController.php:228
+msgid "The member could not be deleted. Please, try again."
+msgstr "Thành viên chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/MembersController.php:240
+#: Template/Members/add.ctp:89
+#: Template/Members/edit.ctp:88
+msgid "Select Prefecture"
+msgstr "Chọn quận / huyện"
+
+#: Controller/MembersController.php:259
+#: Template/CompanyInquiries/edit.ctp:41
+#: Template/Inquiries/add.ctp:36
+#: Template/Inquiries/edit.ctp:36
+#: Template/Members/add.ctp:48
+#: Template/Members/edit.ctp:47
+#: Template/Productions/edit.ctp:41
+msgid "Select Industry"
+msgstr "Chọn ngành nghề"
+
+#: Controller/MembersController.php:282
+msgid "Japan"
+msgstr "Nhật Bản"
+
+#: Controller/MembersController.php:282
+msgid "Viet Nam"
+msgstr "Việt Nam"
+
+#: Controller/MembersController.php:301;321
+msgid "Member Unapproved"
+msgstr "Thành viên chưa được duyệt"
+
+#: Controller/MembersController.php:320
+msgid "Vip"
+msgstr ""
+
+#: Controller/MembersController.php:320
+msgid "Member Default"
+msgstr "Thành viên thường"
+
+#: Controller/NeedsController.php:52;77
+msgid "The need has been saved."
+msgstr "Nhu cầu đã được lưu."
+
+#: Controller/NeedsController.php:55;80
+msgid "The need could not be saved. Please, try again."
+msgstr "Nhu cầu không thể lưu. Vui lòng thử lại!"
+
+#: Controller/NeedsController.php:99
+msgid "The need has been deleted."
+msgstr "Nhu cầu đã được xóa."
+
+#: Controller/NeedsController.php:101
+msgid "The need could not be deleted. Please, try again."
+msgstr "Nhu cầu chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/NewsCategoriesController.php:52;77
+msgid "The news category has been saved."
+msgstr "Danh mục tin tức đã được lưu."
+
+#: Controller/NewsCategoriesController.php:55;80
+msgid "The news category could not be saved. Please, try again."
+msgstr "Danh mục tin tức không thể lưu. Vui lòng thử lại!"
+
+#: Controller/NewsCategoriesController.php:99
+msgid "The news category has been deleted."
+msgstr "Danh mục tin tức đã được xóa."
+
+#: Controller/NewsCategoriesController.php:101
+msgid "The news category could not be deleted. Please, try again."
+msgstr "Danh mục tin tức chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/NewsController.php:55;83
+msgid "The news has been saved."
+msgstr "Tin tức đã được lưu."
+
+#: Controller/NewsController.php:58;86
+msgid "The news could not be saved. Please, try again."
+msgstr "Tin tức không thể lưu. Vui lòng thử lại!"
+
+#: Controller/NewsController.php:108
+msgid "The news has been deleted."
+msgstr "Tin tức đã được xóa."
+
+#: Controller/NewsController.php:110
+msgid "The news could not be deleted. Please, try again."
+msgstr "Tin tức chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/ProductionsController.php:92
+msgid "The production has been saved."
+msgstr "Sản phẩm đã được lưu."
+
+#: Controller/ProductionsController.php:95
+msgid "The production could not be saved. Please, try again."
+msgstr "Sản phẩm không thể lưu. Vui lòng thử lại!"
+
+#: Controller/ProductionsController.php:118
+msgid "The production has been deleted."
+msgstr "Sản phẩm đã được xóa."
+
+#: Controller/ProductionsController.php:120
+msgid "The production could not be deleted. Please, try again."
+msgstr "Sản phẩm chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/TitlesController.php:52;77
+msgid "The title has been saved."
+msgstr "Tiêu đề đã được lưu."
+
+#: Controller/TitlesController.php:55;80
+msgid "The title could not be saved. Please, try again."
+msgstr "Tiêu đề không thể lưu. Vui lòng thử lại!"
+
+#: Controller/TitlesController.php:99
+msgid "The title has been deleted."
+msgstr "Tiêu đề đã được xóa."
+
+#: Controller/TitlesController.php:101
+msgid "The title could not be deleted. Please, try again."
+msgstr "Tiêu đề chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/TopListInquiriesController.php:52;77
+msgid "The top list inquiry has been saved."
+msgstr "Top nhu cầu hợp tác đã được lưu.  "
+
+#: Controller/TopListInquiriesController.php:55;80
+msgid "The top list inquiry could not be saved. Please, try again."
+msgstr "Top nhu cầu hợp tác không thể lưu. Vui lòng thử lại!"
+
+#: Controller/TopListInquiriesController.php:99
+msgid "The top list inquiry has been deleted."
+msgstr "Top nhu cầu hợp tác đã được xóa."
+
+#: Controller/TopListInquiriesController.php:101
+msgid "The top list inquiry could not be deleted. Please, try again."
+msgstr "Top nhu cầu hợp tác chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/TypeBusinessController.php:52;77
+msgid "The type busines has been saved."
+msgstr "Loại hình kinh doanh đã được lưu."
+
+#: Controller/TypeBusinessController.php:55;80
+msgid "The type busines could not be saved. Please, try again."
+msgstr "Loại hình kinh doanh không thể lưu. Vui lòng thử lại!"
+
+#: Controller/TypeBusinessController.php:99
+msgid "The type busines has been deleted."
+msgstr "Loại hình kinh doanh đã được xóa."
+
+#: Controller/TypeBusinessController.php:101
+msgid "The type busines could not be deleted. Please, try again."
+msgstr "Loại hình kinh doanh chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/TypeCompaniesController.php:55;80
+msgid "The type company has been saved."
+msgstr "Loại doanh nghiệp đã được lưu."
+
+#: Controller/TypeCompaniesController.php:58;83
+msgid "The type company could not be saved. Please, try again."
+msgstr "Loại doanh nghiệp không thể lưu. Vui lòng thử lại!"
+
+#: Controller/TypeCompaniesController.php:102
+msgid "The type company has been deleted."
+msgstr "Loại doanh nghiệp đã được xóa."
+
+#: Controller/TypeCompaniesController.php:104
+msgid "The type company could not be deleted. Please, try again."
+msgstr "Loại doanh nghiệp chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/UsersController.php:65;117
+msgid "The user has been saved."
+msgstr "User đã được lưu."
+
+#: Controller/UsersController.php:70;120
+msgid "The user could not be saved. Please, try again."
+msgstr "User không thể lưu. Vui lòng thử lại!"
+
+#: Controller/UsersController.php:92
+msgid "The user has been deleted."
+msgstr "User đã được xóa."
+
+#: Controller/UsersController.php:94
+msgid "The user could not be deleted. Please, try again."
+msgstr "User chưa được xóa. Vui lòng thử lại!"
+
+#: Controller/UsersController.php:142
+msgid "The current password incorrect"
+msgstr "Mật khẩu hiện tại không đúng"
+
+#: Controller/UsersController.php:148
+msgid "The password has been changed."
+msgstr "Mật khẩu đã được thay đổi"
+
+#: Controller/UsersController.php:151
+msgid "The user could not be changed. Please, try again."
+msgstr "User không thể thay đổi. Vui lòng thử lại"
+
+#: Template/tmp_add.ctp:1
+#: Template/tmp_list.ctp:1
+msgid "Sytem"
+msgstr "Hệ thống"
+
+#: Template/tmp_add.ctp:6
+#: Template/tmp_list.ctp:6
+#: Template/Users/add.ctp:2;7
+#: Template/Users/change_password.ctp:6
+#: Template/Users/index.ctp:4;10
+#: Template/Users/profile.ctp:2;7
+#: Template/Users/view.ctp:3;9
+msgid "System"
+msgstr "Hệ thống"
+
+#: Template/tmp_add.ctp:6
+#: Template/tmp_list.ctp:6;19
+msgid "List of static pages"
+msgstr "Danh sách các trang tĩnh"
+
+#: Template/tmp_add.ctp:17
+msgid "Edit static page"
+msgstr "Sửa trang tĩnh"
+
+#: Template/tmp_add.ctp:26
+#: Template/tmp_list.ctp:44
+#: Template/Comments/add.ctp:36;37
+#: Template/Comments/edit.ctp:36;37
+#: Template/Comments/view.ctp:42
+#: Template/CompanyInquiries/edit.ctp:44
+#: Template/CompanyInquiries/index.ctp:50
+#: Template/CompanyInquiries/view.ctp:58
+#: Template/Inquiries/add.ctp:38;40;42;44;46;48
+#: Template/Inquiries/edit.ctp:38;40;42;44;46;48
+#: Template/Inquiries/index.ctp:55;56;57
+#: Template/Titles/index.ctp:6
+#: Template/TopListInquiries/add.ctp:36;40;46
+#: Template/TopListInquiries/edit.ctp:36;40;46
+#: Template/TopListInquiries/view.ctp:42;46;50
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: Template/tmp_add.ctp:32
+#: Template/Activities/add.ctp:46;48;50;52;54;56
+#: Template/Activities/edit.ctp:46;48;50;52;54;56
+#: Template/Advertisements/add.ctp:55
+#: Template/Advertisements/edit.ctp:55
+#: Template/Advertisements/view.ctp:50
+#: Template/Comments/add.ctp:65
+#: Template/Comments/edit.ctp:65
+#: Template/Comments/view.ctp:66
+#: Template/CompanyInquiries/edit.ctp:53
+#: Template/Inquiries/add.ctp:101;105;109
+#: Template/Inquiries/edit.ctp:101;105;109
+#: Template/News/add.ctp:58;62;66
+#: Template/News/edit.ctp:58;62;66
+msgid "Content"
+msgstr "Nội dung"
+
+#: Template/tmp_add.ctp:41
+msgid "Back"
+msgstr "Quay lại"
+
+#: Template/tmp_list.ctp:38
+msgid "Filter Title"
+msgstr "Lọc theo tiêu đề"
+
+#: Template/tmp_list.ctp:45
+#: Template/Activities/index.ctp:59
+#: Template/ActivityCategories/index.ctp:57
+#: Template/Advertisements/index.ctp:55
+#: Template/Bake/Template/index.ctp:60
+#: Template/Banners/index.ctp:59
+#: Template/Comments/index.ctp:57
+#: Template/CompanyInquiries/index.ctp:53
+#: Template/Cooperations/index.ctp:55
+#: Template/HomeMenus/index.ctp:59
+#: Template/Inquiries/index.ctp:61
+#: Template/Members/index.ctp:59
+#: Template/Needs/index.ctp:55
+#: Template/News/index.ctp:57
+#: Template/NewsCategories/index.ctp:57
+#: Template/Productions/index.ctp:56
+#: Template/Titles/index.ctp:59
+#: Template/TopListInquiries/index.ctp:57
+#: Template/TypeBusiness/index.ctp:59
+#: Template/TypeCompanies/index.ctp:59
+msgid "Actions"
+msgstr "Thao tác"
+
+#: Template/tmp_list.ctp:54
+#: Template/Activities/index.ctp:75
+#: Template/ActivityCategories/index.ctp:70
+#: Template/Advertisements/index.ctp:67
+#: Template/Bake/Template/index.ctp:97
+#: Template/Banners/index.ctp:73
+#: Template/Comments/index.ctp:70
+#: Template/CompanyInquiries/index.ctp:66
+#: Template/Cooperations/index.ctp:67
+#: Template/Element/link_action.ctp:3
+#: Template/HomeMenus/index.ctp:99
+#: Template/Inquiries/index.ctp:79
+#: Template/Members/index.ctp:74
+#: Template/Needs/index.ctp:67
+#: Template/News/index.ctp:70
+#: Template/NewsCategories/index.ctp:70
+#: Template/Productions/index.ctp:73
+#: Template/Titles/index.ctp:73
+#: Template/TopListInquiries/index.ctp:70
+#: Template/TypeBusiness/index.ctp:73
+#: Template/TypeCompanies/index.ctp:73
+msgid "View"
+msgstr "Hiển thị"
+
+#: Template/tmp_list.ctp:55
+#: Template/Activities/index.ctp:76
+#: Template/Activities/view.ctp:113
+#: Template/ActivityCategories/index.ctp:71
+#: Template/ActivityCategories/view.ctp:72
+#: Template/Advertisements/index.ctp:68
+#: Template/Advertisements/view.ctp:76
+#: Template/Bake/Template/index.ctp:98
+#: Template/Bake/Template/view.ctp:60
+#: Template/Banners/index.ctp:74
+#: Template/Banners/view.ctp:76
+#: Template/Comments/index.ctp:71
+#: Template/Comments/view.ctp:88
+#: Template/CompanyInquiries/index.ctp:67
+#: Template/CompanyInquiries/view.ctp:91
+#: Template/Cooperations/index.ctp:68
+#: Template/Cooperations/view.ctp:64
+#: Template/Element/link_action.ctp:6
+#: Template/HomeMenus/index.ctp:100
+#: Template/HomeMenus/view.ctp:80
+#: Template/Inquiries/index.ctp:80
+#: Template/Inquiries/view.ctp:132
+#: Template/Members/index.ctp:75
+#: Template/Members/view.ctp:242
+#: Template/Needs/index.ctp:68
+#: Template/Needs/view.ctp:64
+#: Template/News/index.ctp:71
+#: Template/News/view.ctp:113
+#: Template/NewsCategories/index.ctp:71
+#: Template/NewsCategories/view.ctp:68
+#: Template/Productions/index.ctp:74
+#: Template/Productions/view.ctp:95
+#: Template/Titles/index.ctp:74
+#: Template/Titles/view.ctp:72
+#: Template/TopListInquiries/index.ctp:71
+#: Template/TopListInquiries/view.ctp:76
+#: Template/TypeBusiness/index.ctp:74
+#: Template/TypeBusiness/view.ctp:72
+#: Template/TypeCompanies/index.ctp:74
+#: Template/TypeCompanies/view.ctp:72
+#: Template/Users/view.ctp:76
+msgid "Edit"
+msgstr "Sửa"
+
+#: Template/tmp_list.ctp:56
+msgid "Delete"
+msgstr "Xóa"
+
+#: Template/tmp_list.ctp:56
+#: Template/Activities/index.ctp:77
+#: Template/ActivityCategories/index.ctp:72
+#: Template/Advertisements/index.ctp:69
+#: Template/Bake/Template/index.ctp:99
+#: Template/Banners/index.ctp:75
+#: Template/Comments/index.ctp:72
+#: Template/CompanyInquiries/index.ctp:68
+#: Template/Cooperations/index.ctp:69
+#: Template/Element/link_action.ctp:8
+#: Template/HomeMenus/index.ctp:101
+#: Template/Inquiries/index.ctp:81
+#: Template/Members/index.ctp:76
+#: Template/Needs/index.ctp:69
+#: Template/News/index.ctp:72
+#: Template/NewsCategories/index.ctp:72
+#: Template/Productions/index.ctp:75
+#: Template/Titles/index.ctp:75
+#: Template/TopListInquiries/index.ctp:72
+#: Template/TypeBusiness/index.ctp:75
+#: Template/TypeCompanies/index.ctp:75
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Bạn có chắc chắn muốn xóa {0}?"
+
+#: Template/Activities/add.ctp:1;6
+#: Template/Activities/edit.ctp:1;6
+#: Template/Activities/index.ctp:1
+#: Template/Activities/view.ctp:2;7
+msgid "Activities"
+msgstr "Các hoạt động"
+
+#: Template/Activities/add.ctp:8
+#: Template/Activities/edit.ctp:8
+#: Template/Activities/index.ctp:8;28
+#: Template/Activities/view.ctp:9
+msgid "List of Activity"
+msgstr "Danh sách hoạt động"
+
+#: Template/Activities/add.ctp:24;32
+msgid "Add Activity"
+msgstr "Thêm hoạt động"
+
+#: Template/Activities/add.ctp:34;36;38;40;42;44
+#: Template/Activities/edit.ctp:34;36;38;40;42;44
+#: Template/Activities/view.ctp:42;46;50
+#: Template/ActivityCategories/add.ctp:34;38;42
+#: Template/ActivityCategories/edit.ctp:34;38;42
+#: Template/ActivityCategories/view.ctp:42;46;50
+#: Template/Advertisements/add.ctp:34;38;42
+#: Template/Advertisements/edit.ctp:34;38;42
+#: Template/Advertisements/index.ctp:51
+#: Template/Advertisements/view.ctp:42
+#: Template/Cooperations/add.ctp:34
+#: Template/Cooperations/edit.ctp:34
+#: Template/Cooperations/view.ctp:42
+#: Template/HomeMenus/add.ctp:35;39;43
+#: Template/HomeMenus/edit.ctp:35;39;43
+#: Template/HomeMenus/index.ctp:53
+#: Template/HomeMenus/view.ctp:42
+#: Template/Needs/add.ctp:34
+#: Template/Needs/edit.ctp:34
+#: Template/Needs/index.ctp:51
+#: Template/Needs/view.ctp:42
+#: Template/News/add.ctp:34;38;42
+#: Template/News/edit.ctp:34;38;42
+#: Template/News/view.ctp:42;46;50
+#: Template/NewsCategories/add.ctp:34;38;42
+#: Template/NewsCategories/edit.ctp:34;38;42
+#: Template/NewsCategories/index.ctp:52;53;54
+#: Template/NewsCategories/view.ctp:42;46;50
+#: Template/Productions/index.ctp:51
+#: Template/Productions/view.ctp:49
+#: Template/Titles/add.ctp:34;38;42
+#: Template/Titles/edit.ctp:34;38;42
+#: Template/Titles/index.ctp:53;54;55
+#: Template/Titles/view.ctp:42;46;50
+#: Template/Users/index.ctp:67
+#: Template/Users/view.ctp:53
+msgid "Name"
+msgstr "Tên"
+
+#: Template/Activities/add.ctp:58
+#: Template/Activities/edit.ctp:58
+#: Template/Activities/view.ctp:55
+#: Template/Banners/add.ctp:34
+#: Template/Banners/edit.ctp:34
+#: Template/Banners/view.ctp:42
+#: Template/CompanyInquiries/edit.ctp:62
+#: Template/CompanyInquiries/view.ctp:46
+#: Template/Inquiries/add.ctp:50
+#: Template/Inquiries/edit.ctp:50
+#: Template/Inquiries/view.ctp:66
+#: Template/News/add.ctp:78
+#: Template/News/edit.ctp:78
+#: Template/News/view.ctp:75
+#: Template/Productions/edit.ctp:73
+#: Template/Productions/index.ctp:47
+#: Template/Productions/view.ctp:69
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: Template/Activities/add.ctp:60
+#: Template/Activities/edit.ctp:60
+#: Template/Activities/index.ctp:53
+#: Template/Banners/add.ctp:36
+#: Template/Banners/edit.ctp:36
+#: Template/Banners/index.ctp:53
+#: Template/CompanyInquiries/edit.ctp:63
+#: Template/CompanyInquiries/index.ctp:48
+#: Template/Inquiries/add.ctp:52
+#: Template/Inquiries/edit.ctp:52
+#: Template/Inquiries/index.ctp:54
+#: Template/News/index.ctp:52
+#: Template/Productions/add.ctp:56
+#: Template/Productions/edit.ctp:74
+msgid "image"
+msgstr "hình ảnh"
+
+#: Template/Activities/add.ctp:62
+#: Template/Activities/edit.ctp:62
+#: Template/ActivityCategories/index.ctp:6
+msgid "Activity Category"
+msgstr "Danh mục hoạt động"
+
+#: Template/Activities/add.ctp:64
+#: Template/Activities/edit.ctp:64
+#: Template/News/add.ctp:72
+#: Template/News/edit.ctp:72
+msgid "Select Category"
+msgstr "Chọn danh mục"
+
+#: Template/Activities/add.ctp:64
+#: Template/Activities/edit.ctp:64
+msgid "category"
+msgstr "danh mục"
+
+#: Template/Activities/add.ctp:66;70;74
+#: Template/Activities/edit.ctp:66;70;74
+#: Template/Activities/view.ctp:63;67;71
+#: Template/CompanyInquiries/view.ctp:62
+#: Template/Inquiries/add.ctp:65;67;69;71;73;75
+#: Template/Inquiries/edit.ctp:65;67;69;71;73;75
+#: Template/News/add.ctp:46;50;54
+#: Template/News/edit.ctp:46;50;54
+#: Template/News/view.ctp:54;59;63
+#: Template/Productions/edit.ctp:85
+#: Template/Productions/view.ctp:73
+msgid "Description"
+msgstr "Mô tả"
+
+#: Template/Activities/add.ctp:68;72;76
+#: Template/Activities/edit.ctp:68;72;76
+#: Template/Activities/index.ctp:58
+#: Template/CompanyInquiries/edit.ctp:50
+#: Template/Productions/add.ctp:59
+#: Template/Productions/edit.ctp:86
+msgid "description"
+msgstr "mô tả"
+
+#: Template/Activities/add.ctp:78;82;86
+#: Template/Activities/edit.ctp:78;82;86
+#: Template/Activities/view.ctp:75;79;83
+#: Template/Productions/edit.ctp:58
+#: Template/Productions/view.ctp:57
+msgid "Short Description"
+msgstr "Mô tả ngắn"
+
+#: Template/Activities/add.ctp:80;84;88
+#: Template/Activities/edit.ctp:80;84;88
+msgid "short description"
+msgstr "mô tả ngắn"
+
+#: Template/Activities/add.ctp:90
+#: Template/Activities/edit.ctp:90
+#: Template/Activities/view.ctp:87
+#: Template/News/add.ctp:98
+#: Template/News/edit.ctp:98
+#: Template/News/view.ctp:91
+msgid "New"
+msgstr "Thêm mới"
+
+#: Template/Activities/add.ctp:92
+#: Template/Activities/edit.ctp:92
+msgid "new"
+msgstr "thêm mới"
+
+#: Template/Activities/add.ctp:94
+#: Template/Activities/edit.ctp:94
+#: Template/Activities/view.ctp:91
+#: Template/ActivityCategories/add.ctp:46
+#: Template/ActivityCategories/edit.ctp:46
+#: Template/ActivityCategories/view.ctp:54
+#: Template/Advertisements/add.ctp:61
+#: Template/Advertisements/edit.ctp:61
+#: Template/Advertisements/index.ctp:54
+#: Template/Advertisements/view.ctp:58
+#: Template/Banners/add.ctp:50
+#: Template/Banners/edit.ctp:50
+#: Template/Banners/view.ctp:58
+#: Template/Comments/add.ctp:56
+#: Template/Comments/edit.ctp:56
+#: Template/CompanyInquiries/edit.ctp:69
+#: Template/CompanyInquiries/view.ctp:68
+#: Template/Cooperations/add.ctp:38
+#: Template/Cooperations/edit.ctp:38
+#: Template/Cooperations/view.ctp:46
+#: Template/HomeMenus/add.ctp:63
+#: Template/HomeMenus/edit.ctp:63
+#: Template/HomeMenus/view.ctp:62
+#: Template/Inquiries/add.ctp:97
+#: Template/Inquiries/edit.ctp:97
+#: Template/Inquiries/index.ctp:60
+#: Template/Inquiries/view.ctp:110
+#: Template/Members/add.ctp:177;178
+#: Template/Members/edit.ctp:176;177
+#: Template/Members/view.ctp:202
+#: Template/Needs/add.ctp:38
+#: Template/Needs/edit.ctp:38
+#: Template/Needs/index.ctp:52
+#: Template/Needs/view.ctp:46
+#: Template/News/view.ctp:79
+#: Template/Productions/edit.ctp:80
+#: Template/Productions/index.ctp:54
+#: Template/Productions/view.ctp:77
+#: Template/TopListInquiries/add.ctp:57
+#: Template/TopListInquiries/edit.ctp:57
+#: Template/TopListInquiries/view.ctp:58
+#: Template/Users/add.ctp:95;96
+#: Template/Users/index.ctp:69
+#: Template/Users/view.ctp:61
+msgid "Status"
+msgstr "Trạng thái"
+
+#: Template/Activities/add.ctp:96
+#: Template/Activities/edit.ctp:96
+#: Template/ActivityCategories/add.ctp:48
+#: Template/ActivityCategories/edit.ctp:48
+#: Template/ActivityCategories/index.ctp:55
+#: Template/Advertisements/add.ctp:63
+#: Template/Advertisements/edit.ctp:63
+#: Template/Banners/add.ctp:52
+#: Template/Banners/edit.ctp:52
+#: Template/Banners/index.ctp:57
+#: Template/CompanyInquiries/edit.ctp:70
+#: Template/CompanyInquiries/index.ctp:52
+#: Template/Cooperations/add.ctp:40
+#: Template/Cooperations/edit.ctp:40
+#: Template/Cooperations/index.ctp:52
+#: Template/HomeMenus/add.ctp:64
+#: Template/HomeMenus/edit.ctp:64
+#: Template/HomeMenus/index.ctp:58
+#: Template/Inquiries/add.ctp:99
+#: Template/Inquiries/edit.ctp:99
+#: Template/Needs/add.ctp:40
+#: Template/Needs/edit.ctp:40
+#: Template/News/index.ctp:54
+#: Template/Productions/add.ctp:62
+#: Template/Productions/edit.ctp:81
+#: Template/TopListInquiries/add.ctp:58
+#: Template/TopListInquiries/edit.ctp:58
+#: Template/TopListInquiries/index.ctp:54
+msgid "status"
+msgstr "trạng thái"
+
+#: Template/Activities/add.ctp:98
+#: Template/Activities/edit.ctp:98
+#: Template/Activities/view.ctp:95
+#: Template/Inquiries/add.ctp:85;87
+#: Template/Inquiries/edit.ctp:85;87
+#: Template/Inquiries/view.ctp:98
+#: Template/Members/add.ctp:184;185
+#: Template/Members/edit.ctp:183;184
+#: Template/News/add.ctp:102
+#: Template/News/edit.ctp:102
+#: Template/News/view.ctp:95
+msgid "Total View"
+msgstr "Tổng lượt xem"
+
+#: Template/Activities/add.ctp:100
+#: Template/Activities/edit.ctp:100
+#: Template/News/add.ctp:104
+#: Template/News/edit.ctp:104
+msgid "total view"
+msgstr "tổng lượt xem"
+
+#: Template/Activities/edit.ctp:24;32
+msgid "Edit Activity"
+msgstr "Sửa hoạt động"
+
+#: Template/Activities/index.ctp:6
+msgid "Activity"
+msgstr "Hoạt động"
+
+#: Template/Activities/index.ctp:15
+msgid "New Activity"
+msgstr "Thêm hoạt động mới"
+
+#: Template/Activities/index.ctp:52
+#: Template/ActivityCategories/index.ctp:51
+#: Template/Banners/index.ctp:52
+#: Template/Comments/index.ctp:51
+#: Template/Cooperations/index.ctp:50
+#: Template/Inquiries/index.ctp:53
+#: Template/Needs/index.ctp:50
+#: Template/News/index.ctp:51
+#: Template/NewsCategories/index.ctp:51
+#: Template/TopListInquiries/index.ctp:51
+#: Template/TypeBusiness/index.ctp:52
+#: Template/TypeCompanies/index.ctp:52
+msgid "id"
+msgstr ""
+
+#: Template/Activities/index.ctp:54
+#: Template/ActivityCategories/add.ctp:36
+#: Template/ActivityCategories/edit.ctp:36
+#: Template/ActivityCategories/index.ctp:52
+#: Template/News/index.ctp:53
+#: Template/NewsCategories/add.ctp:36
+#: Template/NewsCategories/edit.ctp:36
+#: Template/Titles/add.ctp:36
+#: Template/Titles/edit.ctp:36
+msgid "name_vie"
+msgstr "Tên tiếng Việt"
+
+#: Template/Activities/index.ctp:55
+#: Template/ActivityCategories/add.ctp:40
+#: Template/ActivityCategories/edit.ctp:40
+#: Template/ActivityCategories/index.ctp:53
+#: Template/NewsCategories/add.ctp:40
+#: Template/NewsCategories/edit.ctp:40
+#: Template/Titles/add.ctp:40
+#: Template/Titles/edit.ctp:40
+msgid "name_eng"
+msgstr "tên Tiếng Anh"
+
+#: Template/Activities/index.ctp:56
+#: Template/ActivityCategories/add.ctp:44
+#: Template/ActivityCategories/edit.ctp:44
+#: Template/ActivityCategories/index.ctp:54
+#: Template/NewsCategories/add.ctp:44
+#: Template/NewsCategories/edit.ctp:44
+#: Template/Titles/add.ctp:44
+#: Template/Titles/edit.ctp:44
+msgid "name_jpn"
+msgstr "tên tiếng Nhật"
+
+#: Template/Activities/index.ctp:57
+msgid "activity_category_id"
+msgstr "ID danh mục hoạt động"
+
+#: Template/Activities/view.ctp:38
+#: Template/ActivityCategories/view.ctp:38
+#: Template/Advertisements/index.ctp:50
+#: Template/Advertisements/view.ctp:38
+#: Template/Banners/view.ctp:38
+#: Template/Comments/view.ctp:38
+#: Template/CompanyInquiries/index.ctp:47
+#: Template/CompanyInquiries/view.ctp:38
+#: Template/Cooperations/view.ctp:38
+#: Template/HomeMenus/index.ctp:52
+#: Template/HomeMenus/view.ctp:38
+#: Template/Inquiries/view.ctp:38
+#: Template/Members/index.ctp:52
+#: Template/Members/view.ctp:38
+#: Template/Needs/view.ctp:38
+#: Template/News/view.ctp:38
+#: Template/NewsCategories/view.ctp:38
+#: Template/Productions/view.ctp:37
+#: Template/Titles/index.ctp:52
+#: Template/Titles/view.ctp:38
+#: Template/TopListInquiries/view.ctp:38
+#: Template/TypeBusiness/view.ctp:38
+#: Template/TypeCompanies/view.ctp:38
+msgid "Id"
+msgstr ""
+
+#: Template/Activities/view.ctp:59
+msgid "Activity Category Id"
+msgstr "ID danh mục hoạt động"
+
+#: Template/Activities/view.ctp:88;92
+#: Template/ActivityCategories/index.ctp:67
+#: Template/ActivityCategories/view.ctp:55
+#: Template/Advertisements/index.ctp:65
+#: Template/Advertisements/view.ctp:59
+#: Template/Banners/index.ctp:70
+#: Template/Banners/view.ctp:59
+#: Template/News/index.ctp:66
+#: Template/News/view.ctp:80;92
+msgid "Yes"
+msgstr ""
+
+#: Template/Activities/view.ctp:88;92
+#: Template/ActivityCategories/index.ctp:67
+#: Template/ActivityCategories/view.ctp:55
+#: Template/Advertisements/index.ctp:65
+#: Template/Advertisements/view.ctp:59
+#: Template/Banners/index.ctp:70
+#: Template/Banners/view.ctp:59
+#: Template/News/index.ctp:66
+#: Template/News/view.ctp:80;92
+msgid "No"
+msgstr ""
+
+#: Template/Activities/view.ctp:99
+#: Template/ActivityCategories/view.ctp:58
+#: Template/Advertisements/view.ctp:62
+#: Template/Banners/view.ctp:62
+#: Template/Comments/view.ctp:74
+#: Template/CompanyInquiries/view.ctp:77
+#: Template/Cooperations/view.ctp:50
+#: Template/HomeMenus/view.ctp:66
+#: Template/Inquiries/view.ctp:118
+#: Template/Needs/view.ctp:50
+#: Template/News/view.ctp:99
+#: Template/NewsCategories/view.ctp:54
+#: Template/Productions/view.ctp:81
+#: Template/Titles/index.ctp:57
+#: Template/Titles/view.ctp:58
+#: Template/TopListInquiries/view.ctp:62
+#: Template/TypeBusiness/view.ctp:58
+#: Template/TypeCompanies/index.ctp:57
+#: Template/TypeCompanies/view.ctp:58
+#: Template/Users/view.ctp:65
+msgid "Created"
+msgstr "Ngày tạo"
+
+#: Template/Activities/view.ctp:103
+#: Template/ActivityCategories/view.ctp:62
+#: Template/Advertisements/view.ctp:66
+#: Template/Banners/view.ctp:66
+#: Template/Comments/view.ctp:78
+#: Template/CompanyInquiries/view.ctp:81
+#: Template/Cooperations/view.ctp:54
+#: Template/HomeMenus/view.ctp:70
+#: Template/Inquiries/view.ctp:122
+#: Template/Needs/view.ctp:54
+#: Template/News/view.ctp:103
+#: Template/NewsCategories/view.ctp:58
+#: Template/Productions/index.ctp:55
+#: Template/Productions/view.ctp:85
+#: Template/Titles/index.ctp:58
+#: Template/Titles/view.ctp:62
+#: Template/TopListInquiries/view.ctp:66
+#: Template/TypeBusiness/view.ctp:62
+#: Template/TypeCompanies/index.ctp:58
+#: Template/TypeCompanies/view.ctp:62
+msgid "Modified"
+msgstr "Ngày sửa"
+
+#: Template/Activities/view.ctp:112
+#: Template/ActivityCategories/view.ctp:71
+#: Template/Advertisements/view.ctp:75
+#: Template/Bake/Template/view.ctp:59
+#: Template/Banners/view.ctp:75
+#: Template/Comments/view.ctp:87
+#: Template/CompanyInquiries/view.ctp:90
+#: Template/Cooperations/view.ctp:63
+#: Template/HomeMenus/view.ctp:79
+#: Template/Inquiries/view.ctp:131
+#: Template/Members/view.ctp:241
+#: Template/Needs/view.ctp:63
+#: Template/News/view.ctp:112
+#: Template/NewsCategories/view.ctp:67
+#: Template/Productions/view.ctp:94
+#: Template/Titles/view.ctp:71
+#: Template/TopListInquiries/view.ctp:75
+#: Template/TypeBusiness/view.ctp:71
+#: Template/TypeCompanies/view.ctp:71
+#: Template/Users/view.ctp:75
+msgid "Cancel"
+msgstr "Hủy"
+
+#: Template/ActivityCategories/add.ctp:1;6
+#: Template/ActivityCategories/edit.ctp:1;6
+#: Template/ActivityCategories/index.ctp:1
+#: Template/ActivityCategories/view.ctp:2;7
+msgid "Activity Categories"
+msgstr "Các danh mục hoạt động"
+
+#: Template/ActivityCategories/add.ctp:8
+#: Template/ActivityCategories/edit.ctp:8
+#: Template/ActivityCategories/index.ctp:8;28
+#: Template/ActivityCategories/view.ctp:9
+msgid "List of Activity Category"
+msgstr "Danh sách danh mục hoạt động"
+
+#: Template/ActivityCategories/add.ctp:24;32
+msgid "Add Activity Category"
+msgstr "Thêm danh mục hoạt động"
+
+#: Template/ActivityCategories/edit.ctp:24;32
+msgid "Edit Activity Category"
+msgstr "Sửa danh mục hoạt động"
+
+#: Template/ActivityCategories/index.ctp:15
+msgid "New Activity Category"
+msgstr "Thêm mói danh mục hoạt động"
+
+#: Template/ActivityCategories/index.ctp:56
+#: Template/Banners/index.ctp:58
+#: Template/Cooperations/index.ctp:53
+#: Template/Needs/index.ctp:53
+#: Template/NewsCategories/index.ctp:55
+#: Template/TopListInquiries/index.ctp:55
+#: Template/TypeBusiness/index.ctp:57
+msgid "created"
+msgstr "ngày tạo"
+
+#: Template/Advertisements/add.ctp:1;6
+#: Template/Advertisements/edit.ctp:1;6
+#: Template/Advertisements/index.ctp:1
+#: Template/Advertisements/view.ctp:2;7
+msgid "Advertisements"
+msgstr "Các quảng cáo"
+
+#: Template/Advertisements/add.ctp:8
+#: Template/Advertisements/edit.ctp:8
+#: Template/Advertisements/index.ctp:8;28
+#: Template/Advertisements/view.ctp:9
+msgid "List of Advertisement"
+msgstr "Danh sách quảng cáo"
+
+#: Template/Advertisements/add.ctp:24;32
+msgid "Add Advertisement"
+msgstr "Thêm quảng cáo"
+
+#: Template/Advertisements/add.ctp:36;40;44
+#: Template/Advertisements/edit.ctp:36;40;44
+#: Template/Comments/add.ctp:66
+#: Template/Comments/edit.ctp:66
+#: Template/CompanyInquiries/edit.ctp:54
+msgid "content"
+msgstr "nội dung"
+
+#: Template/Advertisements/add.ctp:46
+#: Template/Advertisements/edit.ctp:46
+#: Template/Advertisements/index.ctp:52
+#: Template/Advertisements/view.ctp:46
+#: Template/Banners/add.ctp:46
+#: Template/Banners/edit.ctp:46
+#: Template/Banners/view.ctp:54
+msgid "Position"
+msgstr "Vị trí"
+
+#: Template/Advertisements/add.ctp:48
+#: Template/Advertisements/edit.ctp:48
+#: Template/Banners/add.ctp:48
+#: Template/Banners/edit.ctp:48
+msgid "Select Position"
+msgstr "Chọn vị trí"
+
+#: Template/Advertisements/add.ctp:48
+#: Template/Advertisements/edit.ctp:48
+#: Template/Banners/add.ctp:48
+#: Template/Banners/edit.ctp:48
+#: Template/Banners/index.ctp:56
+msgid "position"
+msgstr "vị trí"
+
+#: Template/Advertisements/add.ctp:50;52
+#: Template/Advertisements/edit.ctp:50;52
+#: Template/Advertisements/index.ctp:53
+#: Template/Advertisements/view.ctp:54
+#: Template/Comments/add.ctp:60
+#: Template/Comments/edit.ctp:60
+#: Template/Comments/view.ctp:62
+#: Template/CompanyInquiries/edit.ctp:73
+#: Template/CompanyInquiries/view.ctp:73
+#: Template/HomeMenus/add.ctp:59
+#: Template/HomeMenus/edit.ctp:59
+#: Template/HomeMenus/view.ctp:58
+#: Template/Inquiries/view.ctp:114
+#: Template/Members/add.ctp:173;174
+#: Template/Members/edit.ctp:172;173
+#: Template/Members/view.ctp:197
+#: Template/Titles/add.ctp:46
+#: Template/Titles/edit.ctp:46
+#: Template/Titles/index.ctp:56
+#: Template/Titles/view.ctp:54
+#: Template/TypeBusiness/view.ctp:54
+#: Template/TypeCompanies/add.ctp:46
+#: Template/TypeCompanies/edit.ctp:46
+#: Template/TypeCompanies/index.ctp:56
+#: Template/TypeCompanies/view.ctp:54
+msgid "Order"
+msgstr "Thứ tự"
+
+#: Template/Advertisements/add.ctp:57
+#: Template/Advertisements/edit.ctp:57
+#: Template/Banners/add.ctp:40
+#: Template/Banners/edit.ctp:40
+#: Template/Banners/index.ctp:54
+#: Template/TopListInquiries/add.ctp:51
+#: Template/TopListInquiries/edit.ctp:51
+#: Template/TopListInquiries/index.ctp:53
+msgid "url"
+msgstr ""
+
+#: Template/Advertisements/edit.ctp:24;32
+msgid "Edit Advertisement"
+msgstr "Sửa quảng cáo"
+
+#: Template/Advertisements/index.ctp:6
+msgid "Advertisement"
+msgstr "Quảng cáo"
+
+#: Template/Advertisements/index.ctp:15
+msgid "New Advertisement"
+msgstr "Thêm mới quảng cáo"
+
+#: Template/Bake/Element/form.ctp:9;14
+#: Template/Bake/Template/index.ctp:10
+#: Template/Bake/Template/view.ctp:12;17
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:16
+#: Template/Bake/Template/index.ctp:17;37
+#: Template/Bake/Template/view.ctp:19
+msgid "List of <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:32;40
+msgid "<%= Inflector::humanize($action) %> <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:54;58;67;71;83
+#: Template/Bake/Template/index.ctp:58
+msgid "<%= $field %>"
+msgstr ""
+
+#: Template/Bake/Template/index.ctp:15
+msgid "<%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Template/index.ctp:24
+msgid "New <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Template/view.ctp:49
+msgid "<%= Inflector::humanize($field) %>"
+msgstr ""
+
+#: Template/Banners/add.ctp:1;6
+#: Template/Banners/edit.ctp:1;6
+#: Template/Banners/index.ctp:1
+#: Template/Banners/view.ctp:2;7
+msgid "Banners"
+msgstr "Các Banner"
+
+#: Template/Banners/add.ctp:8
+#: Template/Banners/edit.ctp:8
+#: Template/Banners/index.ctp:8;28
+#: Template/Banners/view.ctp:9
+msgid "List of Banner"
+msgstr "Danh sách Banner"
+
+#: Template/Banners/add.ctp:24;32
+msgid "Add Banner"
+msgstr "Thêm Banner"
+
+#: Template/Banners/add.ctp:38
+#: Template/Banners/edit.ctp:38
+#: Template/Banners/view.ctp:46
+#: Template/TopListInquiries/add.ctp:50
+#: Template/TopListInquiries/edit.ctp:50
+#: Template/TopListInquiries/view.ctp:54
+msgid "Url"
+msgstr ""
+
+#: Template/Banners/add.ctp:42
+#: Template/Banners/edit.ctp:42
+#: Template/Banners/view.ctp:50
+msgid "Text"
+msgstr "Vản bản"
+
+#: Template/Banners/add.ctp:44
+#: Template/Banners/edit.ctp:44
+#: Template/Banners/index.ctp:55
+msgid "text"
+msgstr "văn bản"
+
+#: Template/Banners/edit.ctp:24;32
+msgid "Edit Banner"
+msgstr "Sửa Banner"
+
+#: Template/Banners/index.ctp:6
+msgid "Banner"
+msgstr ""
+
+#: Template/Banners/index.ctp:15
+msgid "New Banner"
+msgstr "Thêm mới Banner"
+
+#: Template/Comments/add.ctp:1;6
+#: Template/Comments/edit.ctp:1;6
+#: Template/Comments/index.ctp:1
+#: Template/Comments/view.ctp:2;7
+msgid "Comments"
+msgstr "Các bình luận"
+
+#: Template/Comments/add.ctp:8
+#: Template/Comments/edit.ctp:8
+#: Template/Comments/index.ctp:8;28
+#: Template/Comments/view.ctp:9
+msgid "List of Comment"
+msgstr "Danh sách bình luận"
+
+#: Template/Comments/add.ctp:24;32
+msgid "Add Comment"
+msgstr "Thêm bình luận"
+
+#: Template/Comments/add.ctp:40;41
+#: Template/Comments/edit.ctp:40;41
+#: Template/Comments/view.ctp:46
+msgid "Author"
+msgstr "Tác giả"
+
+#: Template/Comments/add.ctp:46;47
+#: Template/Comments/edit.ctp:46;47
+#: Template/Comments/view.ctp:50
+msgid "Author Info"
+msgstr "Thông tin tác giả"
+
+#: Template/Comments/add.ctp:50
+#: Template/Comments/edit.ctp:50
+#: Template/Comments/view.ctp:58
+msgid "Date"
+msgstr "Ngày"
+
+#: Template/Comments/add.ctp:51
+#: Template/Comments/edit.ctp:51
+#: Template/Comments/index.ctp:54
+msgid "date"
+msgstr "ngày"
+
+#: Template/Comments/add.ctp:57
+#: Template/Comments/edit.ctp:57
+#: Template/CompanyInquiries/edit.ctp:70
+#: Template/Cooperations/add.ctp:40
+#: Template/Cooperations/edit.ctp:40
+#: Template/Inquiries/add.ctp:99
+#: Template/Inquiries/edit.ctp:99
+#: Template/Members/add.ctp:178
+#: Template/Members/edit.ctp:177
+#: Template/Needs/add.ctp:40
+#: Template/Needs/edit.ctp:40
+#: Template/Productions/edit.ctp:81
+#: Template/TopListInquiries/add.ctp:58
+#: Template/TopListInquiries/edit.ctp:58
+msgid "Select Status"
+msgstr "Chọn trạng thái"
+
+#: Template/Comments/add.ctp:57
+#: Template/Comments/edit.ctp:57
+#: Template/Comments/index.ctp:55
+msgid "active"
+msgstr "kích hoạt"
+
+#: Template/Comments/add.ctp:61
+#: Template/Comments/edit.ctp:61
+#: Template/Comments/index.ctp:56
+#: Template/CompanyInquiries/edit.ctp:74
+#: Template/HomeMenus/add.ctp:60
+#: Template/HomeMenus/edit.ctp:60
+#: Template/HomeMenus/index.ctp:57
+#: Template/Titles/add.ctp:48
+#: Template/Titles/edit.ctp:48
+#: Template/TypeBusiness/add.ctp:44
+#: Template/TypeBusiness/edit.ctp:44
+#: Template/TypeBusiness/index.ctp:56
+#: Template/TypeCompanies/add.ctp:48
+#: Template/TypeCompanies/edit.ctp:48
+msgid "order"
+msgstr "thứ tự"
+
+#: Template/Comments/edit.ctp:24;32
+msgid "Edit Comment"
+msgstr "Sửa bình luận"
+
+#: Template/Comments/index.ctp:6
+msgid "Comment"
+msgstr "Bình luận"
+
+#: Template/Comments/index.ctp:15
+msgid "New Comment"
+msgstr "Thêm mới bình luận"
+
+#: Template/Comments/index.ctp:52
+#: Template/CompanyInquiries/edit.ctp:45
+#: Template/TopListInquiries/add.ctp:37;41;47
+#: Template/TopListInquiries/edit.ctp:37;41;47
+#: Template/TopListInquiries/index.ctp:52
+msgid "title"
+msgstr "tiêu đề"
+
+#: Template/Comments/index.ctp:53
+msgid "author"
+msgstr "tác giả"
+
+#: Template/Comments/view.ctp:54
+#: Template/Users/view.ctp:45
+msgid "Avatar"
+msgstr ""
+
+#: Template/Comments/view.ctp:70
+#: Template/News/add.ctp:82
+#: Template/News/edit.ctp:82
+msgid "Active"
+msgstr "Kích hoạt"
+
+#: Template/CompanyInquiries/edit.ctp:1;6
+#: Template/CompanyInquiries/index.ctp:1
+#: Template/CompanyInquiries/view.ctp:2;7
+msgid "Company Inquiries"
+msgstr "Hợp tác doanh nghiệp"
+
+#: Template/CompanyInquiries/edit.ctp:8
+#: Template/CompanyInquiries/index.ctp:8;24
+#: Template/CompanyInquiries/view.ctp:9
+msgid "List of Company Inquiry"
+msgstr "Danh sách hợp tác doanh nghiệp"
+
+#: Template/CompanyInquiries/edit.ctp:24;32
+msgid "Edit Company Inquiry"
+msgstr "Sửa hợp tác doanh nghiệp"
+
+#: Template/CompanyInquiries/edit.ctp:35
+#: Template/CompanyInquiries/index.ctp:51
+#: Template/Inquiries/add.ctp:77;79
+#: Template/Inquiries/edit.ctp:77;79
+#: Template/Inquiries/view.ctp:90
+#: Template/Productions/index.ctp:49
+msgid "Company"
+msgstr "Công ty"
+
+#: Template/CompanyInquiries/edit.ctp:40
+#: Template/CompanyInquiries/index.ctp:49
+#: Template/CompanyInquiries/view.ctp:54
+#: Template/Inquiries/add.ctp:34;36
+#: Template/Inquiries/edit.ctp:34;36
+#: Template/Members/add.ctp:47;48
+#: Template/Members/edit.ctp:46;47
+#: Template/Members/view.ctp:83
+#: Template/Productions/edit.ctp:40
+#: Template/Productions/view.ctp:45
+msgid "Industry"
+msgstr "Ngành nghề"
+
+#: Template/CompanyInquiries/edit.ctp:41
+#: Template/Productions/add.ctp:38
+#: Template/Productions/edit.ctp:41
+msgid "industry_code"
+msgstr "Mã ngành"
+
+#: Template/CompanyInquiries/edit.ctp:49
+msgid "Descriptions"
+msgstr "Mô tả"
+
+#: Template/CompanyInquiries/edit.ctp:58
+#: Template/CompanyInquiries/view.ctp:50
+#: Template/HomeMenus/add.ctp:51
+#: Template/HomeMenus/edit.ctp:51
+#: Template/HomeMenus/index.ctp:55
+#: Template/HomeMenus/view.ctp:50
+#: Template/Inquiries/add.ctp:81
+#: Template/Inquiries/edit.ctp:81
+#: Template/Inquiries/view.ctp:94
+msgid "Type"
+msgstr "Kiểu"
+
+#: Template/CompanyInquiries/edit.ctp:59
+#: Template/HomeMenus/add.ctp:52
+#: Template/HomeMenus/edit.ctp:52
+#: Template/Inquiries/add.ctp:83
+#: Template/Inquiries/edit.ctp:83
+msgid "Select Type"
+msgstr "Chọn kiểu"
+
+#: Template/CompanyInquiries/edit.ctp:59
+#: Template/HomeMenus/add.ctp:52
+#: Template/HomeMenus/edit.ctp:52
+#: Template/Inquiries/add.ctp:83
+#: Template/Inquiries/edit.ctp:83
+msgid "type"
+msgstr "kiểu"
+
+#: Template/CompanyInquiries/index.ctp:6
+msgid "Company Inquiry"
+msgstr "Hợp tác doanh nghiệp"
+
+#: Template/CompanyInquiries/view.ctp:42
+msgid "Compay"
+msgstr "Công ty"
+
+#: Template/Cooperations/add.ctp:1;6
+#: Template/Cooperations/edit.ctp:1;6
+#: Template/Cooperations/index.ctp:1
+#: Template/Cooperations/view.ctp:2;7
+msgid "Cooperations"
+msgstr "Các hợp tác"
+
+#: Template/Cooperations/add.ctp:8
+#: Template/Cooperations/edit.ctp:8
+#: Template/Cooperations/index.ctp:8;28
+#: Template/Cooperations/view.ctp:9
+msgid "List of Cooperation"
+msgstr "Danh sách hợp tác"
+
+#: Template/Cooperations/add.ctp:24;32
+msgid "Add Cooperation"
+msgstr "Thêm hợp tác"
+
+#: Template/Cooperations/add.ctp:36
+#: Template/Cooperations/edit.ctp:36
+#: Template/Cooperations/index.ctp:51
+#: Template/HomeMenus/add.ctp:36;40;44
+#: Template/HomeMenus/edit.ctp:36;40;44
+#: Template/Needs/add.ctp:36
+#: Template/Needs/edit.ctp:36
+#: Template/Productions/add.ctp:41
+#: Template/Productions/edit.ctp:48
+msgid "name"
+msgstr "tên"
+
+#: Template/Cooperations/edit.ctp:24;32
+msgid "Edit Cooperation"
+msgstr "Sửa hợp tác"
+
+#: Template/Cooperations/index.ctp:15
+msgid "New Cooperation"
+msgstr "Thêm mới hợp tác"
+
+#: Template/Cooperations/index.ctp:54
+#: Template/Needs/index.ctp:54
+#: Template/News/index.ctp:56
+#: Template/NewsCategories/index.ctp:56
+#: Template/TopListInquiries/index.ctp:56
+#: Template/TypeBusiness/index.ctp:58
+msgid "modified"
+msgstr "ngày sửa"
+
+#: Template/Element/breadcrumb.ctp:4
+msgid "Warning! This will reset your pages"
+msgstr "Chú ý! Trang sẽ được tải lại"
+
+#: Template/Element/breadcrumb_content.ctp:15
+#: Template/Users/index.ctp:19
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: Template/Element/button_add_top.ctp:3
+msgid "New %s"
+msgstr ""
+
+#: Template/Element/footer.ctp:5
+msgid "Power by Hiworld JSC"
+msgstr ""
+
+#: Template/Element/header.ctp:16
+msgid "Collapse Menu"
+msgstr "Thu nhỏ"
+
+#: Template/Element/header.ctp:29
+msgid "Setting"
+msgstr "Cài đặt"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: Template/Element/header.ctp:33
+msgid "Profile"
+msgstr "Hồ sơ"
+
+#: Template/Element/header.ctp:37
+msgid "Shortcut"
+msgstr ""
+
+#: Template/Element/header.ctp:41;63
+msgid "Full Screen"
+msgstr "Toàn màn hình"
+
+#: Template/Element/header.ctp:45
+msgid "Logout"
+msgstr "Đăng xuất"
+
+#: Template/Element/header.ctp:54
+msgid "Sign Out"
+msgstr "Đăng xuất"
+
+#: Template/Element/header.ctp:54
+msgid "You can improve your security further after logging out by closing this opened browser"
+msgstr "Để bảo mật hơn nữa, sau khi đăng xuất bạn hãy tắt trình duyệt"
+
+#: Template/Element/paginator.ctp:9
+msgid "< First"
+msgstr ""
+
+#: Template/Element/paginator.ctp:10
+msgid "Prev"
+msgstr ""
+
+#: Template/Element/paginator.ctp:17
+msgid "Next"
+msgstr ""
+
+#: Template/Element/paginator.ctp:18
+msgid "> Last"
+msgstr ""
+
+#: Template/Element/paginator.ctp:26
+msgid "Add new"
+msgstr "Thêm mới"
+
+#: Template/Element/paginator.ctp:33
+msgid "Delete Selected"
+msgstr "Xóa lựa chọn"
+
+#: Template/Element/paginator.ctp:40
+msgid "Back to translate"
+msgstr "Quay lại để dịch"
+
+#: Template/Element/paginator.ctp:41
+msgid "Save data"
+msgstr "Lưu dữ liệu"
+
+#: Template/Element/shortcut.ctp:12
+msgid "My Profile"
+msgstr "Hồ sơ của tôi"
+
+#: Template/Element/shortcut.ctp:22
+#: Template/Users/change_password.ctp:23
+msgid "Change password"
+msgstr "Đổi mật khẩu"
+
+#: Template/HomeMenus/add.ctp:1;6
+#: Template/HomeMenus/edit.ctp:1;6
+#: Template/HomeMenus/index.ctp:1
+#: Template/HomeMenus/view.ctp:2;7
+msgid "Home Menus"
+msgstr ""
+
+#: Template/HomeMenus/add.ctp:8
+#: Template/HomeMenus/edit.ctp:8
+#: Template/HomeMenus/index.ctp:8;28
+#: Template/HomeMenus/view.ctp:9
+msgid "List of Home Menu"
+msgstr "Danh sách Menu Home"
+
+#: Template/HomeMenus/add.ctp:24;32
+msgid "Add Home Menu"
+msgstr "Thêm Menu Home"
+
+#: Template/HomeMenus/add.ctp:47
+#: Template/HomeMenus/edit.ctp:47
+#: Template/HomeMenus/index.ctp:54
+msgid "Parent"
+msgstr "Menu cha"
+
+#: Template/HomeMenus/add.ctp:48
+#: Template/HomeMenus/edit.ctp:48
+msgid "Select Parent"
+msgstr "Chọn menu cha"
+
+#: Template/HomeMenus/add.ctp:48
+#: Template/HomeMenus/edit.ctp:48
+msgid "parent_id"
+msgstr "ID menu cha"
+
+#: Template/HomeMenus/add.ctp:55
+#: Template/HomeMenus/edit.ctp:55
+msgid "Child"
+msgstr "Menu con"
+
+#: Template/HomeMenus/add.ctp:56
+#: Template/HomeMenus/edit.ctp:56
+#: Template/HomeMenus/index.ctp:56
+msgid "child_id"
+msgstr "ID menu con"
+
+#: Template/HomeMenus/add.ctp:64
+#: Template/HomeMenus/edit.ctp:64
+msgid "Select status"
+msgstr "Lựa chọn trạng thái"
+
+#: Template/HomeMenus/edit.ctp:24;32
+msgid "Edit Home Menu"
+msgstr "Sửa Menu Home"
+
+#: Template/HomeMenus/index.ctp:6
+msgid "Home Menu"
+msgstr ""
+
+#: Template/HomeMenus/index.ctp:15
+msgid "New Home Menu"
+msgstr "Thêm mới Menu Home"
+
+#: Template/HomeMenus/index.ctp:97
+#: Template/HomeMenus/view.ctp:63
+msgid "True"
+msgstr ""
+
+#: Template/HomeMenus/index.ctp:97
+#: Template/HomeMenus/view.ctp:63
+msgid "False"
+msgstr ""
+
+#: Template/HomeMenus/view.ctp:46
+msgid "Parent Id"
+msgstr "ID menu cha"
+
+#: Template/HomeMenus/view.ctp:54
+msgid "Child Id"
+msgstr "ID menu con"
+
+#: Template/Inquiries/add.ctp:1;6
+#: Template/Inquiries/edit.ctp:1;6
+#: Template/Inquiries/index.ctp:1
+#: Template/Inquiries/view.ctp:2;7
+msgid "Inquiries"
+msgstr "Các nhu cầu hợp tác"
+
+#: Template/Inquiries/add.ctp:8
+#: Template/Inquiries/edit.ctp:8
+#: Template/Inquiries/index.ctp:8;28
+#: Template/Inquiries/view.ctp:9
+msgid "List of Inquiry"
+msgstr "Danh sách nhu cầu hợp tác"
+
+#: Template/Inquiries/add.ctp:24;32
+msgid "Add Inquiry"
+msgstr "Thêm nhu cầu hợp tác"
+
+#: Template/Inquiries/add.ctp:56
+#: Template/Inquiries/edit.ctp:56
+#: Template/Inquiries/index.ctp:58;59
+#: Template/Inquiries/view.ctp:70
+msgid "Date Start"
+msgstr "Ngày bắt đầu"
+
+#: Template/Inquiries/add.ctp:57
+#: Template/Inquiries/edit.ctp:57
+msgid "date_start"
+msgstr "Ngày bắt đầu"
+
+#: Template/Inquiries/add.ctp:61
+#: Template/Inquiries/edit.ctp:61
+#: Template/Inquiries/view.ctp:74
+msgid "Date End"
+msgstr "Ngày kết thúc"
+
+#: Template/Inquiries/add.ctp:62
+#: Template/Inquiries/edit.ctp:62
+msgid "date_end"
+msgstr "Ngày kết thúc"
+
+#: Template/Inquiries/add.ctp:89;91
+#: Template/Inquiries/edit.ctp:89;91
+msgid "Inquiry Meta DESC"
+msgstr "Thẻ meta description"
+
+#: Template/Inquiries/add.ctp:93;95
+#: Template/Inquiries/edit.ctp:93;95
+#: Template/Inquiries/view.ctp:106
+msgid "Inquiry Meta Keyword"
+msgstr "Thẻ meta keyword"
+
+#: Template/Inquiries/add.ctp:103
+#: Template/Inquiries/edit.ctp:103
+msgid "content_vie"
+msgstr "Nội dung tiếng Việt"
+
+#: Template/Inquiries/add.ctp:107
+#: Template/Inquiries/edit.ctp:107
+msgid "content_eng"
+msgstr "Nội dung tiếng Anh"
+
+#: Template/Inquiries/add.ctp:111
+#: Template/Inquiries/edit.ctp:111
+msgid "content_jpn"
+msgstr "Nội dung tiếng Nhật"
+
+#: Template/Inquiries/edit.ctp:24;32
+msgid "Edit Inquiry"
+msgstr "Sửa nhu cầu hợp tác"
+
+#: Template/Inquiries/index.ctp:6
+#: Template/Members/add.ctp:233;234;284;285;332;333
+#: Template/Members/edit.ctp:232;233;283;284;331;332
+#: Template/Members/view.ctp:232
+msgid "Inquiry"
+msgstr "Nhu cầu hợp tác"
+
+#: Template/Inquiries/index.ctp:15
+msgid "New Inquiry"
+msgstr "Thêm mới nhu cầu hợp tác"
+
+#: Template/Inquiries/view.ctp:42
+msgid "Title Vie"
+msgstr "Tiêu đề tiếng Việt"
+
+#: Template/Inquiries/view.ctp:46
+msgid "Title Eng"
+msgstr "Tiêu đề tiếng Anh"
+
+#: Template/Inquiries/view.ctp:50
+msgid "Title Jpn"
+msgstr "Tiêu đề tiếng Nhật"
+
+#: Template/Inquiries/view.ctp:54
+msgid "Content Vie"
+msgstr "Nội dung tiếng Việt"
+
+#: Template/Inquiries/view.ctp:58
+msgid "Content Eng"
+msgstr "Nội dung tiếng Anh"
+
+#: Template/Inquiries/view.ctp:62
+msgid "Content Jpn"
+msgstr "Nội dung tiếng Nhật"
+
+#: Template/Inquiries/view.ctp:78
+msgid "Description Vie"
+msgstr "Mô tả tiếng Việt"
+
+#: Template/Inquiries/view.ctp:82
+msgid "Description Eng"
+msgstr "Mô tả tiếng Anh"
+
+#: Template/Inquiries/view.ctp:86
+msgid "Description Jpn"
+msgstr "Mô tả tiếng Nhật"
+
+#: Template/Inquiries/view.ctp:102
+msgid "Inquiry Meta Desc"
+msgstr "Thẻ meta description"
+
+#: Template/Members/add.ctp:1;6
+#: Template/Members/edit.ctp:1;6
+#: Template/Members/index.ctp:1
+#: Template/Members/view.ctp:2;7
+msgid "Members"
+msgstr "Các thành viên"
+
+#: Template/Members/add.ctp:24;32
+msgid "Add Member"
+msgstr "Thêm thành viên"
+
+#: Template/Members/add.ctp:36
+#: Template/Members/edit.ctp:35
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+#: Template/Members/add.ctp:37
+#: Template/Members/edit.ctp:36
+msgid "English"
+msgstr "Tiếng Anh"
+
+#: Template/Members/add.ctp:38
+#: Template/Members/edit.ctp:37
+msgid "Japanese"
+msgstr "Tiếng Nhật"
+
+#: Template/Members/add.ctp:43;44
+#: Template/Members/edit.ctp:42;43
+msgid "Category Industry"
+msgstr "Danh mục ngành"
+
+#: Template/Members/add.ctp:44
+#: Template/Members/edit.ctp:43
+msgid "Select Category Industry"
+msgstr "Chọn danh mục ngành"
+
+#: Template/Members/add.ctp:53
+#: Template/Members/edit.ctp:52
+msgid "Business Type"
+msgstr "Loại hình kinh doanh"
+
+#: Template/Members/add.ctp:54
+#: Template/Members/edit.ctp:53
+msgid "Select Type Business"
+msgstr "Lựa chọn loại hình kinh doanh"
+
+#: Template/Members/add.ctp:54;206;207
+#: Template/Members/edit.ctp:53;205;206
+#: Template/Members/view.ctp:217
+msgid "Company Type"
+msgstr "Loại doanh nghiệp"
+
+#: Template/Members/add.ctp:57;58
+#: Template/Members/edit.ctp:56;57
+#: Template/Members/view.ctp:167
+msgid "Logo"
+msgstr ""
+
+#: Template/Members/add.ctp:68;69;246;247;295;296
+#: Template/Members/edit.ctp:67;68;245;246;294;295
+#: Template/Members/view.ctp:94
+msgid "Company Trading Name"
+msgstr "Tên giao dịch"
+
+#: Template/Members/add.ctp:74;75;250;251;299;300
+#: Template/Members/edit.ctp:73;74;249;250;298;299
+#: Template/Members/view.ctp:99
+msgid "Company Short Name"
+msgstr "Tên viết tắt"
+
+#: Template/Members/add.ctp:78;79;268;269;316;317
+#: Template/Members/edit.ctp:77;78;267;268;315;316
+#: Template/Members/view.ctp:114
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: Template/Members/add.ctp:84;85
+#: Template/Members/edit.ctp:83;84
+#: Template/Members/view.ctp:104
+msgid "City"
+msgstr "Thành phố"
+
+#: Template/Members/add.ctp:85
+#: Template/Members/edit.ctp:84
+msgid "Select City"
+msgstr "Lựa chọn thành phố"
+
+#: Template/Members/add.ctp:88;89
+#: Template/Members/edit.ctp:87;88
+#: Template/Members/view.ctp:109
+msgid "Prefecture"
+msgstr "Quận / Huyện"
+
+#: Template/Members/add.ctp:94;95
+#: Template/Members/edit.ctp:93;94
+#: Template/Members/view.ctp:119;124
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: Template/Members/add.ctp:98;99
+#: Template/Members/edit.ctp:97;98
+msgid "Phone 2"
+msgstr "Điện thoại 2"
+
+#: Template/Members/add.ctp:104;105
+#: Template/Members/edit.ctp:103;104
+#: Template/Members/index.ctp:58
+#: Template/Members/view.ctp:131
+msgid "Fax"
+msgstr ""
+
+#: Template/Members/add.ctp:108;109
+#: Template/Members/edit.ctp:107;108
+#: Template/Members/index.ctp:53
+#: Template/Members/view.ctp:41
+#: Template/Users/index.ctp:66
+#: Template/Users/view.ctp:49
+msgid "Email"
+msgstr ""
+
+#: Template/Members/add.ctp:114;115
+#: Template/Members/edit.ctp:113;114
+#: Template/Members/index.ctp:56
+#: Template/Members/view.ctp:135
+msgid "Website"
+msgstr ""
+
+#: Template/Members/add.ctp:118;278;279;326;327
+#: Template/Members/edit.ctp:117;277;278;325;326
+#: Template/Members/index.ctp:54
+#: Template/Members/view.ctp:172
+msgid "Manager"
+msgstr "Người quản lý"
+
+#: Template/Members/add.ctp:121
+#: Template/Members/edit.ctp:120
+msgid "First name"
+msgstr "Tên"
+
+#: Template/Members/add.ctp:124
+#: Template/Members/edit.ctp:123
+msgid "Last Name"
+msgstr "Họ"
+
+#: Template/Members/add.ctp:131
+#: Template/Members/edit.ctp:130
+#: Template/Members/view.ctp:177
+msgid "Gender"
+msgstr "Giới tính"
+
+#: Template/Members/add.ctp:132
+#: Template/Members/edit.ctp:131
+msgid "Select Gender"
+msgstr "Chọn giới tính"
+
+#: Template/Members/add.ctp:132
+#: Template/Members/edit.ctp:131
+msgid "address_en"
+msgstr "Địa chỉ tiếng Anh"
+
+#: Template/Members/add.ctp:135;136;256;257;305;306
+#: Template/Members/edit.ctp:134;135;255;256;304;305
+#: Template/Members/view.ctp:182
+msgid "Department"
+msgstr "Phòng ban"
+
+#: Template/Members/add.ctp:142;143
+#: Template/Members/edit.ctp:141;142
+#: Template/Members/view.ctp:187
+msgid "Division"
+msgstr "Chức vụ"
+
+#: Template/Members/add.ctp:143
+#: Template/Members/edit.ctp:142
+msgid "Select Division"
+msgstr "Lựa chọn chức vụ"
+
+#: Template/Members/add.ctp:147;148
+#: Template/Members/edit.ctp:146;147
+#: Template/Members/view.ctp:151
+msgid "Company Established"
+msgstr "Ngày thành lập"
+
+#: Template/Members/add.ctp:153;154
+#: Template/Members/edit.ctp:152;153
+#: Template/Members/view.ctp:155
+msgid "Company Tax Code"
+msgstr "Mã số thuế"
+
+#: Template/Members/add.ctp:157;158
+#: Template/Members/edit.ctp:156;157
+#: Template/Members/view.ctp:159
+msgid "Company capital"
+msgstr "Vốn điều lệ"
+
+#: Template/Members/add.ctp:163;164
+#: Template/Members/edit.ctp:162;163
+#: Template/Members/view.ctp:163
+msgid "Total Staff Member"
+msgstr "Tổng số nhân viên"
+
+#: Template/Members/add.ctp:167;168
+#: Template/Members/edit.ctp:166;167
+#: Template/Members/view.ctp:192
+msgid "Rated"
+msgstr "Xếp hạng"
+
+#: Template/Members/add.ctp:188;189
+#: Template/Members/edit.ctp:187;188
+#: Template/Members/view.ctp:207
+msgid "Membership Type"
+msgstr "Loại thành viên"
+
+#: Template/Members/add.ctp:189
+#: Template/Members/edit.ctp:188
+msgid "Select Member Type"
+msgstr "Chọn loại thành viên"
+
+#: Template/Members/add.ctp:195;196;261;262;310;311
+#: Template/Members/edit.ctp:194;195;260;261;309;310
+#: Template/Members/view.ctp:212
+msgid "Note"
+msgstr "Ghi chú"
+
+#: Template/Members/add.ctp:199;200;211
+#: Template/Members/edit.ctp:198;199;210
+msgid "Country"
+msgstr "Quốc gia"
+
+#: Template/Members/add.ctp:200
+#: Template/Members/edit.ctp:199
+msgid "Select Country"
+msgstr "Chọn quốc gia"
+
+#: Template/Members/add.ctp:207
+#: Template/Members/edit.ctp:206
+msgid "Select Company Type"
+msgstr "Chọn kiểu doanh nghiệp"
+
+#: Template/Members/add.ctp:210
+#: Template/Members/edit.ctp:209
+#: Template/Members/view.ctp:139
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: Template/Members/add.ctp:211
+#: Template/Members/edit.ctp:210
+msgid "Select Language"
+msgstr "Chọn ngôn ngữ"
+
+#: Template/Members/add.ctp:224;228
+#: Template/Members/edit.ctp:223;227
+#: Template/Members/view.ctp:227
+#: Template/Needs/add.ctp:1;6
+#: Template/Needs/edit.ctp:1;6
+#: Template/Needs/index.ctp:1
+#: Template/Needs/view.ctp:2;7
+msgid "Needs"
+msgstr "Nhu cầu"
+
+#: Template/Members/add.ctp:238;239;288;289;336;337
+#: Template/Members/edit.ctp:237;238;287;288;335;336
+msgid "Business"
+msgstr "Kinh doanh"
+
+#: Template/Members/edit.ctp:24;32
+msgid "Edit Member"
+msgstr "Sửa thành viên"
+
+#: Template/Members/index.ctp:6
+msgid "Member"
+msgstr "Thành viên"
+
+#: Template/Members/index.ctp:15
+msgid "New Member"
+msgstr "Thêm thành viên mới"
+
+#: Template/Members/index.ctp:57
+msgid "Mobile"
+msgstr "Điện thoại di động"
+
+#: Template/Members/view.ctp:88
+msgid "Company Country"
+msgstr "Quốc gia"
+
+#: Template/Needs/add.ctp:8
+#: Template/Needs/edit.ctp:8
+#: Template/Needs/index.ctp:8;28
+#: Template/Needs/view.ctp:9
+msgid "List of Need"
+msgstr "Danh sách nhu cầu"
+
+#: Template/Needs/add.ctp:24;32
+msgid "Add Need"
+msgstr "Thêm mới nhu cầu"
+
+#: Template/Needs/edit.ctp:24;32
+msgid "Edit Need"
+msgstr "Sửa nhu cầu"
+
+#: Template/Needs/index.ctp:6
+msgid "Need"
+msgstr "Nhu cầu"
+
+#: Template/Needs/index.ctp:15
+msgid "New Need"
+msgstr "Thêm mới nhu cầu"
+
+#: Template/News/add.ctp:1;6
+#: Template/News/edit.ctp:1;6
+#: Template/News/index.ctp:1;6
+#: Template/News/view.ctp:2;7
+msgid "News"
+msgstr "Tin tức"
+
+#: Template/News/add.ctp:8
+#: Template/News/edit.ctp:8
+#: Template/News/index.ctp:8;28
+#: Template/News/view.ctp:9
+msgid "List of News"
+msgstr "Danh sách tin tức"
+
+#: Template/News/add.ctp:24;32
+msgid "Add News"
+msgstr "Thêm tin tức"
+
+#: Template/News/add.ctp:36
+#: Template/News/edit.ctp:36
+msgid "name (vie)"
+msgstr "Tên tiếng Việt"
+
+#: Template/News/add.ctp:40
+#: Template/News/edit.ctp:40
+msgid "name (eng)"
+msgstr "Tên tiếng Anh"
+
+#: Template/News/add.ctp:44
+#: Template/News/edit.ctp:44
+msgid "name (jpn)"
+msgstr "têng tiếng Nhật"
+
+#: Template/News/add.ctp:48
+#: Template/News/edit.ctp:48
+msgid "description (vie)"
+msgstr "mô tả tiếng Việt"
+
+#: Template/News/add.ctp:52
+#: Template/News/edit.ctp:52
+msgid "description (eng)"
+msgstr "mô tả tiếng Anh"
+
+#: Template/News/add.ctp:56
+#: Template/News/edit.ctp:56
+msgid "description (jpn)"
+msgstr "mô tả tiếng Nhật"
+
+#: Template/News/add.ctp:60
+#: Template/News/edit.ctp:60
+msgid "content (vie)"
+msgstr "nội dung tiếng Việt"
+
+#: Template/News/add.ctp:64
+#: Template/News/edit.ctp:64
+msgid "content (eng)"
+msgstr "nội dung tiếng Anh"
+
+#: Template/News/add.ctp:68
+#: Template/News/edit.ctp:68
+msgid "content (jpn)"
+msgstr "nội dung tiếng Nhật"
+
+#: Template/News/add.ctp:70
+#: Template/News/edit.ctp:70
+#: Template/News/view.ctp:67
+msgid "Category"
+msgstr "Danh mục"
+
+#: Template/News/add.ctp:74
+#: Template/News/edit.ctp:74
+#: Template/News/view.ctp:71
+msgid "Company ID"
+msgstr "ID doanh nghiệp"
+
+#: Template/News/add.ctp:76
+#: Template/News/edit.ctp:76
+msgid "company id"
+msgstr "ID doanh nghiệp"
+
+#: Template/News/add.ctp:86
+#: Template/News/edit.ctp:86
+msgid "Home Page"
+msgstr "Trang chủ"
+
+#: Template/News/add.ctp:90
+#: Template/News/edit.ctp:90
+msgid "News Meta DESC"
+msgstr "Thẻ meta description"
+
+#: Template/News/add.ctp:92
+#: Template/News/edit.ctp:92
+msgid "news meta desc"
+msgstr "Thẻ meta description"
+
+#: Template/News/add.ctp:94
+#: Template/News/edit.ctp:94
+#: Template/News/view.ctp:87
+msgid "News Meta Keyword"
+msgstr "Thẻ meta keyword"
+
+#: Template/News/add.ctp:96
+#: Template/News/edit.ctp:96
+msgid "news meta keyword"
+msgstr "Thẻ meta keyword"
+
+#: Template/News/edit.ctp:24;32
+msgid "Edit News"
+msgstr "Sửa tin tức"
+
+#: Template/News/index.ctp:15
+msgid "New News"
+msgstr "Thêm mới tin tức"
+
+#: Template/News/index.ctp:42
+msgid "Filter Id"
+msgstr "Lọc theo ID"
+
+msgid "Filter id"
+msgstr "Lọc theo ID"
+
+msgid "Filter image"
+msgstr "Lọc theo ảnh"
+
+msgid "Filter name_vie"
+msgstr "Lọc theo tên tiếng Việt"
+
+msgid "Filter name_eng"
+msgstr "Lọc theo tên tiếng Anh"
+
+msgid "Filter content_vie"
+msgstr "Lọc theo nội dung tiếng Việt"
+
+msgid "Filter email"
+msgstr "Lọc theo email "
+
+msgid "Filter site_url"
+msgstr "Lọc theo đường dẫn site"
+
+msgid "Filter tel"
+msgstr "Lọc theo số điện thoại"
+
+msgid "Filter fax"
+msgstr "Lọc theo số fax"
+
+msgid "Filter company"
+msgstr "Lọc theo công ty"
+
+msgid "Filter name_jpn"
+msgstr "Lọc theo tên tiếng Nhật"
+
+msgid "Filter code"
+msgstr "Lọc theo mã"
+
+msgid "Filter price"
+msgstr "Lọc theo giá"
+
+msgid "Filter unit"
+msgstr "Lọc theo đơn vị"
+
+msgid "Filter modified"
+msgstr "Lọc theo ngày sửa"
+
+msgid "Filter created"
+msgstr "Lọc theo ngày tạo"
+
+msgid "Filter position"
+msgstr "Lọc theo vị trí"
+
+
+msgid "Filter title_eng"
+msgstr "Lọc theo tiêu đề tiếng Anh"
+
+msgid "Filter date_start"
+msgstr "Lọc theo ngày bắt đầu"
+
+msgid "Filter date_end"
+msgstr "Lọc theo ngày kết thúc"
+
+
+
+msgid "Filter title_jpn"
+msgstr "Lọc theo tiêu đề tiếng Nhật"
+
+msgid "Filter activity_category_id"
+msgstr "Lọc theo mã danh mục hoạt động"
+
+msgid "Filter title_vie"
+msgstr "Lọc theo tiêu đề tiếng Việt"
+
+msgid "Filter description"
+msgstr "Lọc theo mô tả"
+#: Template/News/index.ctp:44
+msgid "Filter Name"
+msgstr "Lọc theo tên"
+
+msgid "Filter name"
+msgstr "Lọc theo tên"
+#: Template/News/index.ctp:45
+msgid "Filter Status"
+msgstr "Lọc theo trạng thái"
+
+#: Template/News/index.ctp:46
+msgid "Filter Total View"
+msgstr "Lọc theo lượng xem"
+
+#: Template/News/index.ctp:47
+msgid "Filter Modified"
+msgstr "Lọc theo ngày sửa"
+
+#: Template/News/index.ctp:55
+msgid "total_view"
+msgstr "Tổng lượt xem"
+
+#: Template/News/view.ctp:83
+msgid "News Meta Desc"
+msgstr "Thẻ meta description"
+
+#: Template/NewsCategories/add.ctp:1;6
+#: Template/NewsCategories/edit.ctp:1;6
+#: Template/NewsCategories/index.ctp:1
+#: Template/NewsCategories/view.ctp:2;7
+msgid "News Categories"
+msgstr "Danh mục tin tức"
+
+#: Template/NewsCategories/add.ctp:8
+#: Template/NewsCategories/edit.ctp:8
+#: Template/NewsCategories/index.ctp:8;28
+#: Template/NewsCategories/view.ctp:9
+msgid "List of News Category"
+msgstr "Danh sách danh mục tin"
+
+#: Template/NewsCategories/add.ctp:24;32
+msgid "Add News Category"
+msgstr "Thêm danh mục tin"
+
+#: Template/NewsCategories/edit.ctp:24;32
+msgid "Edit News Category"
+msgstr "Sửa danh mục tin"
+
+#: Template/NewsCategories/index.ctp:6
+msgid "News Category"
+msgstr "Danh mục tin"
+
+#: Template/NewsCategories/index.ctp:15
+msgid "New News Category"
+msgstr "Thêm mới danh mục tin"
+
+#: Template/Productions/add.ctp:1;6
+#: Template/Productions/edit.ctp:1;6
+#: Template/Productions/index.ctp:1
+#: Template/Productions/view.ctp:1;6
+msgid "Productions"
+msgstr "Các sản phẩm"
+
+#: Template/Productions/add.ctp:8
+#: Template/Productions/edit.ctp:8
+#: Template/Productions/index.ctp:8;21
+#: Template/Productions/view.ctp:8
+msgid "List of Production"
+msgstr "Danh sách sản phẩm"
+
+#: Template/Productions/add.ctp:24;32
+msgid "Add Production"
+msgstr "Thêm sản phẩm"
+
+#: Template/Productions/add.ctp:35
+msgid "member_id"
+msgstr "ID thành viên"
+
+#: Template/Productions/add.ctp:44
+#: Template/Productions/edit.ctp:52
+msgid "code"
+msgstr "mã"
+
+#: Template/Productions/add.ctp:47
+#: Template/Productions/edit.ctp:59
+msgid "short_description"
+msgstr "Mô tả ngắn gọn"
+
+#: Template/Productions/add.ctp:50
+#: Template/Productions/edit.ctp:63
+msgid "price"
+msgstr "giá"
+
+#: Template/Productions/add.ctp:53
+#: Template/Productions/edit.ctp:70
+msgid "unit"
+msgstr "đơn vị"
+
+#: Template/Productions/edit.ctp:24;32
+msgid "Edit Production"
+msgstr "Sửa sản phẩm"
+
+#: Template/Productions/edit.ctp:47
+msgid "Production Name"
+msgstr "Tên sản phẩm"
+
+#: Template/Productions/edit.ctp:51
+msgid "Production Code"
+msgstr "Mã sản phẩm"
+
+#: Template/Productions/edit.ctp:62
+#: Template/Productions/index.ctp:52
+#: Template/Productions/view.ctp:61
+msgid "Price"
+msgstr "Giá"
+
+#: Template/Productions/edit.ctp:69
+#: Template/Productions/index.ctp:53
+#: Template/Productions/view.ctp:65
+msgid "Unit"
+msgstr "Đơn vị"
+
+#: Template/Productions/index.ctp:6
+msgid "Production"
+msgstr "Sản phẩm"
+
+#: Template/Productions/index.ctp:48
+msgid "Create"
+msgstr "Ngày tạo"
+
+#: Template/Productions/index.ctp:50
+#: Template/Productions/view.ctp:53
+#: Template/Settings/businesses.ctp:36;40
+#: Template/Settings/cities.ctp:36;40
+#: Template/Settings/industries.ctp:36;40
+#: Template/Settings/prefectures.ctp:36;40
+msgid "Code"
+msgstr "Mã"
+
+#: Template/Productions/view.ctp:41
+msgid "Member Id"
+msgstr "ID thành viên"
+
+#: Template/Settings/businesses.ctp:1
+msgid "Businesses"
+msgstr "Kinh doanh"
+
+#: Template/Settings/businesses.ctp:6
+#: Template/Settings/cities.ctp:1;6
+#: Template/Settings/industries.ctp:6
+#: Template/Settings/prefectures.ctp:6
+msgid "Cities"
+msgstr "Thành phố"
+
+#: Template/Settings/businesses.ctp:8;22
+#: Template/Settings/cities.ctp:8;22
+#: Template/Settings/industries.ctp:8;22
+#: Template/Settings/prefectures.ctp:8;22
+msgid "List of Cities"
+msgstr "Danh sách thành phố"
+
+#: Template/Settings/businesses.ctp:37;41
+msgid "Businesses Name"
+msgstr "Tên Businesses"
+
+#: Template/Settings/cities.ctp:37;41
+msgid "City Name"
+msgstr "Tên thành phố"
+
+#: Template/Settings/industries.ctp:1
+msgid "Industries"
+msgstr "Ngành nghề"
+
+#: Template/Settings/industries.ctp:37;41
+msgid "Industry Name"
+msgstr "Tên ngành"
+
+#: Template/Settings/prefectures.ctp:1
+msgid "District"
+msgstr "Quận / Huyện"
+
+#: Template/Settings/prefectures.ctp:37;41
+msgid "District Name"
+msgstr "Tên Quận / Huyện"
+
+#: Template/Titles/add.ctp:1;6
+#: Template/Titles/edit.ctp:1;6
+#: Template/Titles/index.ctp:1
+#: Template/Titles/view.ctp:2;7
+msgid "Titles"
+msgstr "Tiêu đề"
+
+#: Template/Titles/add.ctp:8
+#: Template/Titles/edit.ctp:8
+#: Template/Titles/index.ctp:8;28
+#: Template/Titles/view.ctp:9
+msgid "List of Title"
+msgstr "Tên tiêu đề"
+
+#: Template/Titles/add.ctp:24;32
+msgid "Add Title"
+msgstr "Thêm tiêu đề"
+
+#: Template/Titles/edit.ctp:24;32
+msgid "Edit Title"
+msgstr "Sửa tiêu đề"
+
+#: Template/Titles/index.ctp:15
+msgid "New Title"
+msgstr "Thêm mới tiêu đề"
+
+#: Template/TopListInquiries/add.ctp:1;6
+#: Template/TopListInquiries/edit.ctp:1;6
+#: Template/TopListInquiries/index.ctp:1
+#: Template/TopListInquiries/view.ctp:2;7
+msgid "Top List Inquiries"
+msgstr "Danh sách top Cơ hội hợp tác"
+
+#: Template/TopListInquiries/add.ctp:8
+#: Template/TopListInquiries/edit.ctp:8
+#: Template/TopListInquiries/index.ctp:8;28
+#: Template/TopListInquiries/view.ctp:9
+msgid "List of Top List Inquiry"
+msgstr "Danh sách top Cơ hội hợp tác"
+
+#: Template/TopListInquiries/add.ctp:24;32
+msgid "Add Top List Inquiry"
+msgstr "Thêm Top cơ hội hợp tác"
+
+#: Template/TopListInquiries/edit.ctp:24;32
+msgid "Edit Top List Inquiry"
+msgstr "Sửa Top cơ hội hợp tác"
+
+#: Template/TopListInquiries/index.ctp:6
+msgid "Top List Inquiry"
+msgstr "Danh sách top cơ hội hợp tác"
+
+#: Template/TopListInquiries/index.ctp:15
+msgid "New Top List Inquiry"
+msgstr "Thêm mới Top cơ hội hợp tác"
+
+#: Template/TypeBusiness/add.ctp:1;6
+#: Template/TypeBusiness/edit.ctp:1;6
+#: Template/TypeBusiness/index.ctp:1
+#: Template/TypeBusiness/view.ctp:2;7
+msgid "Type Business"
+msgstr "Loại hình kinh doanh"
+
+#: Template/TypeBusiness/add.ctp:8
+#: Template/TypeBusiness/edit.ctp:8
+#: Template/TypeBusiness/index.ctp:8;28
+#: Template/TypeBusiness/view.ctp:9
+msgid "List of Type Busines"
+msgstr "Danh sách loại hình kinh doanh"
+
+#: Template/TypeBusiness/add.ctp:24;32
+msgid "Add Type Busines"
+msgstr "Thêm loại hình kinh doanh"
+
+#: Template/TypeBusiness/add.ctp:35
+#: Template/TypeBusiness/edit.ctp:35
+#: Template/TypeBusiness/index.ctp:53
+#: Template/TypeCompanies/add.ctp:36
+#: Template/TypeCompanies/edit.ctp:36
+msgid "type_name_vie"
+msgstr "Tên loại tiếng Việt"
+
+#: Template/TypeBusiness/add.ctp:38
+#: Template/TypeBusiness/edit.ctp:38
+#: Template/TypeBusiness/index.ctp:54
+#: Template/TypeCompanies/add.ctp:40
+#: Template/TypeCompanies/edit.ctp:40
+msgid "type_name_eng"
+msgstr "Tên loại tiếng Anh"
+
+#: Template/TypeBusiness/add.ctp:41
+#: Template/TypeBusiness/edit.ctp:41
+#: Template/TypeBusiness/index.ctp:55
+#: Template/TypeCompanies/add.ctp:44
+#: Template/TypeCompanies/edit.ctp:44
+msgid "type_name_jpn"
+msgstr "Tên loại tiếng Nhật"
+
+#: Template/TypeBusiness/edit.ctp:24;32
+msgid "Edit Type Busines"
+msgstr "Sửa loại hình kinh doanh"
+
+#: Template/TypeBusiness/index.ctp:6
+msgid "Type Busines"
+msgstr "Loại hình kinh doanh"
+
+#: Template/TypeBusiness/index.ctp:15
+msgid "New Type Busines"
+msgstr "Thêm mới loại hình kinh doanh"
+
+#: Template/TypeBusiness/view.ctp:42
+#: Template/TypeCompanies/view.ctp:42
+msgid "Type Name Vie"
+msgstr "Tên loại tiếng Việt"
+
+#: Template/TypeBusiness/view.ctp:46
+#: Template/TypeCompanies/view.ctp:46
+msgid "Type Name Eng"
+msgstr "Tên loại tiếng Anh"
+
+#: Template/TypeBusiness/view.ctp:50
+#: Template/TypeCompanies/view.ctp:50
+msgid "Type Name Jpn"
+msgstr "Tên loại tiếng Nhật"
+
+#: Template/TypeCompanies/add.ctp:1;6
+#: Template/TypeCompanies/edit.ctp:1;6
+#: Template/TypeCompanies/index.ctp:1
+#: Template/TypeCompanies/view.ctp:2;7
+msgid "Type Companies"
+msgstr "Loại doanh nghiệp"
+
+#: Template/TypeCompanies/add.ctp:8
+#: Template/TypeCompanies/edit.ctp:8
+#: Template/TypeCompanies/index.ctp:8;28
+#: Template/TypeCompanies/view.ctp:9
+msgid "List of Type Company"
+msgstr "Danh sách loại doanh nghiệp"
+
+#: Template/TypeCompanies/add.ctp:24;32
+msgid "Add Type Company"
+msgstr "Thêm loại doanh nghiệp"
+
+#: Template/TypeCompanies/add.ctp:34;38;42
+#: Template/TypeCompanies/edit.ctp:34;38;42
+#: Template/TypeCompanies/index.ctp:53;54;55
+msgid "Classification of company"
+msgstr "Phân loại doanh nghiệp"
+
+#: Template/TypeCompanies/edit.ctp:24;32
+msgid "Edit Type Company"
+msgstr "Thêm loại doanh nghiệp"
+
+#: Template/TypeCompanies/index.ctp:6
+msgid "Type Company"
+msgstr "Loại doanh nghiệp"
+
+#: Template/TypeCompanies/index.ctp:15
+msgid "New Type Company"
+msgstr "Thêm mới loại doanh nghiệp"
+
+#: Template/Users/add.ctp:9
+#: Template/Users/index.ctp:12;33
+#: Template/Users/view.ctp:11
+msgid "List of user"
+msgstr "Danh sách User"
+
+#: Template/Users/add.ctp:25
+msgid "User Edit"
+msgstr "Sửa User"
+
+#: Template/Users/add.ctp:27
+msgid "User Add"
+msgstr "Thêm User"
+
+#: Template/Users/change_password.ctp:8
+#: Template/Users/profile.ctp:9
+msgid "My profile"
+msgstr "Hồ sơ của tôi"
+
+#: Template/Users/index.ctp:65
+msgid "ID"
+msgstr ""
+
+#: Template/Users/index.ctp:68
+#: Template/Users/view.ctp:57
+msgid "Group"
+msgstr "Nhóm"
+
+#: Template/Users/index.ctp:70
+msgid "Action"
+msgstr "Thao tác"
+
+#: Template/Users/profile.ctp:24
+msgid "Edit profile"
+msgstr "Sửa hồ sơ"
+
+msgid "Data empty!"
+msgstr "Không có dữ liệu!"
+
+msgid "Pages"
+msgstr "Các trang"
+
+msgid "Member List"
+msgstr "Danh sách thành viên"
+
+msgid "Approved"
+msgstr "Đã duyệt"
+
+msgid "Unapproved"
+msgstr "Chưa duyệt"
+
+msgid "Member default"
+msgstr "Thành viên thường"
+
+msgid "Vietnam"
+msgstr "Việt Nam"
+
+msgid "Japan"
+msgstr "Nhật Bản"
+
+msgid "Vietnamese"
+msgstr "Tiếng Việt"
+
+msgid "English"
+msgstr "Tiếng Anh"
+
+msgid "Japanese"
+msgstr "Tiếng Nhật"
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid "Submit"
+msgstr "Gửi yêu cầu"
+
+msgid "Member Vip"
+msgstr "Thành viên VIP"
+
+msgid "Member Unapproved"
+msgstr "Thành viên chưa được duyệt"
+
+msgid "Member Add"
+msgstr "Thêm thành viên"
+
+msgid "Filter industry_code"
+msgstr "Lọc theo mã ngành"
+
+msgid "Filter title"
+msgstr "Lọc theo tiêu đề"
+
+msgid "Filter author"
+msgstr "Lọc theo tác giả"
+
+msgid "Filter date"
+msgstr "Lọc theo ngày tháng"
+
+msgid "Filter active"
+msgstr "Lọc theo kích hoạt"
+
+msgid "Filter url"
+msgstr "Lọc theo đường dẫn Url"
+
+msgid "Filter text"
+msgstr "Lọc theo văn bản"
+
+
+
+msgid "Filter order"
+msgstr "Lọc theo thứ tự"
+
+msgid "Filter status"
+msgstr "Lọc theo trạng thái"
+
+msgid "Partner"
+msgstr "Đối tác"
+
+msgid "Cooperate"
+msgstr "Hợp tác"
+
+msgid "Supplier"
+msgstr "Nhà cung cấp"
+
+msgid "Find Suppliers"
+msgstr "Tìm nhà cung cấp"
+
+msgid "Inquiry Add"
+msgstr "Thêm nhu cầu hợp tác"
+
+msgid "List Inquiries"
+msgstr "Danh sách nhu cầu hợp tác"
+
+msgid "Top Inquiry"
+msgstr "Top nhu cầu hợp tác"
+
+msgid "Show"
+msgstr "Hiện"
+
+msgid "Hidden"
+msgstr "Ẩn"
+
+msgid "Top"
+msgstr "Trên"
+
+msgid "Bottom"
+msgstr "Dưới"
+
+msgid "List Activity"
+msgstr "Danh sách hoạt động"
+
+msgid "Settings"
+msgstr "Cài đặt"
+
+msgid "Update settings"
+msgstr "Cập nhật cài đặt"
+
+msgid "Company Name Vie"
+msgstr "Tên công ty tiếng Việt"
+
+msgid "Company Name Eng"
+msgstr "Tên công ty tiếng Anh"
+
+msgid "Company Name Jpn"
+msgstr "Tên công ty tiếng Nhật"
+
+msgid "Phone Number"
+msgstr "Số điện thoại"
+
+msgid "Facebook Link"
+msgstr "Đường dẫn Facebook"
+
+msgid "Copy Right"
+msgstr "Bản quyền"
+
+msgid "New password"
+msgstr "Mật khẩu mới"
+
+msgid "Filter type_name_vie"
+msgstr "Lọc theo tên tiếng Việt"
+
+msgid "Filter type_name_eng"
+msgstr "Lọc theo tên tiếng Anh"
+
+msgid "Filter type_name_jpn"
+msgstr "Lọc theo tên tiếng Nhật"
+
+msgid "Female"
+msgstr "Nữ"
+
+msgid "Male"
+msgstr "Nam"
+
+msgid "Filter Email"
+msgstr "Lọc theo email"
+
+msgid "Filter First Name"
+msgstr "Lọc theo tên"
+
+msgid "Filter Last Name"
+msgstr "Lọc theo họ"
+
+msgid "Sign In"
+msgstr "Đăng nhập"
+
+msgid "Forgot password?"
+msgstr "Quên mật khẩu?"
+
+msgid "Stay signed in"
+msgstr "Khi nhớ đăng nhập"
+
+msgid "Menu Left"
+msgstr "Menu trái"
+
+msgid "Menu Right"
+msgstr "Menu phải"
+
+msgid "Filter type"
+msgstr "Lọc theo loại menu"
+
+msgid "Filter child_id"
+msgstr "Lọc theo ID menu con"
+
+msgid "Filter Company"
+msgstr "Lọc theo công ty"
+
+msgid "Filter create"
+msgstr "Lọc theo ngày tạo"
+
+msgid "List of Businesses"
+msgstr "Danh sách loại kinh doanh"
+
+msgid "Dashboard"
+msgstr "Bảng điều khiển"
+
+msgid "Filter parent_id"
+msgstr "Lọc theo ID menu cha"
+
+msgid "District"
+msgstr "Quận/Huyện"
+
+msgid "Districts"
+msgstr "Quận/Huyện"
+
+msgid "List of District"
+msgstr "Danh sách Quận/Huyện"
+
+msgid "List of Districts"
+msgstr "Danh sách Quận/Huyện"
+
+msgid "Banner Activity"
+msgstr "Slide hoạt động - trang giới thiệu"
+
+msgid "Banner Member"
+msgstr "Slide thành viên - trang giới thiệu"
+
+msgid "Filter Group"
+msgstr "Lọc theo nhóm quyền"
+
+msgid "True"
+msgstr "hiển thị"
+
+msgid "False"
+msgstr "không hiển thị"
+
+msgid "Detail Inquiry"
+msgstr "Chi tiết cơ hội hợp tác"
+
+msgid "Detail Activity"
+msgstr "Chi tiết hoạt động"
+
+msgid "Register"
+msgstr "Đăng ký"
+
+msgid "Member Profile"
+msgstr "Hồ sơ thành viên"
+
+msgid "Update member profile"
+msgstr "Cập nhật hồ sơ thành viên"
+
+msgid "Member productions"
+msgstr "Các sản phẩm thành viên"
+
+msgid "Detail Member"
+msgstr "Chi tiết thành viên"
+
+msgid "List members by country"
+msgstr "Danh sách thành viên theo quốc gia"
+
+msgid "Register Inquiry"
+msgstr "Đăng ký nhu cầu hợp tác"
+
+msgid "English (US)"
+msgstr "Tiếng Anh"
+
+msgid "List of member by industry"
+msgstr "Danh sách thành viên theo ngành nghềiệu"
+
+msgid "No data available in table"
+msgstr "Không có dữ liệu trong bảng"
+
+msgid "Please fill this field."
+msgstr "Vui lòng không bỏ trống ô này."
+
+msgid "Add More"
+msgstr "Thêm ảnh"
+
+msgid "Image Product"
+msgstr "Hình Ảnh Sản Phẩm"
+
+msgid "Contact Phone"
+msgstr "Điện thoại liên hệ"
+
+msgid "Contact Email"
+msgstr "Email liên hệ"
+
+msgid "E-mail must be valid"
+msgstr "Email không đúng định dạng"
+
+msgid "This file is require!"
+msgstr "Không được bỏ trống ô này!"
+
+msgid "Select District"
+msgstr "Chọn Quận/Huyện"
+
+msgid "Registration form"
+msgstr "Form đăng ký"
+
+msgid "Email address"
+msgstr "Địa chỉ Email"
+
+msgid "List of menus"
+msgstr "Danh sách menu"
+
+msgid "Add more row"
+msgstr "Thêm dòng nữa"
+
+msgid "Filter file"
+msgstr "Lọc theo file đính kèm"
+
+msgid "Events"
+msgstr "Các sự kiện"
+
+msgid "List of Event"
+msgstr "Danh sách sự kiện"
+
+msgid "Add Event"
+msgstr "Thêm sự kiện"
+
+msgid "New Event"
+msgstr "Thêm mới sự kiện"
+
+msgid "Edit Event"
+msgstr "Sửa sự kiện"
+
+msgid "The setting has been saved."
+msgstr "Cài đặt đã được lưu"
+
+msgid "Magazine"
+msgstr "Tạp chí"
+
+msgid "List of Magazine"
+msgstr "Danh sách tạp chí"
+
+msgid "New Magazine"
+msgstr "Thêm mới tạp chí"
+
+msgid "Add Magazine"
+msgstr "Thêm mới tạp chí"
+
+msgid "Edit Magazine"
+msgstr "Sửa tạp chí"
+
+msgid "The provided value is invalid"
+msgstr "Giá trị nhập vào không đúng"
+
+msgid "Passwords are not equal"
+msgstr "Mật khẩu không khớp"
+
+msgid "Old Password"
+msgstr "Mật khẩu cũ"
+
+msgid "New Password"
+msgstr "Mật khẩu mới"
+
+msgid "Password Confirm"
+msgstr "Xác nhận mật khẩu"
+
+msgid "Group Admin"
+msgstr "Nhóm Quản trị"
+
+msgid "Group Editor"
+msgstr "Nhóm Biên tập"
+
+msgid "Group Moderator"
+msgstr "Nhóm điều hành"
+
+msgid "Magazines"
+msgstr "Tạp chí"
+
+msgid "title_vie"
+msgstr "Tiêu đề tiếng Việt"
+
+msgid "title_eng"
+msgstr "Tiêu đề tiếng Anh"
+
+msgid "title_jpn"
+msgstr "Tiêu đề tiếng Nhật"
+
+msgid "The magazine has been saved."
+msgstr "Tạp chí đã được lưu."
+
+msgid "The magazine could not be saved. Please, try again."
+msgstr "Tạp chí không thể lưu. Vui lòng thử lại!"
+
+msgid "The magazine has been deleted."
+msgstr "Tạp chí đã được xóa."
+
+msgid "The magazine could not be deleted. Please, try again."
+msgstr "Tạp chí chưa được xóa. Vui lòng thử lại!"
+
+msgid "Event"
+msgstr "Sự kiện"
+
+msgid "File size exceeds allowable"
+msgstr "Kích thước tập tin vượt quá mức cho phép"
+
+msgid "This file is not valid"
+msgstr "Tập tin không hợp lệ"
+
+msgid "Menu News"
+msgstr "Menu Tin tức"
+
+msgid "Page"
+msgstr "Trang"
+
+msgid "Introduce"
+msgstr "Giới thiệu"
+
+msgid "Contact Person"
+msgstr "Người liên hệ"
+
+msgid "Zoom"
+msgstr "Phóng to"
+
+#: Supporterrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+
+msgid "Support Info"
+msgstr "Thông tin hỗ trợ"
+
+msgid "New Supporter"
+msgstr "Thêm mới Hỗ trợ"
+
+msgid "Com Lang Chosen"
+msgstr "Ngôn ngữ"
+
+msgid "Experience"
+msgstr "Kinh nghiệm"
+
+msgid "Experience File"
+msgstr "File chứng minh kinh nghiệm"
+
+msgid "Company Site Url"
+msgstr "Trang web công ty"
+
+msgid "Member Organize"
+msgstr "Các tổ chức khác"
+
+msgid "Edit Supporter"
+msgstr "Sửa Hỗ trợ"
+
+msgid "Supporters"
+msgstr "Hỗ trợ"
+
+msgid "List of Supporter"
+msgstr "Danh sách các Hỗ trợ"
+
+msgid "Add Supporter"
+msgstr "Thêm Hỗ trợ"
+
+msgid "Date of birth"
+msgstr "Ngày sinh"
+
+msgid "Identification No./Passport No."
+msgstr "Số CMT / Hộ chiếu."
+
+msgid "Avatar"
+msgstr "Ảnh đại diện"
+
+msgid "Category Support"
+msgstr "Danh mục hỗ trợ"
+
+msgid "Company Address"
+msgstr "Địa chỉ công ty"
+
+msgid "Company website"
+msgstr "Trang web công ty"
+
+msgid "Select industry"
+msgstr "Lựa chọn ngành nghề"
+
+msgid "Language that you can communicate"
+msgstr "Ngôn ngữ"
+
+msgid "Please attach a record of experience that you have supported successfully in ASEAN network"
+msgstr "Vui lòng đính kèm tài liệu chứng minh bạn đã được hỗ trợ thành công trong mạng lưới ASEAN"
+
+msgid "attach file of experience that you have supported successfully in ASEAN network"
+msgstr "đính kèm file chứng minh bạn đã được hỗ trợ thành công trong mạng lưới ASEAN"
+
+msgid "Other organizations/associations that you are member now"
+msgstr "Các tổ chức/hiệp hội khác mà bạn đang là thành viên "
+
+msgid "Any information that you want to PR yourself as a supporter of Japan Circle"
+msgstr "Bất kỳ thông tin nào mà bạn muốn để PR bản thân với vai trò là một người hỗ trợ của Japan Circle"
+
+msgid "Birthdate"
+msgstr "Ngày sinh"
+
+msgid "Identity Card"
+msgstr "Số CMT / Hộ chiếu"
+
+msgid "Filter first_name"
+msgstr "Lọc theo tên"
+
+msgid "Filter last_name"
+msgstr "Lọc theo họ"
+
+msgid "Filter birthdate"
+msgstr "Lọc theo ngày sinh"
+
+msgid "first_name"
+msgstr "Tên"
+
+msgid "last_name"
+msgstr "Họ"
+
+msgid "birthdate"
+msgstr "Ngày sinh"
+
+msgid "Actions "
+msgstr "Thao tác"
+
+msgid "The supporter has been saved."
+msgstr "Lưu Hỗ trợ thành công"
+
+msgid "The supporter could not be saved. Please, try again."
+msgstr "Không thể lưu Hỗ trợ. Vui lòng thử lại sau."
+
+msgid "The supporter has been deleted."
+msgstr "Hỗ trợ đã được xóa."
+
+msgid "The supporter could not be deleted. Please, try again."
+msgstr "Không thể xóa Hỗ trợ. Vui lòng thử lại sau."
+
+msgid "Supporter Register"
+msgstr "Đăng ký làm hỗ trợ"
+
+msgid "SUPPORTER'S INFORMATION"
+msgstr "THÔNG TIN"
+
+msgid "GENERAL INFORMATION"
+msgstr "THÔNG TIN CHUNG"
+
+msgid "Please fill in cities that you can support"
+msgstr "Điền các thành phố bạn có thể hỗ trợ"
+
+msgid "COMPANY'S INFORMATION"
+msgstr "THÔNG TIN DOANH NGHIỆP"
+
+msgid "List Supporter"
+msgstr "Danh sách người hỗ trợ"
+
+msgid "Supporter Name"
+msgstr "Tên người hỗ trợ"
+
+msgid "Supporter"
+msgstr "Người hỗ trợ"
+
+msgid "Supporter Categories"
+msgstr "Danh mục người hỗ trợ"
+
+msgid "Category Supporters"
+msgstr "Danh mục người hỗ trợ"
+
+msgid "List of Category Supporter"
+msgstr "Danh sách Danh mục người hỗ trợ"
+
+msgid "Add Category Supporter"
+msgstr "Thêm danh mục người hỗ trợ"
+
+msgid "Edit Category Supporter"
+msgstr "Chỉnh sửa Danh mục người hỗ trợ"
+
+msgid "New Category Supporter"
+msgstr "Thêm mới Danh mục người hỗ trợ"
+
+msgid "The category supporter has been saved."
+msgstr "Danh mục người hỗ trợ đã được lưu"
+
+msgid "The category supporter could not be saved. Please, try again."
+msgstr "Danh mục người hỗ trợ chưa được lưu. Vui lòng thử lại sau."
+
+msgid "The category supporter has been deleted."
+msgstr "Danh mục người hỗ trợ đã được xóa."
+
+msgid "The category supporter could not be deleted. Please, try again."
+msgstr "Danh mục người hỗ trợ chưa được xóa. Vui lòng thử lại sau."
+
+msgid "Category Supporter"
+msgstr "Danh mục người hỗ trợ"
+
+ msgid "Record of experience that you have supported successfully in ASEAN network"
+msgstr "Tài liệu chứng minh kinh nghiệp hỗ trợ của bạn trong mạng lưới ASEAN"
+
+msgid "Record of experience file attach"
+msgstr "File đính kèm"
+
+msgid "Other organizations/associations"
+msgstr "Tổ chức/hiệp hội khác"
+
+msgid "Supporter Information"
+msgstr "Thông tin người hỗ trợ"
+
+msgid "Phone is not valid"
+msgstr "Số điện thoại không đúng"
+
+msgid "This value is already in use"
+msgstr "Giá trị này đã được sử dụng"
+
+msgid "You can choose more than one."
+msgstr "Bạn có thể chọn nhiều mục."
+
+msgid "製品の写真があればファイルをアップロードしてください"
+msgstr "Tải hình ảnh sản phẩm (nếu có)"
+
+msgid " 検索結果が見つかりませんでした"
+msgstr "Không tìm thấy kết quả nào"
+
+msgid "Japan Circle - Register Member"
+msgstr "【Japan Circle】Đăng ký thành viên"
+msgid "Japan Circle - Member Approved"
+msgstr "【Japan Circle】Duyệt thành viên"
+
+msgid "Error 404"
+msgstr "Lỗi 404"
+
+msgid "Home page admin"
+msgstr "Trang chủ"
+
+msgid "Status inquiry"
+msgstr "Trạng thái"
+
+msgid "Select Status inquiries"
+msgstr "Chọn trạng thái"msgstr "Trạng thái"msgstr "Lỗi 404"
+
+msgid "Home page"
+msgstr "Trang chủ"

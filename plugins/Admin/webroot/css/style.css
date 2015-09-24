@@ -1,0 +1,28 @@
+.required {
+    color: #ff0000;
+}
+.input .note-error {
+    color: #ff0000;
+}
+
+.member_add .note-error {
+    color: #ff0000;
+}
+
+.company {
+
+    border: 1px solid #ccc;
+    margin: 15px;
+}
+
+.company .tab-pane {
+    display: none;
+}
+
+.company .active {
+    display: block;
+}
+
+.row .checkbox input {
+    left: 40px;
+}

@@ -1,0 +1,42 @@
+.com{ border:1px solid #db1f26; margin-bottom:20px; width:100%; margin-left:0px; padding-bottom:0px; } 
+.com .comheader{ background:#db1f26; color:#fff;  border-bottom:1px solid #e0eded; font-size:14px; font-weight:bold;  padding-right: 95px; }
+.com .comheader .comname{
+    display:block; padding-top:7px; padding-bottom:7px; color:#fff;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.com .comflag{ margin:10px 0px 0px 0px; position:absolute; right:10px;}
+.com .comflag li{ display:inline-block; margin-left:2px; border:1px solid #fff;}
+.com .comflag li .vn{ display:block; background-image:url(../../../images/vn.png); width:20px; height:13px; }
+.com .comflag li .en{ display:block; background-image:url(../../../images/en.png); width:20px; height:13px;}
+.com .comflag li .jp{ display:block; background-image:url(../../../images/jp.png); width:20px; height:13px;}
+.com .commeta{ }
+.com .commeta .cominfo{ margin:0px 10px 10px -37px;}
+.com .commeta .cominfo li{
+    list-style:none; padding:3px 0px; border-bottom:1px solid #e0eded;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.com .combizjp{ border-top:1px solid #e0eded; padding-top:5px;}
+
+.com .comcontact{ margin-left:-35px; margin-right:-20px;}
+.com .img-center {
+    max-width: 97px;
+    max-height: 97px;
+}
+.com .comcontact li{
+    list-style:none; padding:3px 0px; font-size:12px; border-bottom:1px solid #e0eded;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.com .comcontact li i{
+    font-size:14px; color:#db1f26;
+}

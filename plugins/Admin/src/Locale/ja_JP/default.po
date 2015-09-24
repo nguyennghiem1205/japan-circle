@@ -1,0 +1,2738 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-08-17 08:54+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/ActivitiesController.php:55;82
+msgid "The activity has been saved."
+msgstr "アクティビティが保存されました。"
+
+#: Controller/ActivitiesController.php:58;85
+msgid "The activity could not be saved. Please, try again."
+msgstr "アクティビティが保存できませんでした。 もう一度試してください。"
+
+#: Controller/ActivitiesController.php:106
+msgid "The activity has been deleted."
+msgstr "アクティビティが削除されました。"
+
+#: Controller/ActivitiesController.php:108
+msgid "The activity could not be deleted. Please, try again."
+msgstr "アクティビティが削除できませんでした。 もう一度試してください。"
+
+#: Controller/ActivityCategoriesController.php:52;77
+msgid "The activity category has been saved."
+msgstr "アクティビティカテゴリが保存されました。"
+
+#: Controller/ActivityCategoriesController.php:55;80
+msgid "The activity category could not be saved. Please, try again."
+msgstr "アクティビティカテゴリが保存できませんでした。 もう一度試してください。"
+
+#: Controller/ActivityCategoriesController.php:99
+msgid "The activity category has been deleted."
+msgstr "アクティビティカテゴリが削除されました。"
+
+#: Controller/ActivityCategoriesController.php:101
+msgid "The activity category could not be deleted. Please, try again."
+msgstr "アクティビティカテゴリが削除できませんでした。 もう一度試してください。"
+
+#: Controller/AdvertisementsController.php:54;80
+msgid "The advertisement has been saved."
+msgstr "広告が保存されました。"
+
+#: Controller/AdvertisementsController.php:57;83
+msgid "The advertisement could not be saved. Please, try again."
+msgstr "広告が保存できませんでした。 もう一度試してください。"
+
+#: Controller/AdvertisementsController.php:102
+msgid "The advertisement has been deleted."
+msgstr "広告が削除されました。"
+
+#: Controller/AdvertisementsController.php:104
+msgid "The advertisement could not be deleted. Please, try again."
+msgstr "広告が削除できませんでした。 もう一度試してください。"
+
+#: Controller/BannersController.php:52;78
+msgid "The banner has been saved."
+msgstr "バナーが保存されました。"
+
+#: Controller/BannersController.php:55;81
+msgid "The banner could not be saved. Please, try again."
+msgstr "バナーが保存できませんでした。 もう一度試してください。"
+
+#: Controller/BannersController.php:101
+msgid "The banner has been deleted."
+msgstr "バナーが削除されました。"
+
+#: Controller/BannersController.php:103
+msgid "The banner could not be deleted. Please, try again."
+msgstr "バナーが削除できませんでした。 もう一度試してください。"
+
+#: Controller/CommentsController.php:52;77
+msgid "The comment has been saved."
+msgstr "コメントが保存されました。"
+
+#: Controller/CommentsController.php:55;80
+msgid "The comment could not be saved. Please, try again."
+msgstr "コメントが保存できませんでした。 もう一度試してください。"
+
+#: Controller/CommentsController.php:99
+msgid "The comment has been deleted."
+msgstr "コメントが削除されました。"
+
+#: Controller/CommentsController.php:101
+msgid "The comment could not be deleted. Please, try again."
+msgstr "コメントが削除できませんでした。 もう一度試してください。"
+
+#: Controller/CompanyInquiriesController.php:80
+msgid "The company inquiry has been saved."
+msgstr "会社のお問い合わせが保存されました。"
+
+#: Controller/CompanyInquiriesController.php:83
+msgid "The company inquiry could not be saved. Please, try again."
+msgstr "会社のお問い合わせが保存できませんでした。 もう一度試してください。"
+
+#: Controller/CompanyInquiriesController.php:111
+msgid "The company inquiry has been deleted."
+msgstr "会社のお問い合わせが削除されました。"
+
+#: Controller/CompanyInquiriesController.php:113
+msgid "The company inquiry could not be deleted. Please, try again."
+msgstr "会社のお問い合わせが削除できませんでした。 もう一度試してください。"
+
+#: Controller/CooperationsController.php:52;77
+msgid "The cooperation has been saved."
+msgstr "協力が保存されました。"
+
+#: Controller/CooperationsController.php:55;80
+msgid "The cooperation could not be saved. Please, try again."
+msgstr "協力が保存できませんでした。 もう一度試してください。"
+
+#: Controller/CooperationsController.php:99
+msgid "The cooperation has been deleted."
+msgstr "協力が削除されました。"
+
+#: Controller/CooperationsController.php:101
+msgid "The cooperation could not be deleted. Please, try again."
+msgstr "協力が削除できませんでした。 もう一度試してください。"
+
+#: Controller/HomeMenusController.php:98;125
+msgid "The home menu has been saved."
+msgstr "ホームメニューが保存されました。"
+
+#: Controller/HomeMenusController.php:101;128
+msgid "The home menu could not be saved. Please, try again."
+msgstr "ホームメニューが保存できませんでした。 もう一度試してください。"
+
+#: Controller/HomeMenusController.php:148
+msgid "The home menu has been deleted."
+msgstr "ホームメニューが削除されました。"
+
+#: Controller/HomeMenusController.php:150
+msgid "The home menu could not be deleted. Please, try again."
+msgstr "ホームメニューが削除できませんでした。 もう一度試してください。"
+
+#: Controller/HomeMenusController.php:178
+#: Template/HomeMenus/add.ctp:56
+#: Template/HomeMenus/edit.ctp:56
+msgid "Select Child"
+msgstr "サブメニューを選択"
+
+#: Controller/InquiriesController.php:52;85
+msgid "The inquiry has been saved."
+msgstr "お問い合わせが保存されました。"
+
+#: Controller/InquiriesController.php:55;88
+msgid "The inquiry could not be saved. Please, try again."
+msgstr "お問い合わせが保存できませんでした。 もう一度試してください。"
+
+#: Controller/InquiriesController.php:115
+msgid "The inquiry has been deleted."
+msgstr "お問い合わせが削除されました。"
+
+#: Controller/InquiriesController.php:117
+msgid "The inquiry could not be deleted. Please, try again."
+msgstr "お問い合わせが削除できませんでした。 もう一度試してください。"
+
+#: Controller/MembersController.php:35
+#: Template/Members/add.ctp:8
+#: Template/Members/edit.ctp:8
+#: Template/Members/index.ctp:28
+#: Template/Members/view.ctp:9
+msgid "List of Member"
+msgstr "メンバー一覧"
+
+#: Controller/MembersController.php:81;90;94;162;171;175
+msgid "The member could not be saved. Please, try again."
+msgstr "メンバーが保存できませんでした。 もう一度試してください。"
+
+#: Controller/MembersController.php:87;168
+msgid "The member has been saved."
+msgstr "メンバーが保存されました。"
+
+#: Controller/MembersController.php:226
+msgid "The member has been deleted."
+msgstr "メンバーがが削除されました。"
+
+#: Controller/MembersController.php:228
+msgid "The member could not be deleted. Please, try again."
+msgstr "メンバーが削除できませんでした。 もう一度試してください。"
+
+#: Controller/MembersController.php:240
+#: Template/Members/add.ctp:89
+#: Template/Members/edit.ctp:88
+msgid "Select Prefecture"
+msgstr "県を選択"
+
+#: Controller/MembersController.php:259
+#: Template/CompanyInquiries/edit.ctp:41
+#: Template/Inquiries/add.ctp:36
+#: Template/Inquiries/edit.ctp:36
+#: Template/Members/add.ctp:48
+#: Template/Members/edit.ctp:47
+#: Template/Productions/edit.ctp:41
+msgid "Select Industry"
+msgstr "産業を選択"
+
+#: Controller/MembersController.php:282
+msgid "Japan"
+msgstr "日本"
+
+#: Controller/MembersController.php:282
+msgid "Viet Nam"
+msgstr "ベトナム"
+
+#: Controller/MembersController.php:301;321
+msgid "Member Unapproved"
+msgstr "メンバーを承認されていません"
+
+#: Controller/MembersController.php:320
+msgid "Vip"
+msgstr "VIP"
+
+#: Controller/MembersController.php:320
+msgid "Member Default"
+msgstr "メンバーデフォルト"
+
+#: Controller/NeedsController.php:52;77
+msgid "The need has been saved."
+msgstr "必要が保存されました。"
+
+#: Controller/NeedsController.php:55;80
+msgid "The need could not be saved. Please, try again."
+msgstr "必要が保存できませんでした。 もう一度試してください。"
+
+#: Controller/NeedsController.php:99
+msgid "The need has been deleted."
+msgstr "必要が削除されました。"
+
+#: Controller/NeedsController.php:101
+msgid "The need could not be deleted. Please, try again."
+msgstr "必要が削除できませんでした。 もう一度試してください。"
+
+#: Controller/NewsCategoriesController.php:52;77
+msgid "The news category has been saved."
+msgstr "ニュースカテゴリーが保存された。"
+
+#: Controller/NewsCategoriesController.php:55;80
+msgid "The news category could not be saved. Please, try again."
+msgstr "ニュースカテゴリーが保存できませんでした。 もう一度試してください。"
+
+#: Controller/NewsCategoriesController.php:99
+msgid "The news category has been deleted."
+msgstr "ニュースカテゴリーが削除されました。"
+
+#: Controller/NewsCategoriesController.php:101
+msgid "The news category could not be deleted. Please, try again."
+msgstr "ニュースカテゴリーが削除できませんでした。 もう一度試してください。"
+
+#: Controller/NewsController.php:55;83
+msgid "The news has been saved."
+msgstr "ニュースが保存されました。"
+
+#: Controller/NewsController.php:58;86
+msgid "The news could not be saved. Please, try again."
+msgstr "ニュースが保存できませんでした。 もう一度試してください。"
+
+#: Controller/NewsController.php:108
+msgid "The news has been deleted."
+msgstr "ニュースが削除されました。"
+
+#: Controller/NewsController.php:110
+msgid "The news could not be deleted. Please, try again."
+msgstr "ニュースが削除できませんでした。 もう一度試してください。"
+
+#: Controller/ProductionsController.php:92
+msgid "The production has been saved."
+msgstr "生産が保存されました。"
+
+#: Controller/ProductionsController.php:95
+msgid "The production could not be saved. Please, try again."
+msgstr "生産が保存できませんでした。 もう一度試してください。"
+
+#: Controller/ProductionsController.php:118
+msgid "The production has been deleted."
+msgstr "生産が削除されました。"
+
+#: Controller/ProductionsController.php:120
+msgid "The production could not be deleted. Please, try again."
+msgstr "生産が削除できませんでした。 もう一度試してください。"
+
+#: Controller/TitlesController.php:52;77
+msgid "The title has been saved."
+msgstr "タイトルが保存されました。"
+
+#: Controller/TitlesController.php:55;80
+msgid "The title could not be saved. Please, try again."
+msgstr "タイトルが保存できませんでした。 もう一度試してください。"
+
+#: Controller/TitlesController.php:99
+msgid "The title has been deleted."
+msgstr "タイトルが削除されました。"
+
+#: Controller/TitlesController.php:101
+msgid "The title could not be deleted. Please, try again."
+msgstr "タイトルが削除できませんでした。 もう一度試してください。"
+
+#: Controller/TopListInquiriesController.php:52;77
+msgid "The top list inquiry has been saved."
+msgstr "問い合わせトップリストが保存されました。"
+
+#: Controller/TopListInquiriesController.php:55;80
+msgid "The top list inquiry could not be saved. Please, try again."
+msgstr "問い合わせトップリストが保存できませんでした。 もう一度試してください。"
+
+#: Controller/TopListInquiriesController.php:99
+msgid "The top list inquiry has been deleted."
+msgstr "問い合わせトップリストが削除されました。"
+
+#: Controller/TopListInquiriesController.php:101
+msgid "The top list inquiry could not be deleted. Please, try again."
+msgstr "問い合わせトップリスが削除できませんでした。 もう一度試してください。"
+
+#: Controller/TypeBusinessController.php:52;77
+msgid "The type busines has been saved."
+msgstr "ビジネスタイプが保存されました。"
+
+#: Controller/TypeBusinessController.php:55;80
+msgid "The type busines could not be saved. Please, try again."
+msgstr "ビジネスタイプが保存できませんでした。 もう一度試してください。"
+
+#: Controller/TypeBusinessController.php:99
+msgid "The type busines has been deleted."
+msgstr "ビジネスタイプが削除されました。"
+
+#: Controller/TypeBusinessController.php:101
+msgid "The type busines could not be deleted. Please, try again."
+msgstr "ビジネスタイプが削除できませんでした。 もう一度試してください。"
+
+#: Controller/TypeCompaniesController.php:55;80
+msgid "The type company has been saved."
+msgstr "会社タイプが保存されました。"
+
+#: Controller/TypeCompaniesController.php:58;83
+msgid "The type company could not be saved. Please, try again."
+msgstr "会社タイプが保存できませんでした。 もう一度試してください。"
+
+#: Controller/TypeCompaniesController.php:102
+msgid "The type company has been deleted."
+msgstr "会社タイプが削除されました。"
+
+#: Controller/TypeCompaniesController.php:104
+msgid "The type company could not be deleted. Please, try again."
+msgstr "会社タイプが削除できませんでした。 もう一度試してください。"
+
+#: Controller/UsersController.php:65;117
+msgid "The user has been saved."
+msgstr "ユーザーが保存されました。"
+
+#: Controller/UsersController.php:70;120
+msgid "The user could not be saved. Please, try again."
+msgstr "ユーザーが保存できませんでした。 もう一度試してください。"
+
+#: Controller/UsersController.php:92
+msgid "The user has been deleted."
+msgstr "ユーザーが削除されました。"
+
+#: Controller/UsersController.php:94
+msgid "The user could not be deleted. Please, try again."
+msgstr "ユーザーが削除できませんでした。 もう一度試してください。"
+
+#: Controller/UsersController.php:142
+msgid "The current password incorrect"
+msgstr "不正確な現在のパスワード"
+
+#: Controller/UsersController.php:148
+msgid "The password has been changed."
+msgstr "パスワードが変更された。"
+
+#: Controller/UsersController.php:151
+msgid "The user could not be changed. Please, try again."
+msgstr "ユーザーが変更できなかった。もう一度試してください。"
+
+#: Template/tmp_add.ctp:1
+#: Template/tmp_list.ctp:1
+msgid "Sytem"
+msgstr "システム"
+
+#: Template/tmp_add.ctp:6
+#: Template/tmp_list.ctp:6
+#: Template/Users/add.ctp:2;7
+#: Template/Users/change_password.ctp:6
+#: Template/Users/index.ctp:4;10
+#: Template/Users/profile.ctp:2;7
+#: Template/Users/view.ctp:3;9
+msgid "System"
+msgstr "システム"
+
+#: Template/tmp_add.ctp:6
+#: Template/tmp_list.ctp:6;19
+msgid "List of static pages"
+msgstr "静的なページ一覧"
+
+#: Template/tmp_add.ctp:17
+msgid "Edit static page"
+msgstr "静的なページを編集"
+
+#: Template/tmp_add.ctp:26
+#: Template/tmp_list.ctp:44
+#: Template/Comments/add.ctp:36;37
+#: Template/Comments/edit.ctp:36;37
+#: Template/Comments/view.ctp:42
+#: Template/CompanyInquiries/edit.ctp:44
+#: Template/CompanyInquiries/index.ctp:50
+#: Template/CompanyInquiries/view.ctp:58
+#: Template/Inquiries/add.ctp:38;40;42;44;46;48
+#: Template/Inquiries/edit.ctp:38;40;42;44;46;48
+#: Template/Inquiries/index.ctp:55;56;57
+#: Template/Titles/index.ctp:6
+#: Template/TopListInquiries/add.ctp:36;40;46
+#: Template/TopListInquiries/edit.ctp:36;40;46
+#: Template/TopListInquiries/view.ctp:42;46;50
+msgid "Title"
+msgstr "タイトル"
+
+#: Template/tmp_add.ctp:32
+#: Template/Activities/add.ctp:46;48;50;52;54;56
+#: Template/Activities/edit.ctp:46;48;50;52;54;56
+#: Template/Advertisements/add.ctp:55
+#: Template/Advertisements/edit.ctp:55
+#: Template/Advertisements/view.ctp:50
+#: Template/Comments/add.ctp:65
+#: Template/Comments/edit.ctp:65
+#: Template/Comments/view.ctp:66
+#: Template/CompanyInquiries/edit.ctp:53
+#: Template/Inquiries/add.ctp:101;105;109
+#: Template/Inquiries/edit.ctp:101;105;109
+#: Template/News/add.ctp:58;62;66
+#: Template/News/edit.ctp:58;62;66
+msgid "Content"
+msgstr "内容"
+
+#: Template/tmp_add.ctp:40
+#: Template/Activities/add.ctp:106
+#: Template/Activities/edit.ctp:105
+#: Template/ActivityCategories/add.ctp:54
+#: Template/ActivityCategories/edit.ctp:54
+#: Template/Advertisements/add.ctp:69
+#: Template/Advertisements/edit.ctp:69
+#: Template/Bake/Element/form.ctp:92
+#: Template/Banners/add.ctp:61
+#: Template/Banners/edit.ctp:61
+#: Template/Comments/add.ctp:72
+#: Template/Comments/edit.ctp:72
+#: Template/CompanyInquiries/edit.ctp:86
+#: Template/Cooperations/add.ctp:46
+#: Template/Cooperations/edit.ctp:46
+#: Template/HomeMenus/add.ctp:73
+#: Template/HomeMenus/edit.ctp:73
+#: Template/Inquiries/add.ctp:117
+#: Template/Inquiries/edit.ctp:117
+#: Template/Members/add.ctp:344
+#: Template/Members/edit.ctp:341
+#: Template/Needs/add.ctp:46
+#: Template/Needs/edit.ctp:46
+#: Template/News/add.ctp:109
+#: Template/News/edit.ctp:109
+#: Template/NewsCategories/add.ctp:53
+#: Template/NewsCategories/edit.ctp:53
+#: Template/Productions/add.ctp:67
+#: Template/Productions/edit.ctp:92
+#: Template/Titles/add.ctp:53
+#: Template/Titles/edit.ctp:53
+#: Template/TopListInquiries/add.ctp:69
+#: Template/TopListInquiries/edit.ctp:65
+#: Template/TypeBusiness/add.ctp:53
+#: Template/TypeBusiness/edit.ctp:53
+#: Template/TypeCompanies/add.ctp:53
+#: Template/TypeCompanies/edit.ctp:53
+#: Template/Users/add.ctp:141
+#: Template/Users/change_password.ctp:64
+#: Template/Users/profile.ctp:66
+msgid "Submit"
+msgstr "承認"
+
+#: Template/tmp_add.ctp:41
+msgid "Back"
+msgstr "後ろ"
+
+#: Template/tmp_list.ctp:38
+msgid "Filter Title"
+msgstr "タイトルのフィルタ"
+
+#: Template/tmp_list.ctp:45
+#: Template/Activities/index.ctp:59
+#: Template/ActivityCategories/index.ctp:57
+#: Template/Advertisements/index.ctp:55
+#: Template/Bake/Template/index.ctp:60
+#: Template/Banners/index.ctp:59
+#: Template/Comments/index.ctp:57
+#: Template/CompanyInquiries/index.ctp:53
+#: Template/Cooperations/index.ctp:55
+#: Template/HomeMenus/index.ctp:59
+#: Template/Inquiries/index.ctp:61
+#: Template/Members/index.ctp:59
+#: Template/Needs/index.ctp:55
+#: Template/News/index.ctp:57
+#: Template/NewsCategories/index.ctp:57
+#: Template/Productions/index.ctp:56
+#: Template/Titles/index.ctp:59
+#: Template/TopListInquiries/index.ctp:57
+#: Template/TypeBusiness/index.ctp:59
+#: Template/TypeCompanies/index.ctp:59
+msgid "Actions"
+msgstr "活動"
+
+#: Template/tmp_list.ctp:54
+#: Template/Activities/index.ctp:75
+#: Template/ActivityCategories/index.ctp:70
+#: Template/Advertisements/index.ctp:67
+#: Template/Bake/Template/index.ctp:97
+#: Template/Banners/index.ctp:73
+#: Template/Comments/index.ctp:70
+#: Template/CompanyInquiries/index.ctp:66
+#: Template/Cooperations/index.ctp:67
+#: Template/Element/link_action.ctp:3
+#: Template/HomeMenus/index.ctp:99
+#: Template/Inquiries/index.ctp:79
+#: Template/Members/index.ctp:74
+#: Template/Needs/index.ctp:67
+#: Template/News/index.ctp:70
+#: Template/NewsCategories/index.ctp:70
+#: Template/Productions/index.ctp:73
+#: Template/Titles/index.ctp:73
+#: Template/TopListInquiries/index.ctp:70
+#: Template/TypeBusiness/index.ctp:73
+#: Template/TypeCompanies/index.ctp:73
+msgid "View"
+msgstr "表示"
+
+#: Template/tmp_list.ctp:55
+#: Template/Activities/index.ctp:76
+#: Template/Activities/view.ctp:113
+#: Template/ActivityCategories/index.ctp:71
+#: Template/ActivityCategories/view.ctp:72
+#: Template/Advertisements/index.ctp:68
+#: Template/Advertisements/view.ctp:76
+#: Template/Bake/Template/index.ctp:98
+#: Template/Bake/Template/view.ctp:60
+#: Template/Banners/index.ctp:74
+#: Template/Banners/view.ctp:76
+#: Template/Comments/index.ctp:71
+#: Template/Comments/view.ctp:88
+#: Template/CompanyInquiries/index.ctp:67
+#: Template/CompanyInquiries/view.ctp:91
+#: Template/Cooperations/index.ctp:68
+#: Template/Cooperations/view.ctp:64
+#: Template/Element/link_action.ctp:6
+#: Template/HomeMenus/index.ctp:100
+#: Template/HomeMenus/view.ctp:80
+#: Template/Inquiries/index.ctp:80
+#: Template/Inquiries/view.ctp:132
+#: Template/Members/index.ctp:75
+#: Template/Members/view.ctp:242
+#: Template/Needs/index.ctp:68
+#: Template/Needs/view.ctp:64
+#: Template/News/index.ctp:71
+#: Template/News/view.ctp:113
+#: Template/NewsCategories/index.ctp:71
+#: Template/NewsCategories/view.ctp:68
+#: Template/Productions/index.ctp:74
+#: Template/Productions/view.ctp:95
+#: Template/Titles/index.ctp:74
+#: Template/Titles/view.ctp:72
+#: Template/TopListInquiries/index.ctp:71
+#: Template/TopListInquiries/view.ctp:76
+#: Template/TypeBusiness/index.ctp:74
+#: Template/TypeBusiness/view.ctp:72
+#: Template/TypeCompanies/index.ctp:74
+#: Template/TypeCompanies/view.ctp:72
+#: Template/Users/view.ctp:76
+msgid "Edit"
+msgstr "編集"
+
+#: Template/tmp_list.ctp:56
+msgid "Delete"
+msgstr "削除"
+
+#: Template/tmp_list.ctp:56
+#: Template/Activities/index.ctp:77
+#: Template/ActivityCategories/index.ctp:72
+#: Template/Advertisements/index.ctp:69
+#: Template/Bake/Template/index.ctp:99
+#: Template/Banners/index.ctp:75
+#: Template/Comments/index.ctp:72
+#: Template/CompanyInquiries/index.ctp:68
+#: Template/Cooperations/index.ctp:69
+#: Template/Element/link_action.ctp:8
+#: Template/HomeMenus/index.ctp:101
+#: Template/Inquiries/index.ctp:81
+#: Template/Members/index.ctp:76
+#: Template/Needs/index.ctp:69
+#: Template/News/index.ctp:72
+#: Template/NewsCategories/index.ctp:72
+#: Template/Productions/index.ctp:75
+#: Template/Titles/index.ctp:75
+#: Template/TopListInquiries/index.ctp:72
+#: Template/TypeBusiness/index.ctp:75
+#: Template/TypeCompanies/index.ctp:75
+msgid "Are you sure you want to delete # {0}?"
+msgstr "削除してもいいてすか # {0}?"
+
+#: Template/Activities/add.ctp:1;6
+#: Template/Activities/edit.ctp:1;6
+#: Template/Activities/index.ctp:1
+#: Template/Activities/view.ctp:2;7
+msgid "Activities"
+msgstr "アクティビティ"
+
+#: Template/Activities/add.ctp:8
+#: Template/Activities/edit.ctp:8
+#: Template/Activities/index.ctp:8;28
+#: Template/Activities/view.ctp:9
+msgid "List of Activity"
+msgstr "アクティビティ一覧"
+
+#: Template/Activities/add.ctp:24;32
+msgid "Add Activity"
+msgstr "アクティビティを追加"
+
+#: Template/Activities/add.ctp:34;36;38;40;42;44
+#: Template/Activities/edit.ctp:34;36;38;40;42;44
+#: Template/Activities/view.ctp:42;46;50
+#: Template/ActivityCategories/add.ctp:34;38;42
+#: Template/ActivityCategories/edit.ctp:34;38;42
+#: Template/ActivityCategories/view.ctp:42;46;50
+#: Template/Advertisements/add.ctp:34;38;42
+#: Template/Advertisements/edit.ctp:34;38;42
+#: Template/Advertisements/index.ctp:51
+#: Template/Advertisements/view.ctp:42
+#: Template/Cooperations/add.ctp:34
+#: Template/Cooperations/edit.ctp:34
+#: Template/Cooperations/view.ctp:42
+#: Template/HomeMenus/add.ctp:35;39;43
+#: Template/HomeMenus/edit.ctp:35;39;43
+#: Template/HomeMenus/index.ctp:53
+#: Template/HomeMenus/view.ctp:42
+#: Template/Needs/add.ctp:34
+#: Template/Needs/edit.ctp:34
+#: Template/Needs/index.ctp:51
+#: Template/Needs/view.ctp:42
+#: Template/News/add.ctp:34;38;42
+#: Template/News/edit.ctp:34;38;42
+#: Template/News/view.ctp:42;46;50
+#: Template/NewsCategories/add.ctp:34;38;42
+#: Template/NewsCategories/edit.ctp:34;38;42
+#: Template/NewsCategories/index.ctp:52;53;54
+#: Template/NewsCategories/view.ctp:42;46;50
+#: Template/Productions/index.ctp:51
+#: Template/Productions/view.ctp:49
+#: Template/Titles/add.ctp:34;38;42
+#: Template/Titles/edit.ctp:34;38;42
+#: Template/Titles/index.ctp:53;54;55
+#: Template/Titles/view.ctp:42;46;50
+#: Template/Users/index.ctp:67
+#: Template/Users/view.ctp:53
+msgid "Name"
+msgstr "名前"
+
+#: Template/Activities/add.ctp:58
+#: Template/Activities/edit.ctp:58
+#: Template/Activities/view.ctp:55
+#: Template/Banners/add.ctp:34
+#: Template/Banners/edit.ctp:34
+#: Template/Banners/view.ctp:42
+#: Template/CompanyInquiries/edit.ctp:62
+#: Template/CompanyInquiries/view.ctp:46
+#: Template/Inquiries/add.ctp:50
+#: Template/Inquiries/edit.ctp:50
+#: Template/Inquiries/view.ctp:66
+#: Template/News/add.ctp:78
+#: Template/News/edit.ctp:78
+#: Template/News/view.ctp:75
+#: Template/Productions/edit.ctp:73
+#: Template/Productions/index.ctp:47
+#: Template/Productions/view.ctp:69
+msgid "Image"
+msgstr "イメージ"
+
+#: Template/Activities/add.ctp:60
+#: Template/Activities/edit.ctp:60
+#: Template/Activities/index.ctp:53
+#: Template/Banners/add.ctp:36
+#: Template/Banners/edit.ctp:36
+#: Template/Banners/index.ctp:53
+#: Template/CompanyInquiries/edit.ctp:63
+#: Template/CompanyInquiries/index.ctp:48
+#: Template/Inquiries/add.ctp:52
+#: Template/Inquiries/edit.ctp:52
+#: Template/Inquiries/index.ctp:54
+#: Template/News/index.ctp:52
+#: Template/Productions/add.ctp:56
+#: Template/Productions/edit.ctp:74
+msgid "image"
+msgstr "イメージ"
+
+#: Template/Activities/add.ctp:62
+#: Template/Activities/edit.ctp:62
+#: Template/ActivityCategories/index.ctp:6
+msgid "Activity Category"
+msgstr "アクティビティ　カテゴリー"
+
+#: Template/Activities/add.ctp:64
+#: Template/Activities/edit.ctp:64
+#: Template/News/add.ctp:72
+#: Template/News/edit.ctp:72
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+#: Template/Activities/add.ctp:64
+#: Template/Activities/edit.ctp:64
+msgid "category"
+msgstr "カテゴリー"
+
+#: Template/Activities/add.ctp:66;70;74
+#: Template/Activities/edit.ctp:66;70;74
+#: Template/Activities/view.ctp:63;67;71
+#: Template/CompanyInquiries/view.ctp:62
+#: Template/Inquiries/add.ctp:65;67;69;71;73;75
+#: Template/Inquiries/edit.ctp:65;67;69;71;73;75
+#: Template/News/add.ctp:46;50;54
+#: Template/News/edit.ctp:46;50;54
+#: Template/News/view.ctp:54;59;63
+#: Template/Productions/edit.ctp:85
+#: Template/Productions/view.ctp:73
+msgid "Description"
+msgstr "説明"
+
+#: Template/Activities/add.ctp:68;72;76
+#: Template/Activities/edit.ctp:68;72;76
+#: Template/Activities/index.ctp:58
+#: Template/CompanyInquiries/edit.ctp:50
+#: Template/Productions/add.ctp:59
+#: Template/Productions/edit.ctp:86
+msgid "description"
+msgstr "説明"
+
+#: Template/Activities/add.ctp:78;82;86
+#: Template/Activities/edit.ctp:78;82;86
+#: Template/Activities/view.ctp:75;79;83
+#: Template/Productions/edit.ctp:58
+#: Template/Productions/view.ctp:57
+msgid "Short Description"
+msgstr "前略説明"
+
+#: Template/Activities/add.ctp:80;84;88
+#: Template/Activities/edit.ctp:80;84;88
+msgid "short description"
+msgstr "前略説明"
+
+#: Template/Activities/add.ctp:90
+#: Template/Activities/edit.ctp:90
+#: Template/Activities/view.ctp:87
+#: Template/News/add.ctp:98
+#: Template/News/edit.ctp:98
+#: Template/News/view.ctp:91
+msgid "New"
+msgstr "新規追加"
+
+#: Template/Activities/add.ctp:92
+#: Template/Activities/edit.ctp:92
+msgid "new"
+msgstr "新規追加"
+
+#: Template/Activities/add.ctp:94
+#: Template/Activities/edit.ctp:94
+#: Template/Activities/view.ctp:91
+#: Template/ActivityCategories/add.ctp:46
+#: Template/ActivityCategories/edit.ctp:46
+#: Template/ActivityCategories/view.ctp:54
+#: Template/Advertisements/add.ctp:61
+#: Template/Advertisements/edit.ctp:61
+#: Template/Advertisements/index.ctp:54
+#: Template/Advertisements/view.ctp:58
+#: Template/Banners/add.ctp:50
+#: Template/Banners/edit.ctp:50
+#: Template/Banners/view.ctp:58
+#: Template/Comments/add.ctp:56
+#: Template/Comments/edit.ctp:56
+#: Template/CompanyInquiries/edit.ctp:69
+#: Template/CompanyInquiries/view.ctp:68
+#: Template/Cooperations/add.ctp:38
+#: Template/Cooperations/edit.ctp:38
+#: Template/Cooperations/view.ctp:46
+#: Template/HomeMenus/add.ctp:63
+#: Template/HomeMenus/edit.ctp:63
+#: Template/HomeMenus/view.ctp:62
+#: Template/Inquiries/add.ctp:97
+#: Template/Inquiries/edit.ctp:97
+#: Template/Inquiries/index.ctp:60
+#: Template/Inquiries/view.ctp:110
+#: Template/Members/add.ctp:177;178
+#: Template/Members/edit.ctp:176;177
+#: Template/Members/view.ctp:202
+#: Template/Needs/add.ctp:38
+#: Template/Needs/edit.ctp:38
+#: Template/Needs/index.ctp:52
+#: Template/Needs/view.ctp:46
+#: Template/News/view.ctp:79
+#: Template/Productions/edit.ctp:80
+#: Template/Productions/index.ctp:54
+#: Template/Productions/view.ctp:77
+#: Template/TopListInquiries/add.ctp:57
+#: Template/TopListInquiries/edit.ctp:57
+#: Template/TopListInquiries/view.ctp:58
+#: Template/Users/add.ctp:95;96
+#: Template/Users/index.ctp:69
+#: Template/Users/view.ctp:61
+msgid "Status"
+msgstr "状態"
+
+#: Template/Activities/add.ctp:96
+#: Template/Activities/edit.ctp:96
+#: Template/ActivityCategories/add.ctp:48
+#: Template/ActivityCategories/edit.ctp:48
+#: Template/ActivityCategories/index.ctp:55
+#: Template/Advertisements/add.ctp:63
+#: Template/Advertisements/edit.ctp:63
+#: Template/Banners/add.ctp:52
+#: Template/Banners/edit.ctp:52
+#: Template/Banners/index.ctp:57
+#: Template/CompanyInquiries/edit.ctp:70
+#: Template/CompanyInquiries/index.ctp:52
+#: Template/Cooperations/add.ctp:40
+#: Template/Cooperations/edit.ctp:40
+#: Template/Cooperations/index.ctp:52
+#: Template/HomeMenus/add.ctp:64
+#: Template/HomeMenus/edit.ctp:64
+#: Template/HomeMenus/index.ctp:58
+#: Template/Inquiries/add.ctp:99
+#: Template/Inquiries/edit.ctp:99
+#: Template/Needs/add.ctp:40
+#: Template/Needs/edit.ctp:40
+#: Template/News/index.ctp:54
+#: Template/Productions/add.ctp:62
+#: Template/Productions/edit.ctp:81
+#: Template/TopListInquiries/add.ctp:58
+#: Template/TopListInquiries/edit.ctp:58
+#: Template/TopListInquiries/index.ctp:54
+msgid "status"
+msgstr "状態"
+
+#: Template/Activities/add.ctp:98
+#: Template/Activities/edit.ctp:98
+#: Template/Activities/view.ctp:95
+#: Template/Inquiries/add.ctp:85;87
+#: Template/Inquiries/edit.ctp:85;87
+#: Template/Inquiries/view.ctp:98
+#: Template/Members/add.ctp:184;185
+#: Template/Members/edit.ctp:183;184
+#: Template/News/add.ctp:102
+#: Template/News/edit.ctp:102
+#: Template/News/view.ctp:95
+msgid "Total View"
+msgstr "合計表示"
+
+#: Template/Activities/add.ctp:100
+#: Template/Activities/edit.ctp:100
+#: Template/News/add.ctp:104
+#: Template/News/edit.ctp:104
+msgid "total view"
+msgstr "合計表示"
+
+#: Template/Activities/edit.ctp:24;32
+msgid "Edit Activity"
+msgstr "アクティビティを編集"
+
+#: Template/Activities/index.ctp:6
+msgid "Activity"
+msgstr "アクティビティ"
+
+#: Template/Activities/index.ctp:15
+msgid "New Activity"
+msgstr "アクティビティを新規追加"
+
+#: Template/Activities/index.ctp:52
+#: Template/ActivityCategories/index.ctp:51
+#: Template/Banners/index.ctp:52
+#: Template/Comments/index.ctp:51
+#: Template/Cooperations/index.ctp:50
+#: Template/Inquiries/index.ctp:53
+#: Template/Needs/index.ctp:50
+#: Template/News/index.ctp:51
+#: Template/NewsCategories/index.ctp:51
+#: Template/TopListInquiries/index.ctp:51
+#: Template/TypeBusiness/index.ctp:52
+#: Template/TypeCompanies/index.ctp:52
+msgid "id"
+msgstr "id"
+
+#: Template/Activities/index.ctp:54
+#: Template/ActivityCategories/add.ctp:36
+#: Template/ActivityCategories/edit.ctp:36
+#: Template/ActivityCategories/index.ctp:52
+#: Template/News/index.ctp:53
+#: Template/NewsCategories/add.ctp:36
+#: Template/NewsCategories/edit.ctp:36
+#: Template/Titles/add.ctp:36
+#: Template/Titles/edit.ctp:36
+msgid "name_vie"
+msgstr "名前_ベトナム語"
+
+#: Template/Activities/index.ctp:55
+#: Template/ActivityCategories/add.ctp:40
+#: Template/ActivityCategories/edit.ctp:40
+#: Template/ActivityCategories/index.ctp:53
+#: Template/NewsCategories/add.ctp:40
+#: Template/NewsCategories/edit.ctp:40
+#: Template/Titles/add.ctp:40
+#: Template/Titles/edit.ctp:40
+msgid "name_eng"
+msgstr "名前_英語"
+
+#: Template/Activities/index.ctp:56
+#: Template/ActivityCategories/add.ctp:44
+#: Template/ActivityCategories/edit.ctp:44
+#: Template/ActivityCategories/index.ctp:54
+#: Template/NewsCategories/add.ctp:44
+#: Template/NewsCategories/edit.ctp:44
+#: Template/Titles/add.ctp:44
+#: Template/Titles/edit.ctp:44
+msgid "name_jpn"
+msgstr "名前_日本語"
+
+#: Template/Activities/index.ctp:57
+msgid "activity_category_id"
+msgstr "アクティビティ_カテゴリ_id"
+
+#: Template/Activities/view.ctp:38
+#: Template/ActivityCategories/view.ctp:38
+#: Template/Advertisements/index.ctp:50
+#: Template/Advertisements/view.ctp:38
+#: Template/Banners/view.ctp:38
+#: Template/Comments/view.ctp:38
+#: Template/CompanyInquiries/index.ctp:47
+#: Template/CompanyInquiries/view.ctp:38
+#: Template/Cooperations/view.ctp:38
+#: Template/HomeMenus/index.ctp:52
+#: Template/HomeMenus/view.ctp:38
+#: Template/Inquiries/view.ctp:38
+#: Template/Members/index.ctp:52
+#: Template/Members/view.ctp:38
+#: Template/Needs/view.ctp:38
+#: Template/News/view.ctp:38
+#: Template/NewsCategories/view.ctp:38
+#: Template/Productions/view.ctp:37
+#: Template/Titles/index.ctp:52
+#: Template/Titles/view.ctp:38
+#: Template/TopListInquiries/view.ctp:38
+#: Template/TypeBusiness/view.ctp:38
+#: Template/TypeCompanies/view.ctp:38
+msgid "Id"
+msgstr "Id"
+
+#: Template/Activities/view.ctp:59
+msgid "Activity Category Id"
+msgstr "アクティビティ カテゴリ Id"
+
+#: Template/Activities/view.ctp:88;92
+#: Template/ActivityCategories/index.ctp:67
+#: Template/ActivityCategories/view.ctp:55
+#: Template/Advertisements/index.ctp:65
+#: Template/Advertisements/view.ctp:59
+#: Template/Banners/index.ctp:70
+#: Template/Banners/view.ctp:59
+#: Template/News/index.ctp:66
+#: Template/News/view.ctp:80;92
+msgid "Yes"
+msgstr "へい"
+
+#: Template/Activities/view.ctp:88;92
+#: Template/ActivityCategories/index.ctp:67
+#: Template/ActivityCategories/view.ctp:55
+#: Template/Advertisements/index.ctp:65
+#: Template/Advertisements/view.ctp:59
+#: Template/Banners/index.ctp:70
+#: Template/Banners/view.ctp:59
+#: Template/News/index.ctp:66
+#: Template/News/view.ctp:80;92
+msgid "No"
+msgstr "いいえ"
+
+#: Template/Activities/view.ctp:99
+#: Template/ActivityCategories/view.ctp:58
+#: Template/Advertisements/view.ctp:62
+#: Template/Banners/view.ctp:62
+#: Template/Comments/view.ctp:74
+#: Template/CompanyInquiries/view.ctp:77
+#: Template/Cooperations/view.ctp:50
+#: Template/HomeMenus/view.ctp:66
+#: Template/Inquiries/view.ctp:118
+#: Template/Needs/view.ctp:50
+#: Template/News/view.ctp:99
+#: Template/NewsCategories/view.ctp:54
+#: Template/Productions/view.ctp:81
+#: Template/Titles/index.ctp:57
+#: Template/Titles/view.ctp:58
+#: Template/TopListInquiries/view.ctp:62
+#: Template/TypeBusiness/view.ctp:58
+#: Template/TypeCompanies/index.ctp:57
+#: Template/TypeCompanies/view.ctp:58
+#: Template/Users/view.ctp:65
+msgid "Created"
+msgstr "作成"
+
+#: Template/Activities/view.ctp:103
+#: Template/ActivityCategories/view.ctp:62
+#: Template/Advertisements/view.ctp:66
+#: Template/Banners/view.ctp:66
+#: Template/Comments/view.ctp:78
+#: Template/CompanyInquiries/view.ctp:81
+#: Template/Cooperations/view.ctp:54
+#: Template/HomeMenus/view.ctp:70
+#: Template/Inquiries/view.ctp:122
+#: Template/Needs/view.ctp:54
+#: Template/News/view.ctp:103
+#: Template/NewsCategories/view.ctp:58
+#: Template/Productions/index.ctp:55
+#: Template/Productions/view.ctp:85
+#: Template/Titles/index.ctp:58
+#: Template/Titles/view.ctp:62
+#: Template/TopListInquiries/view.ctp:66
+#: Template/TypeBusiness/view.ctp:62
+#: Template/TypeCompanies/index.ctp:58
+#: Template/TypeCompanies/view.ctp:62
+msgid "Modified"
+msgstr "モディファイ"
+
+#: Template/Activities/view.ctp:112
+#: Template/ActivityCategories/view.ctp:71
+#: Template/Advertisements/view.ctp:75
+#: Template/Bake/Template/view.ctp:59
+#: Template/Banners/view.ctp:75
+#: Template/Comments/view.ctp:87
+#: Template/CompanyInquiries/view.ctp:90
+#: Template/Cooperations/view.ctp:63
+#: Template/HomeMenus/view.ctp:79
+#: Template/Inquiries/view.ctp:131
+#: Template/Members/view.ctp:241
+#: Template/Needs/view.ctp:63
+#: Template/News/view.ctp:112
+#: Template/NewsCategories/view.ctp:67
+#: Template/Productions/view.ctp:94
+#: Template/Titles/view.ctp:71
+#: Template/TopListInquiries/view.ctp:75
+#: Template/TypeBusiness/view.ctp:71
+#: Template/TypeCompanies/view.ctp:71
+#: Template/Users/view.ctp:75
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: Template/ActivityCategories/add.ctp:1;6
+#: Template/ActivityCategories/edit.ctp:1;6
+#: Template/ActivityCategories/index.ctp:1
+#: Template/ActivityCategories/view.ctp:2;7
+msgid "Activity Categories"
+msgstr "活動　カテゴリ"
+
+#: Template/ActivityCategories/add.ctp:8
+#: Template/ActivityCategories/edit.ctp:8
+#: Template/ActivityCategories/index.ctp:8;28
+#: Template/ActivityCategories/view.ctp:9
+msgid "List of Activity Category"
+msgstr "活動カテゴリ一覧"
+
+#: Template/ActivityCategories/add.ctp:24;32
+msgid "Add Activity Category"
+msgstr "活動カテゴリ追加"
+
+#: Template/ActivityCategories/edit.ctp:24;32
+msgid "Edit Activity Category"
+msgstr "活動カテゴリ編集"
+
+#: Template/ActivityCategories/index.ctp:15
+msgid "New Activity Category"
+msgstr "活動カテゴリ新規"
+
+#: Template/ActivityCategories/index.ctp:56
+#: Template/Banners/index.ctp:58
+#: Template/Cooperations/index.ctp:53
+#: Template/Needs/index.ctp:53
+#: Template/NewsCategories/index.ctp:55
+#: Template/TopListInquiries/index.ctp:55
+#: Template/TypeBusiness/index.ctp:57
+msgid "created"
+msgstr "作成"
+
+#: Template/Advertisements/add.ctp:1;6
+#: Template/Advertisements/edit.ctp:1;6
+#: Template/Advertisements/index.ctp:1
+#: Template/Advertisements/view.ctp:2;7
+msgid "Advertisements"
+msgstr "広告"
+
+#: Template/Advertisements/add.ctp:8
+#: Template/Advertisements/edit.ctp:8
+#: Template/Advertisements/index.ctp:8;28
+#: Template/Advertisements/view.ctp:9
+msgid "List of Advertisement"
+msgstr "広告一覧"
+
+#: Template/Advertisements/add.ctp:24;32
+msgid "Add Advertisement"
+msgstr "広告追加"
+
+#: Template/Advertisements/add.ctp:36;40;44
+#: Template/Advertisements/edit.ctp:36;40;44
+#: Template/Comments/add.ctp:66
+#: Template/Comments/edit.ctp:66
+#: Template/CompanyInquiries/edit.ctp:54
+msgid "content"
+msgstr "コンテンツ"
+
+#: Template/Advertisements/add.ctp:46
+#: Template/Advertisements/edit.ctp:46
+#: Template/Advertisements/index.ctp:52
+#: Template/Advertisements/view.ctp:46
+#: Template/Banners/add.ctp:46
+#: Template/Banners/edit.ctp:46
+#: Template/Banners/view.ctp:54
+msgid "Position"
+msgstr "ポジション"
+
+#: Template/Advertisements/add.ctp:48
+#: Template/Advertisements/edit.ctp:48
+#: Template/Banners/add.ctp:48
+#: Template/Banners/edit.ctp:48
+msgid "Select Position"
+msgstr "ポジション選択"
+
+#: Template/Advertisements/add.ctp:48
+#: Template/Advertisements/edit.ctp:48
+#: Template/Banners/add.ctp:48
+#: Template/Banners/edit.ctp:48
+#: Template/Banners/index.ctp:56
+msgid "position"
+msgstr "ポジション"
+
+#: Template/Advertisements/add.ctp:50;52
+#: Template/Advertisements/edit.ctp:50;52
+#: Template/Advertisements/index.ctp:53
+#: Template/Advertisements/view.ctp:54
+#: Template/Comments/add.ctp:60
+#: Template/Comments/edit.ctp:60
+#: Template/Comments/view.ctp:62
+#: Template/CompanyInquiries/edit.ctp:73
+#: Template/CompanyInquiries/view.ctp:73
+#: Template/HomeMenus/add.ctp:59
+#: Template/HomeMenus/edit.ctp:59
+#: Template/HomeMenus/view.ctp:58
+#: Template/Inquiries/view.ctp:114
+#: Template/Members/add.ctp:173;174
+#: Template/Members/edit.ctp:172;173
+#: Template/Members/view.ctp:197
+#: Template/Titles/add.ctp:46
+#: Template/Titles/edit.ctp:46
+#: Template/Titles/index.ctp:56
+#: Template/Titles/view.ctp:54
+#: Template/TypeBusiness/view.ctp:54
+#: Template/TypeCompanies/add.ctp:46
+#: Template/TypeCompanies/edit.ctp:46
+#: Template/TypeCompanies/index.ctp:56
+#: Template/TypeCompanies/view.ctp:54
+msgid "Order"
+msgstr "オーダー"
+
+#: Template/Advertisements/add.ctp:57
+#: Template/Advertisements/edit.ctp:57
+#: Template/Banners/add.ctp:40
+#: Template/Banners/edit.ctp:40
+#: Template/Banners/index.ctp:54
+#: Template/TopListInquiries/add.ctp:51
+#: Template/TopListInquiries/edit.ctp:51
+#: Template/TopListInquiries/index.ctp:53
+msgid "url"
+msgstr ""
+
+#: Template/Advertisements/edit.ctp:24;32
+msgid "Edit Advertisement"
+msgstr "広告編集"
+
+#: Template/Advertisements/index.ctp:6
+msgid "Advertisement"
+msgstr "広告"
+
+#: Template/Advertisements/index.ctp:15
+msgid "New Advertisement"
+msgstr "広告新規"
+
+#: Template/Bake/Element/form.ctp:9;14
+#: Template/Bake/Template/index.ctp:10
+#: Template/Bake/Template/view.ctp:12;17
+msgid "<%= $pluralHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:16
+#: Template/Bake/Template/index.ctp:17;37
+#: Template/Bake/Template/view.ctp:19
+msgid "List of <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:32;40
+msgid "<%= Inflector::humanize($action) %> <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Element/form.ctp:54;58;67;71;83
+#: Template/Bake/Template/index.ctp:58
+msgid "<%= $field %>"
+msgstr "フィールド"
+
+#: Template/Bake/Template/index.ctp:15
+msgid "<%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Template/index.ctp:24
+msgid "New <%= $singularHumanName %>"
+msgstr ""
+
+#: Template/Bake/Template/view.ctp:49
+msgid "<%= Inflector::humanize($field) %>"
+msgstr ""
+
+#: Template/Banners/add.ctp:1;6
+#: Template/Banners/edit.ctp:1;6
+#: Template/Banners/index.ctp:1
+#: Template/Banners/view.ctp:2;7
+msgid "Banners"
+msgstr "バナー"
+
+#: Template/Banners/add.ctp:8
+#: Template/Banners/edit.ctp:8
+#: Template/Banners/index.ctp:8;28
+#: Template/Banners/view.ctp:9
+msgid "List of Banner"
+msgstr "バナー一覧"
+
+#: Template/Banners/add.ctp:24;32
+msgid "Add Banner"
+msgstr "バナー追加"
+
+#: Template/Banners/add.ctp:38
+#: Template/Banners/edit.ctp:38
+#: Template/Banners/view.ctp:46
+#: Template/TopListInquiries/add.ctp:50
+#: Template/TopListInquiries/edit.ctp:50
+#: Template/TopListInquiries/view.ctp:54
+msgid "Url"
+msgstr ""
+
+#: Template/Banners/add.ctp:42
+#: Template/Banners/edit.ctp:42
+#: Template/Banners/view.ctp:50
+msgid "Text"
+msgstr "テキスト"
+
+#: Template/Banners/add.ctp:44
+#: Template/Banners/edit.ctp:44
+#: Template/Banners/index.ctp:55
+msgid "text"
+msgstr "テキスト"
+
+#: Template/Banners/edit.ctp:24;32
+msgid "Edit Banner"
+msgstr "バナー編集"
+
+#: Template/Banners/index.ctp:6
+msgid "Banner"
+msgstr "バナー"
+
+#: Template/Banners/index.ctp:15
+msgid "New Banner"
+msgstr "バナー新規"
+
+#: Template/Comments/add.ctp:1;6
+#: Template/Comments/edit.ctp:1;6
+#: Template/Comments/index.ctp:1
+#: Template/Comments/view.ctp:2;7
+msgid "Comments"
+msgstr "コメント"
+
+#: Template/Comments/add.ctp:8
+#: Template/Comments/edit.ctp:8
+#: Template/Comments/index.ctp:8;28
+#: Template/Comments/view.ctp:9
+msgid "List of Comment"
+msgstr "コメント一覧"
+
+#: Template/Comments/add.ctp:24;32
+msgid "Add Comment"
+msgstr "コメント追加"
+
+#: Template/Comments/add.ctp:40;41
+#: Template/Comments/edit.ctp:40;41
+#: Template/Comments/view.ctp:46
+msgid "Author"
+msgstr "著者"
+
+#: Template/Comments/add.ctp:46;47
+#: Template/Comments/edit.ctp:46;47
+#: Template/Comments/view.ctp:50
+msgid "Author Info"
+msgstr "著者情報"
+
+#: Template/Comments/add.ctp:50
+#: Template/Comments/edit.ctp:50
+#: Template/Comments/view.ctp:58
+msgid "Date"
+msgstr "日付"
+
+#: Template/Comments/add.ctp:51
+#: Template/Comments/edit.ctp:51
+#: Template/Comments/index.ctp:54
+msgid "date"
+msgstr "日付"
+
+#: Template/Comments/add.ctp:57
+#: Template/Comments/edit.ctp:57
+#: Template/CompanyInquiries/edit.ctp:70
+#: Template/Cooperations/add.ctp:40
+#: Template/Cooperations/edit.ctp:40
+#: Template/Inquiries/add.ctp:99
+#: Template/Inquiries/edit.ctp:99
+#: Template/Members/add.ctp:178
+#: Template/Members/edit.ctp:177
+#: Template/Needs/add.ctp:40
+#: Template/Needs/edit.ctp:40
+#: Template/Productions/edit.ctp:81
+#: Template/TopListInquiries/add.ctp:58
+#: Template/TopListInquiries/edit.ctp:58
+msgid "Select Status"
+msgstr "アクティブ"
+
+#: Template/Comments/add.ctp:57
+#: Template/Comments/edit.ctp:57
+#: Template/Comments/index.ctp:55
+msgid "active"
+msgstr "有効"
+
+#: Template/Comments/add.ctp:61
+#: Template/Comments/edit.ctp:61
+#: Template/Comments/index.ctp:56
+#: Template/CompanyInquiries/edit.ctp:74
+#: Template/HomeMenus/add.ctp:60
+#: Template/HomeMenus/edit.ctp:60
+#: Template/HomeMenus/index.ctp:57
+#: Template/Titles/add.ctp:48
+#: Template/Titles/edit.ctp:48
+#: Template/TypeBusiness/add.ctp:44
+#: Template/TypeBusiness/edit.ctp:44
+#: Template/TypeBusiness/index.ctp:56
+#: Template/TypeCompanies/add.ctp:48
+#: Template/TypeCompanies/edit.ctp:48
+msgid "order"
+msgstr "オーダー"
+
+#: Template/Comments/edit.ctp:24;32
+msgid "Edit Comment"
+msgstr "コメント編集"
+
+#: Template/Comments/index.ctp:6
+msgid "Comment"
+msgstr "コメント"
+
+#: Template/Comments/index.ctp:15
+msgid "New Comment"
+msgstr "コメント新規"
+
+#: Template/Comments/index.ctp:52
+#: Template/CompanyInquiries/edit.ctp:45
+#: Template/TopListInquiries/add.ctp:37;41;47
+#: Template/TopListInquiries/edit.ctp:37;41;47
+#: Template/TopListInquiries/index.ctp:52
+msgid "title"
+msgstr "タイトル"
+
+#: Template/Comments/index.ctp:53
+msgid "author"
+msgstr "著者"
+
+#: Template/Comments/view.ctp:54
+#: Template/Users/view.ctp:45
+msgid "Avatar"
+msgstr "アバター"
+
+#: Template/Comments/view.ctp:70
+#: Template/News/add.ctp:82
+#: Template/News/edit.ctp:82
+msgid "Active"
+msgstr "有効"
+
+#: Template/CompanyInquiries/edit.ctp:1;6
+#: Template/CompanyInquiries/index.ctp:1
+#: Template/CompanyInquiries/view.ctp:2;7
+msgid "Company Inquiries"
+msgstr "会社お問い合わせ"
+
+#: Template/CompanyInquiries/edit.ctp:8
+#: Template/CompanyInquiries/index.ctp:8;24
+#: Template/CompanyInquiries/view.ctp:9
+msgid "List of Company Inquiry"
+msgstr "会社お問い合わせ一覧"
+
+#: Template/CompanyInquiries/edit.ctp:24;32
+msgid "Edit Company Inquiry"
+msgstr "会社お問い合わせ編集"
+
+#: Template/CompanyInquiries/edit.ctp:35
+#: Template/CompanyInquiries/index.ctp:51
+#: Template/Inquiries/add.ctp:77;79
+#: Template/Inquiries/edit.ctp:77;79
+#: Template/Inquiries/view.ctp:90
+#: Template/Productions/index.ctp:49
+msgid "Company"
+msgstr "会社"
+
+#: Template/CompanyInquiries/edit.ctp:40
+#: Template/CompanyInquiries/index.ctp:49
+#: Template/CompanyInquiries/view.ctp:54
+#: Template/Inquiries/add.ctp:34;36
+#: Template/Inquiries/edit.ctp:34;36
+#: Template/Members/add.ctp:47;48
+#: Template/Members/edit.ctp:46;47
+#: Template/Members/view.ctp:83
+#: Template/Productions/edit.ctp:40
+#: Template/Productions/view.ctp:45
+msgid "Industry"
+msgstr "お問い合わせ"
+
+#: Template/CompanyInquiries/edit.ctp:41
+#: Template/Productions/add.ctp:38
+#: Template/Productions/edit.ctp:41
+msgid "industry_code"
+msgstr "お問い合わせコード"
+
+#: Template/CompanyInquiries/edit.ctp:49
+msgid "Descriptions"
+msgstr "説明"
+
+#: Template/CompanyInquiries/edit.ctp:58
+#: Template/CompanyInquiries/view.ctp:50
+#: Template/HomeMenus/add.ctp:51
+#: Template/HomeMenus/edit.ctp:51
+#: Template/HomeMenus/index.ctp:55
+#: Template/HomeMenus/view.ctp:50
+#: Template/Inquiries/add.ctp:81
+#: Template/Inquiries/edit.ctp:81
+#: Template/Inquiries/view.ctp:94
+msgid "Type"
+msgstr "タイプ"
+
+#: Template/CompanyInquiries/edit.ctp:59
+#: Template/HomeMenus/add.ctp:52
+#: Template/HomeMenus/edit.ctp:52
+#: Template/Inquiries/add.ctp:83
+#: Template/Inquiries/edit.ctp:83
+msgid "Select Type"
+msgstr "タイプ選択"
+
+#: Template/CompanyInquiries/edit.ctp:59
+#: Template/HomeMenus/add.ctp:52
+#: Template/HomeMenus/edit.ctp:52
+#: Template/Inquiries/add.ctp:83
+#: Template/Inquiries/edit.ctp:83
+msgid "type"
+msgstr "タイプ"
+
+#: Template/CompanyInquiries/index.ctp:6
+msgid "Company Inquiry"
+msgstr "会社お問い合わせ"
+
+#: Template/CompanyInquiries/view.ctp:42
+msgid "Compay"
+msgstr "会社"
+
+#: Template/Cooperations/add.ctp:1;6
+#: Template/Cooperations/edit.ctp:1;6
+#: Template/Cooperations/index.ctp:1
+#: Template/Cooperations/view.ctp:2;7
+msgid "Cooperations"
+msgstr "協力"
+
+#: Template/Cooperations/add.ctp:8
+#: Template/Cooperations/edit.ctp:8
+#: Template/Cooperations/index.ctp:8;28
+#: Template/Cooperations/view.ctp:9
+msgid "List of Cooperation"
+msgstr "協力一覧"
+
+#: Template/Cooperations/add.ctp:24;32
+msgid "Add Cooperation"
+msgstr "協力追加"
+
+#: Template/Cooperations/add.ctp:36
+#: Template/Cooperations/edit.ctp:36
+#: Template/Cooperations/index.ctp:51
+#: Template/HomeMenus/add.ctp:36;40;44
+#: Template/HomeMenus/edit.ctp:36;40;44
+#: Template/Needs/add.ctp:36
+#: Template/Needs/edit.ctp:36
+#: Template/Productions/add.ctp:41
+#: Template/Productions/edit.ctp:48
+msgid "name"
+msgstr "名"
+
+#: Template/Cooperations/edit.ctp:24;32
+msgid "Edit Cooperation"
+msgstr "協力編集"
+
+#: Template/Cooperations/index.ctp:6
+#: Template/Members/add.ctp:217;221
+#: Template/Members/edit.ctp:216;220
+#: Template/Members/view.ctp:222
+msgid "Cooperation"
+msgstr "協力"
+
+#: Template/Cooperations/index.ctp:15
+msgid "New Cooperation"
+msgstr "協力新規"
+
+#: Template/Cooperations/index.ctp:54
+#: Template/Needs/index.ctp:54
+#: Template/News/index.ctp:56
+#: Template/NewsCategories/index.ctp:56
+#: Template/TopListInquiries/index.ctp:56
+#: Template/TypeBusiness/index.ctp:58
+msgid "modified"
+msgstr "変更された"
+
+#: Template/Element/breadcrumb.ctp:4
+msgid "Warning! This will reset your pages"
+msgstr ""
+
+#: Template/Element/breadcrumb_content.ctp:15
+#: Template/Users/index.ctp:19
+msgid "Add New"
+msgstr "新規追加"
+
+#: Template/Element/button_add_top.ctp:3
+msgid "New %s"
+msgstr "新規"
+
+#: Template/Element/footer.ctp:5
+msgid "Power by Hiworld JSC"
+msgstr ""
+
+#: Template/Element/header.ctp:16
+msgid "Collapse Menu"
+msgstr ""
+
+#: Template/Element/header.ctp:29
+msgid "Setting"
+msgstr "設定"
+
+#: Template/Element/header.ctp:33
+msgid "Profile"
+msgstr "プロフィール"
+
+#: Template/Element/header.ctp:37
+msgid "Shortcut"
+msgstr ""
+
+#: Template/Element/header.ctp:41;63
+msgid "Full Screen"
+msgstr ""
+
+#: Template/Element/header.ctp:45
+msgid "Logout"
+msgstr "ログアウト"
+
+#: Template/Element/header.ctp:54
+msgid "Sign Out"
+msgstr "ログイン"
+
+#: Template/Element/header.ctp:54
+msgid "You can improve your security further after logging out by closing this opened browser"
+msgstr ""
+
+#: Template/Element/paginator.ctp:9
+msgid "< First"
+msgstr "最初"
+
+#: Template/Element/paginator.ctp:10
+msgid "Prev"
+msgstr "前"
+
+#: Template/Element/paginator.ctp:17
+msgid "Next"
+msgstr "次"
+
+#: Template/Element/paginator.ctp:18
+msgid "> Last"
+msgstr "最後"
+
+#: Template/Element/paginator.ctp:26
+msgid "Add new"
+msgstr "新規追加"
+
+#: Template/Element/paginator.ctp:33
+msgid "Delete Selected"
+msgstr "選択を削除します"
+
+#: Template/Element/paginator.ctp:40
+msgid "Back to translate"
+msgstr "戻る翻訳します"
+
+#: Template/Element/paginator.ctp:41
+msgid "Save data"
+msgstr "保存データ"
+
+#: Template/Element/shortcut.ctp:12
+msgid "My Profile"
+msgstr "プロフィール"
+
+#: Template/Element/shortcut.ctp:22
+#: Template/Users/change_password.ctp:23
+msgid "Change password"
+msgstr "パスワード変更"
+
+#: Template/HomeMenus/add.ctp:1;6
+#: Template/HomeMenus/edit.ctp:1;6
+#: Template/HomeMenus/index.ctp:1
+#: Template/HomeMenus/view.ctp:2;7
+msgid "Home Menus"
+msgstr "ホームメニュー"
+
+#: Template/HomeMenus/add.ctp:8
+#: Template/HomeMenus/edit.ctp:8
+#: Template/HomeMenus/index.ctp:8;28
+#: Template/HomeMenus/view.ctp:9
+msgid "List of Home Menu"
+msgstr "ホームメニュー一覧"
+
+#: Template/HomeMenus/add.ctp:24;32
+msgid "Add Home Menu"
+msgstr "ホームメニュー追加"
+
+#: Template/HomeMenus/add.ctp:47
+#: Template/HomeMenus/edit.ctp:47
+#: Template/HomeMenus/index.ctp:54
+msgid "Parent"
+msgstr "ペアレント"
+
+#: Template/HomeMenus/add.ctp:48
+#: Template/HomeMenus/edit.ctp:48
+msgid "Select Parent"
+msgstr "ペアレント選択"
+
+#: Template/HomeMenus/add.ctp:48
+#: Template/HomeMenus/edit.ctp:48
+msgid "parent_id"
+msgstr "ペアレントid"
+
+#: Template/HomeMenus/add.ctp:55
+#: Template/HomeMenus/edit.ctp:55
+msgid "Child"
+msgstr "チャイルド"
+
+#: Template/HomeMenus/add.ctp:56
+#: Template/HomeMenus/edit.ctp:56
+#: Template/HomeMenus/index.ctp:56
+msgid "child_id"
+msgstr "チャイルドid"
+
+#: Template/HomeMenus/add.ctp:64
+#: Template/HomeMenus/edit.ctp:64
+msgid "Select status"
+msgstr "アクティブ選択"
+
+#: Template/HomeMenus/edit.ctp:24;32
+msgid "Edit Home Menu"
+msgstr "ホームメニュー編集"
+
+#: Template/HomeMenus/index.ctp:6
+msgid "Home Menu"
+msgstr "ホームメニュー"
+
+#: Template/HomeMenus/index.ctp:15
+msgid "New Home Menu"
+msgstr "ホームメニュー新規"
+
+#: Template/HomeMenus/index.ctp:97
+#: Template/HomeMenus/view.ctp:63
+msgid "True"
+msgstr "真"
+
+#: Template/HomeMenus/index.ctp:97
+#: Template/HomeMenus/view.ctp:63
+msgid "False"
+msgstr "偽"
+
+#: Template/HomeMenus/view.ctp:46
+msgid "Parent Id"
+msgstr "ペアレントid"
+
+#: Template/HomeMenus/view.ctp:54
+msgid "Child Id"
+msgstr "チャイルドid"
+
+#: Template/Inquiries/add.ctp:1;6
+#: Template/Inquiries/edit.ctp:1;6
+#: Template/Inquiries/index.ctp:1
+#: Template/Inquiries/view.ctp:2;7
+msgid "Inquiries"
+msgstr "お問い合わせ"
+
+#: Template/Inquiries/add.ctp:8
+#: Template/Inquiries/edit.ctp:8
+#: Template/Inquiries/index.ctp:8;28
+#: Template/Inquiries/view.ctp:9
+msgid "List of Inquiry"
+msgstr "お問い合わせ一覧"
+
+#: Template/Inquiries/add.ctp:24;32
+msgid "Add Inquiry"
+msgstr "お問い合わせ追加"
+
+#: Template/Inquiries/add.ctp:56
+#: Template/Inquiries/edit.ctp:56
+#: Template/Inquiries/index.ctp:58;59
+#: Template/Inquiries/view.ctp:70
+msgid "Date Start"
+msgstr "日付スタート"
+
+#: Template/Inquiries/add.ctp:57
+#: Template/Inquiries/edit.ctp:57
+msgid "date_start"
+msgstr "日付スタート"
+
+#: Template/Inquiries/add.ctp:61
+#: Template/Inquiries/edit.ctp:61
+#: Template/Inquiries/view.ctp:74
+msgid "Date End"
+msgstr "日付終わり"
+
+#: Template/Inquiries/add.ctp:62
+#: Template/Inquiries/edit.ctp:62
+msgid "date_end"
+msgstr "日付終わり"
+
+#: Template/Inquiries/add.ctp:89;91
+#: Template/Inquiries/edit.ctp:89;91
+msgid "Inquiry Meta DESC"
+msgstr "お問い合わせメタDESC"
+
+#: Template/Inquiries/add.ctp:93;95
+#: Template/Inquiries/edit.ctp:93;95
+#: Template/Inquiries/view.ctp:106
+msgid "Inquiry Meta Keyword"
+msgstr "お問い合わせメタキーワード"
+
+#: Template/Inquiries/add.ctp:103
+#: Template/Inquiries/edit.ctp:103
+msgid "content_vie"
+msgstr "コンテンツ_vie"
+
+#: Template/Inquiries/add.ctp:107
+#: Template/Inquiries/edit.ctp:107
+msgid "content_eng"
+msgstr "コンテンツ_eng"
+
+#: Template/Inquiries/add.ctp:111
+#: Template/Inquiries/edit.ctp:111
+msgid "content_jpn"
+msgstr "コンテンツ_jpn"
+
+#: Template/Inquiries/edit.ctp:24;32
+msgid "Edit Inquiry"
+msgstr "お問い合わせ編集"
+
+#: Template/Inquiries/index.ctp:6
+#: Template/Members/add.ctp:233;234;284;285;332;333
+#: Template/Members/edit.ctp:232;233;283;284;331;332
+#: Template/Members/view.ctp:232
+msgid "Inquiry"
+msgstr "お問い合わせ"
+
+#: Template/Inquiries/index.ctp:15
+msgid "New Inquiry"
+msgstr "お問い合わせ新規"
+
+#: Template/Inquiries/view.ctp:42
+msgid "Title Vie"
+msgstr "タイトル Vie"
+
+#: Template/Inquiries/view.ctp:46
+msgid "Title Eng"
+msgstr "タイトル Eng"
+
+#: Template/Inquiries/view.ctp:50
+msgid "Title Jpn"
+msgstr "タイトル Jpn"
+
+#: Template/Inquiries/view.ctp:54
+msgid "Content Vie"
+msgstr "コンテンツ Vie"
+
+#: Template/Inquiries/view.ctp:58
+msgid "Content Eng"
+msgstr "コンテンツ Eng"
+
+#: Template/Inquiries/view.ctp:62
+msgid "Content Jpn"
+msgstr "コンテンツ Jpn"
+
+#: Template/Inquiries/view.ctp:78
+msgid "Description Vie"
+msgstr "説明 Vie"
+
+#: Template/Inquiries/view.ctp:82
+msgid "Description Eng"
+msgstr "説明 Eng"
+
+#: Template/Inquiries/view.ctp:86
+msgid "Description Jpn"
+msgstr "説明 Jpn"
+
+#: Template/Inquiries/view.ctp:102
+msgid "Inquiry Meta Desc"
+msgstr "お問い合わせメタDESC"
+
+#: Template/Members/add.ctp:1;6
+#: Template/Members/edit.ctp:1;6
+#: Template/Members/index.ctp:1
+#: Template/Members/view.ctp:2;7
+msgid "Members"
+msgstr "メンバー"
+
+#: Template/Members/add.ctp:24;32
+msgid "Add Member"
+msgstr "メンバー追加"
+
+#: Template/Members/add.ctp:36
+#: Template/Members/edit.ctp:35
+msgid "Vietnamese"
+msgstr "ベトナム語"
+
+#: Template/Members/add.ctp:37
+#: Template/Members/edit.ctp:36
+msgid "English"
+msgstr "英語"
+
+#: Template/Members/add.ctp:38
+#: Template/Members/edit.ctp:37
+msgid "Japanese"
+msgstr "日本語"
+
+#: Template/Members/add.ctp:43;44
+#: Template/Members/edit.ctp:42;43
+msgid "Category Industry"
+msgstr "カテゴリ業界"
+
+#: Template/Members/add.ctp:44
+#: Template/Members/edit.ctp:43
+msgid "Select Category Industry"
+msgstr "カテゴリ業界選択"
+
+#: Template/Members/add.ctp:53
+#: Template/Members/edit.ctp:52
+msgid "Business Type"
+msgstr "ビジネスタイプ"
+
+#: Template/Members/add.ctp:54
+#: Template/Members/edit.ctp:53
+msgid "Select Type Business"
+msgstr "ビジネスタイプ選択"
+
+#: Template/Members/add.ctp:54;206;207
+#: Template/Members/edit.ctp:53;205;206
+#: Template/Members/view.ctp:217
+msgid "Company Type"
+msgstr "会社タイプ"
+
+#: Template/Members/add.ctp:57;58
+#: Template/Members/edit.ctp:56;57
+#: Template/Members/view.ctp:167
+msgid "Logo"
+msgstr "ロゴ"
+
+#: Template/Members/add.ctp:64;65;272;273;320;321
+#: Template/Members/edit.ctp:63;64;271;272;319;320
+#: Template/Members/index.ctp:55
+#: Template/Members/view.ctp:78
+#: Template/Productions/edit.ctp:36
+msgid "Company Name"
+msgstr "会社名"
+
+#: Template/Members/add.ctp:68;69;246;247;295;296
+#: Template/Members/edit.ctp:67;68;245;246;294;295
+#: Template/Members/view.ctp:94
+msgid "Company Trading Name"
+msgstr "会社商号"
+
+#: Template/Members/add.ctp:74;75;250;251;299;300
+#: Template/Members/edit.ctp:73;74;249;250;298;299
+#: Template/Members/view.ctp:99
+msgid "Company Short Name"
+msgstr "会社短縮名"
+
+#: Template/Members/add.ctp:78;79;268;269;316;317
+#: Template/Members/edit.ctp:77;78;267;268;315;316
+#: Template/Members/view.ctp:114
+msgid "Address"
+msgstr "住所"
+
+#: Template/Members/add.ctp:84;85
+#: Template/Members/edit.ctp:83;84
+#: Template/Members/view.ctp:104
+msgid "City"
+msgstr "都道府県"
+
+#: Template/Members/add.ctp:85
+#: Template/Members/edit.ctp:84
+msgid "Select City"
+msgstr "都道府県選択"
+
+#: Template/Members/add.ctp:88;89
+#: Template/Members/edit.ctp:87;88
+#: Template/Members/view.ctp:109
+msgid "Prefecture"
+msgstr "都市"
+
+#: Template/Members/add.ctp:94;95
+#: Template/Members/edit.ctp:93;94
+#: Template/Members/view.ctp:119;124
+msgid "Phone"
+msgstr "電話"
+
+#: Template/Members/add.ctp:98;99
+#: Template/Members/edit.ctp:97;98
+msgid "Phone 2"
+msgstr "電話　2"
+
+#: Template/Members/add.ctp:104;105
+#: Template/Members/edit.ctp:103;104
+#: Template/Members/index.ctp:58
+#: Template/Members/view.ctp:131
+msgid "Fax"
+msgstr "Fax"
+
+#: Template/Members/add.ctp:108;109
+#: Template/Members/edit.ctp:107;108
+#: Template/Members/index.ctp:53
+#: Template/Members/view.ctp:41
+#: Template/Users/index.ctp:66
+#: Template/Users/view.ctp:49
+msgid "Email"
+msgstr "メール"
+
+#: Template/Members/add.ctp:114;115
+#: Template/Members/edit.ctp:113;114
+#: Template/Members/index.ctp:56
+#: Template/Members/view.ctp:135
+msgid "Website"
+msgstr "Website"
+
+#: Template/Members/add.ctp:118;278;279;326;327
+#: Template/Members/edit.ctp:117;277;278;325;326
+#: Template/Members/index.ctp:54
+#: Template/Members/view.ctp:172
+msgid "Manager"
+msgstr "マネージャー"
+
+#: Template/Members/add.ctp:121
+#: Template/Members/edit.ctp:120
+msgid "First Name"
+msgstr "名"
+
+#: Template/Members/add.ctp:124
+#: Template/Members/edit.ctp:123
+msgid "Last Name"
+msgstr "姓"
+
+#: Template/Members/add.ctp:131
+#: Template/Members/edit.ctp:130
+#: Template/Members/view.ctp:177
+msgid "Gender"
+msgstr "性別"
+
+#: Template/Members/add.ctp:132
+#: Template/Members/edit.ctp:131
+msgid "Select Gender"
+msgstr "性別選択"
+
+#: Template/Members/add.ctp:132
+#: Template/Members/edit.ctp:131
+msgid "address_en"
+msgstr "住所_英語"
+
+#: Template/Members/add.ctp:135;136;256;257;305;306
+#: Template/Members/edit.ctp:134;135;255;256;304;305
+#: Template/Members/view.ctp:182
+msgid "Department"
+msgstr "部署"
+
+#: Template/Members/add.ctp:142;143
+#: Template/Members/edit.ctp:141;142
+#: Template/Members/view.ctp:187
+msgid "Division"
+msgstr "部門"
+
+#: Template/Members/add.ctp:143
+#: Template/Members/edit.ctp:142
+msgid "Select Division"
+msgstr "部門を選択"
+
+#: Template/Members/add.ctp:147;148
+#: Template/Members/edit.ctp:146;147
+#: Template/Members/view.ctp:151
+msgid "Company Established"
+msgstr "会社設立"
+
+#: Template/Members/add.ctp:153;154
+#: Template/Members/edit.ctp:152;153
+#: Template/Members/view.ctp:155
+msgid "Company Tax Code"
+msgstr "会社　税コード"
+
+#: Template/Members/add.ctp:157;158
+#: Template/Members/edit.ctp:156;157
+#: Template/Members/view.ctp:159
+msgid "Company capital"
+msgstr "本社"
+
+#: Template/Members/add.ctp:163;164
+#: Template/Members/edit.ctp:162;163
+#: Template/Members/view.ctp:163
+msgid "Total Staff Member"
+msgstr "全体スタッフメンバー"
+
+#: Template/Members/add.ctp:167;168
+#: Template/Members/edit.ctp:166;167
+#: Template/Members/view.ctp:192
+msgid "Rated"
+msgstr "定格"
+
+#: Template/Members/add.ctp:188;189
+#: Template/Members/edit.ctp:187;188
+#: Template/Members/view.ctp:207
+msgid "Membership Type"
+msgstr "メンバーシップタイプ"
+
+#: Template/Members/add.ctp:189
+#: Template/Members/edit.ctp:188
+msgid "Select Member Type"
+msgstr "メンバータイプを選択"
+
+#: Template/Members/add.ctp:195;196;261;262;310;311
+#: Template/Members/edit.ctp:194;195;260;261;309;310
+#: Template/Members/view.ctp:212
+msgid "Note"
+msgstr "注意"
+
+#: Template/Members/add.ctp:199;200;211
+#: Template/Members/edit.ctp:198;199;210
+msgid "Country"
+msgstr "国"
+
+#: Template/Members/add.ctp:200
+#: Template/Members/edit.ctp:199
+msgid "Select Country"
+msgstr "国を選択"
+
+#: Template/Members/add.ctp:207
+#: Template/Members/edit.ctp:206
+msgid "Select Company Type"
+msgstr "会社タイプを選択"
+
+#: Template/Members/add.ctp:210
+#: Template/Members/edit.ctp:209
+#: Template/Members/view.ctp:139
+msgid "Language"
+msgstr "言語"
+
+#: Template/Members/add.ctp:211
+#: Template/Members/edit.ctp:210
+msgid "Select Language"
+msgstr "言語を選択"
+
+#: Template/Members/add.ctp:224;228
+#: Template/Members/edit.ctp:223;227
+#: Template/Members/view.ctp:227
+#: Template/Needs/add.ctp:1;6
+#: Template/Needs/edit.ctp:1;6
+#: Template/Needs/index.ctp:1
+#: Template/Needs/view.ctp:2;7
+msgid "Needs"
+msgstr "ニーズ"
+
+#: Template/Members/add.ctp:238;239;288;289;336;337
+#: Template/Members/edit.ctp:237;238;287;288;335;336
+msgid "Business"
+msgstr "ビジネス"
+
+#: Template/Members/edit.ctp:24;32
+msgid "Edit Member"
+msgstr "メンバーを編集"
+
+#: Template/Members/index.ctp:6
+msgid "Member"
+msgstr "メンバー"
+
+#: Template/Members/index.ctp:15
+msgid "New Member"
+msgstr "メンバーを新規追加"
+
+#: Template/Members/index.ctp:57
+msgid "Mobile"
+msgstr "携帯電話"
+
+#: Template/Members/view.ctp:88
+msgid "Company Country"
+msgstr "会社　国"
+
+#: Template/Needs/add.ctp:8
+#: Template/Needs/edit.ctp:8
+#: Template/Needs/index.ctp:8;28
+#: Template/Needs/view.ctp:9
+msgid "List of Need"
+msgstr "必要一覧"
+
+#: Template/Needs/add.ctp:24;32
+msgid "Add Need"
+msgstr "必要を加えます"
+
+#: Template/Needs/edit.ctp:24;32
+msgid "Edit Need"
+msgstr "必要を編集"
+
+#: Template/Needs/index.ctp:6
+msgid "Need"
+msgstr "必要"
+
+#: Template/Needs/index.ctp:15
+msgid "New Need"
+msgstr "必要を新規追加"
+
+#: Template/News/add.ctp:1;6
+#: Template/News/edit.ctp:1;6
+#: Template/News/index.ctp:1;6
+#: Template/News/view.ctp:2;7
+msgid "News"
+msgstr "ニュース"
+
+#: Template/News/add.ctp:8
+#: Template/News/edit.ctp:8
+#: Template/News/index.ctp:8;28
+#: Template/News/view.ctp:9
+msgid "List of News"
+msgstr "ニュース一覧"
+
+#: Template/News/add.ctp:24;32
+msgid "Add News"
+msgstr "ニュースを追加"
+
+#: Template/News/add.ctp:36
+#: Template/News/edit.ctp:36
+msgid "name (vie)"
+msgstr "名前（ベトナム語）"
+
+#: Template/News/add.ctp:40
+#: Template/News/edit.ctp:40
+msgid "名前（英語）"
+msgstr ""
+
+#: Template/News/add.ctp:44
+#: Template/News/edit.ctp:44
+msgid "name (jpn)"
+msgstr "名前（日本語）"
+
+#: Template/News/add.ctp:48
+#: Template/News/edit.ctp:48
+msgid "description (vie)"
+msgstr "説明（ベトナム語）"
+
+#: Template/News/add.ctp:52
+#: Template/News/edit.ctp:52
+msgid "description (eng)"
+msgstr "説明（英語）"
+
+#: Template/News/add.ctp:56
+#: Template/News/edit.ctp:56
+msgid "description (jpn)"
+msgstr "説明（日本語）"
+
+#: Template/News/add.ctp:60
+#: Template/News/edit.ctp:60
+msgid "content (vie)"
+msgstr "内容（ベトナム語）"
+
+#: Template/News/add.ctp:64
+#: Template/News/edit.ctp:64
+msgid "content (eng)"
+msgstr "内容（英語）"
+
+#: Template/News/add.ctp:68
+#: Template/News/edit.ctp:68
+msgid "content (jpn)"
+msgstr "内容（日本語）"
+
+#: Template/News/add.ctp:70
+#: Template/News/edit.ctp:70
+#: Template/News/view.ctp:67
+msgid "Category"
+msgstr "カテゴリー"
+
+#: Template/News/add.ctp:74
+#: Template/News/edit.ctp:74
+#: Template/News/view.ctp:71
+msgid "Company ID"
+msgstr "会社ID"
+
+#: Template/News/add.ctp:76
+#: Template/News/edit.ctp:76
+msgid "company id"
+msgstr "会社id"
+
+#: Template/News/add.ctp:86
+#: Template/News/edit.ctp:86
+msgid "Home Page"
+msgstr "ホームページ"
+
+#: Template/News/add.ctp:90
+#: Template/News/edit.ctp:90
+msgid "News Meta DESC"
+msgstr "ニュース　メタ　表示"
+
+#: Template/News/add.ctp:92
+#: Template/News/edit.ctp:92
+msgid "news meta desc"
+msgstr "ニュース　メタ　表示"
+
+#: Template/News/add.ctp:94
+#: Template/News/edit.ctp:94
+#: Template/News/view.ctp:87
+msgid "News Meta Keyword"
+msgstr "ニュース　メタ　キーワード"
+
+#: Template/News/add.ctp:96
+#: Template/News/edit.ctp:96
+msgid "news meta keyword"
+msgstr "ニュース　メタ　キーワード"
+
+#: Template/News/edit.ctp:24;32
+msgid "Edit News"
+msgstr "ニュースを編集"
+
+#: Template/News/index.ctp:15
+msgid "New News"
+msgstr "ニュースを新規追加"
+
+#: Template/News/index.ctp:42
+msgid "Filter Id"
+msgstr "フィルタId"
+
+#: Template/News/index.ctp:44
+msgid "Filter Name"
+msgstr "フィルタ名"
+
+#: Template/News/index.ctp:45
+msgid "Filter Status"
+msgstr "フィルタステータス"
+
+#: Template/News/index.ctp:46
+msgid "Filter Total View"
+msgstr "フィルタ　合計　表示"
+
+#: Template/News/index.ctp:47
+msgid "Filter Modified"
+msgstr "修正フィルタ"
+
+#: Template/News/index.ctp:55
+msgid "total_view"
+msgstr "合計_表示"
+
+#: Template/News/view.ctp:83
+msgid "News Meta Desc"
+msgstr "ニュース　メタ　説明"
+
+#: Template/NewsCategories/add.ctp:1;6
+#: Template/NewsCategories/edit.ctp:1;6
+#: Template/NewsCategories/index.ctp:1
+#: Template/NewsCategories/view.ctp:2;7
+msgid "News Categories"
+msgstr "ニュースカテゴリー"
+
+#: Template/NewsCategories/add.ctp:8
+#: Template/NewsCategories/edit.ctp:8
+#: Template/NewsCategories/index.ctp:8;28
+#: Template/NewsCategories/view.ctp:9
+msgid "List of News Category"
+msgstr "ニュースカテゴリー一覧"
+
+#: Template/NewsCategories/add.ctp:24;32
+msgid "Add News Category"
+msgstr "ニュースカテゴリーを加えます"
+
+#: Template/NewsCategories/edit.ctp:24;32
+msgid "Edit News Category"
+msgstr "ニュースカテゴリーを編集"
+
+#: Template/NewsCategories/index.ctp:6
+msgid "News Category"
+msgstr "ニュースカテゴリー"
+
+#: Template/NewsCategories/index.ctp:15
+msgid "New News Category"
+msgstr "ニュースカテゴリーを新規追加"
+
+#: Template/Productions/add.ctp:1;6
+#: Template/Productions/edit.ctp:1;6
+#: Template/Productions/index.ctp:1
+#: Template/Productions/view.ctp:1;6
+msgid "Productions"
+msgstr "生産"
+
+#: Template/Productions/add.ctp:8
+#: Template/Productions/edit.ctp:8
+#: Template/Productions/index.ctp:8;21
+#: Template/Productions/view.ctp:8
+msgid "List of Production"
+msgstr "生産一覧"
+
+#: Template/Productions/add.ctp:24;32
+msgid "Add Production"
+msgstr "生産を新規追加"
+
+#: Template/Productions/add.ctp:35
+msgid "member_id"
+msgstr "メンバー_id"
+
+#: Template/Productions/add.ctp:44
+#: Template/Productions/edit.ctp:52
+msgid "code"
+msgstr "コード"
+
+#: Template/Productions/add.ctp:47
+#: Template/Productions/edit.ctp:59
+msgid "short_description"
+msgstr "省略_説明"
+
+#: Template/Productions/add.ctp:50
+#: Template/Productions/edit.ctp:63
+msgid "price"
+msgstr "価格"
+
+#: Template/Productions/add.ctp:53
+#: Template/Productions/edit.ctp:70
+msgid "unit"
+msgstr "ユニット"
+
+#: Template/Productions/edit.ctp:24;32
+msgid "Edit Production"
+msgstr "生産を編集"
+
+#: Template/Productions/edit.ctp:47
+msgid "Production Name"
+msgstr "生産名"
+
+#: Template/Productions/edit.ctp:51
+msgid "Production Code"
+msgstr "生産コード"
+
+#: Template/Productions/edit.ctp:62
+#: Template/Productions/index.ctp:52
+#: Template/Productions/view.ctp:61
+msgid "Price"
+msgstr "価格"
+
+#: Template/Productions/edit.ctp:69
+#: Template/Productions/index.ctp:53
+#: Template/Productions/view.ctp:65
+msgid "Unit"
+msgstr "ユニット"
+
+#: Template/Productions/index.ctp:6
+msgid "Production"
+msgstr "生産"
+
+#: Template/Productions/index.ctp:48
+msgid "Create"
+msgstr "作成"
+
+#: Template/Productions/index.ctp:50
+#: Template/Productions/view.ctp:53
+#: Template/Settings/businesses.ctp:36;40
+#: Template/Settings/cities.ctp:36;40
+#: Template/Settings/industries.ctp:36;40
+#: Template/Settings/prefectures.ctp:36;40
+msgid "Code"
+msgstr "コード"
+
+#: Template/Productions/view.ctp:41
+msgid "Member Id"
+msgstr "Idメンバー"
+
+#: Template/Settings/businesses.ctp:1
+msgid "Businesses"
+msgstr "ビジネス"
+
+#: Template/Settings/businesses.ctp:6
+#: Template/Settings/cities.ctp:1;6
+#: Template/Settings/industries.ctp:6
+#: Template/Settings/prefectures.ctp:6
+msgid "Cities"
+msgstr "都市"
+
+#: Template/Settings/businesses.ctp:8;22
+#: Template/Settings/cities.ctp:8;22
+#: Template/Settings/industries.ctp:8;22
+#: Template/Settings/prefectures.ctp:8;22
+msgid "List of Cities"
+msgstr "都市一覧"
+
+#: Template/Settings/businesses.ctp:37;41
+msgid "Businesses Name"
+msgstr "ビジネス名"
+
+#: Template/Settings/cities.ctp:37;41
+msgid "City Name"
+msgstr "都市名"
+
+#: Template/Settings/industries.ctp:1
+msgid "Industries"
+msgstr "産業"
+
+#: Template/Settings/industries.ctp:37;41
+msgid "Industry Name"
+msgstr "産業名"
+
+#: Template/Settings/prefectures.ctp:1
+msgid "Prefectures"
+msgstr "県"
+
+#: Template/Settings/prefectures.ctp:37;41
+msgid "Prefecture Name"
+msgstr "県名"
+
+#: Template/Titles/add.ctp:1;6
+#: Template/Titles/edit.ctp:1;6
+#: Template/Titles/index.ctp:1
+#: Template/Titles/view.ctp:2;7
+msgid "Titles"
+msgstr "タイトル"
+
+#: Template/Titles/add.ctp:8
+#: Template/Titles/edit.ctp:8
+#: Template/Titles/index.ctp:8;28
+#: Template/Titles/view.ctp:9
+msgid "List of Title"
+msgstr "タイトル一覧"
+
+#: Template/Titles/add.ctp:24;32
+msgid "Add Title"
+msgstr "タイトルを加えます"
+
+#: Template/Titles/edit.ctp:24;32
+msgid "Edit Title"
+msgstr "タイトルを編集"
+
+#: Template/Titles/index.ctp:15
+msgid "New Title"
+msgstr "タイトルを新規追加"
+
+#: Template/TopListInquiries/add.ctp:1;6
+#: Template/TopListInquiries/edit.ctp:1;6
+#: Template/TopListInquiries/index.ctp:1
+#: Template/TopListInquiries/view.ctp:2;7
+msgid "Top List Inquiries"
+msgstr "お問い合わせトップリスト"
+
+#: Template/TopListInquiries/add.ctp:8
+#: Template/TopListInquiries/edit.ctp:8
+#: Template/TopListInquiries/index.ctp:8;28
+#: Template/TopListInquiries/view.ctp:9
+msgid "List of Top List Inquiry"
+msgstr "お問い合わせトップリスト一覧"
+
+#: Template/TopListInquiries/add.ctp:24;32
+msgid "Add Top List Inquiry"
+msgstr "お問い合わせトップリストを加えます"
+
+#: Template/TopListInquiries/edit.ctp:24;32
+msgid "Edit Top List Inquiry"
+msgstr "お問い合わせトップリストを編集"
+
+#: Template/TopListInquiries/index.ctp:6
+msgid "Top List Inquiry"
+msgstr "お問い合わせトップリスト"
+
+#: Template/TopListInquiries/index.ctp:15
+msgid "New Top List Inquiry"
+msgstr "お問い合わせトップリストを新規追加"
+
+#: Template/TypeBusiness/add.ctp:1;6
+#: Template/TypeBusiness/edit.ctp:1;6
+#: Template/TypeBusiness/index.ctp:1
+#: Template/TypeBusiness/view.ctp:2;7
+msgid "Type Business"
+msgstr "ビジネスタイプ"
+
+#: Template/TypeBusiness/add.ctp:8
+#: Template/TypeBusiness/edit.ctp:8
+#: Template/TypeBusiness/index.ctp:8;28
+#: Template/TypeBusiness/view.ctp:9
+msgid "List of Type Busines"
+msgstr "ビジネスタイプ一覧"
+
+#: Template/TypeBusiness/add.ctp:24;32
+msgid "Add Type Busines"
+msgstr "ビジネスタイプを加えます"
+
+#: Template/TypeBusiness/add.ctp:35
+#: Template/TypeBusiness/edit.ctp:35
+#: Template/TypeBusiness/index.ctp:53
+#: Template/TypeCompanies/add.ctp:36
+#: Template/TypeCompanies/edit.ctp:36
+msgid "type_name_vie"
+msgstr "タイプ_名前_ベトナム語"
+
+#: Template/TypeBusiness/add.ctp:38
+#: Template/TypeBusiness/edit.ctp:38
+#: Template/TypeBusiness/index.ctp:54
+#: Template/TypeCompanies/add.ctp:40
+#: Template/TypeCompanies/edit.ctp:40
+msgid "type_name_eng"
+msgstr "タイプ_名前_英語"
+
+#: Template/TypeBusiness/add.ctp:41
+#: Template/TypeBusiness/edit.ctp:41
+#: Template/TypeBusiness/index.ctp:55
+#: Template/TypeCompanies/add.ctp:44
+#: Template/TypeCompanies/edit.ctp:44
+msgid "type_name_jpn"
+msgstr "タイプ_名前_日本語"
+
+#: Template/TypeBusiness/edit.ctp:24;32
+msgid "Edit Type Busines"
+msgstr "新規追加を編集"
+
+#: Template/TypeBusiness/index.ctp:6
+msgid "Type Busines"
+msgstr "ビジネスタイプ"
+
+#: Template/TypeBusiness/index.ctp:15
+msgid "New Type Busines"
+msgstr "ビジネスタイプを新規追加"
+
+#: Template/TypeBusiness/view.ctp:42
+#: Template/TypeCompanies/view.ctp:42
+msgid "Type Name Vie"
+msgstr "名前　タイプ　ベトナム語"
+
+#: Template/TypeBusiness/view.ctp:46
+#: Template/TypeCompanies/view.ctp:46
+msgid "Type Name Eng"
+msgstr "名前　タイプ　英語"
+
+#: Template/TypeBusiness/view.ctp:50
+#: Template/TypeCompanies/view.ctp:50
+msgid "Type Name Jpn"
+msgstr "名前　タイプ　日本語"
+
+#: Template/TypeCompanies/add.ctp:1;6
+#: Template/TypeCompanies/edit.ctp:1;6
+#: Template/TypeCompanies/index.ctp:1
+#: Template/TypeCompanies/view.ctp:2;7
+msgid "Type Companies"
+msgstr "会社タイプ"
+
+#: Template/TypeCompanies/add.ctp:8
+#: Template/TypeCompanies/edit.ctp:8
+#: Template/TypeCompanies/index.ctp:8;28
+#: Template/TypeCompanies/view.ctp:9
+msgid "List of Type Company"
+msgstr "会社タイプ一覧"
+
+#: Template/TypeCompanies/add.ctp:24;32
+msgid "Add Type Company"
+msgstr "会社タイプを加えます"
+
+#: Template/TypeCompanies/add.ctp:34;38;42
+#: Template/TypeCompanies/edit.ctp:34;38;42
+#: Template/TypeCompanies/index.ctp:53;54;55
+msgid "Classification of company"
+msgstr "会社の分類"
+
+#: Template/TypeCompanies/edit.ctp:24;32
+msgid "Edit Type Company"
+msgstr "会社タイプを編集"
+
+#: Template/TypeCompanies/index.ctp:6
+msgid "Type Company"
+msgstr "会社タイプ"
+
+#: Template/TypeCompanies/index.ctp:15
+msgid "New Type Company"
+msgstr "会社タイプを新規追加"
+
+#: Template/Users/add.ctp:9
+#: Template/Users/index.ctp:12;33
+#: Template/Users/view.ctp:11
+msgid "List of user"
+msgstr "ユーザ一覧"
+
+#: Template/Users/add.ctp:25
+msgid "User Edit"
+msgstr "ユーザを編集"
+
+#: Template/Users/add.ctp:27
+msgid "User Add"
+msgstr "ユーザを追加"
+
+#: Template/Users/change_password.ctp:8
+#: Template/Users/profile.ctp:9
+msgid "My profile"
+msgstr "私のプロフィール"
+
+#: Template/Users/index.ctp:65
+msgid "ID"
+msgstr "ID"
+
+#: Template/Users/index.ctp:68
+#: Template/Users/view.ctp:57
+msgid "Group"
+msgstr "グループ"
+
+#: Template/Users/index.ctp:70
+msgid "Action"
+msgstr "活動"
+
+#: Template/Users/profile.ctp:24
+msgid "Edit profile"
+msgstr "プロフィールを編集"
+
+msgid "Member"
+msgstr "メンバー"
+
+msgid "Member List"
+msgstr "メンバー一覧"
+
+msgid "Member Viet Nam"
+msgstr "ベトナムメンバー"
+
+msgid "Member Japan"
+msgstr "日本メンバー"
+
+msgid "Member Unapproved"
+msgstr "無承認メンバー"
+
+msgid "Member Vip"
+msgstr "Vipメンバー"
+
+msgid "Member Default"
+msgstr "メンバーデフォルト"
+
+msgid "Member Add"
+msgstr "メンバーを追加"
+
+msgid "Inquiry"
+msgstr "お問い合わせ"
+
+msgid "Production"
+msgstr "生産"
+
+msgid "Member Comment"
+msgstr "メンバーコメント"
+
+msgid "List Activity"
+msgstr "アクティビティ一覧"
+
+msgid "Add Activity"
+msgstr "アクティビティを追加"
+
+msgid "News"
+msgstr "ニュース"
+
+msgid "News Category"
+msgstr "ニュースカテゴリ"
+
+msgid "Setting"
+msgstr "設定"
+
+msgid "advertisement"
+msgstr "広告"
+
+msgid "banner"
+msgstr "バナー"
+
+msgid "Activity Category"
+msgstr "アクティビティカテゴリー"
+
+msgid "Titles"
+msgstr "タイトル"
+
+msgid "Prefecture"
+msgstr "都道府県"
+
+msgid "Businesses"
+msgstr "ビジネス"
+
+msgid "Classification of companny"
+msgstr "会社の分類"
+
+msgid "Type Business"
+msgstr "ビジネスタイプ"
+
+msgid "Menu"
+msgstr "メニュー"
+
+msgid "Pages"
+msgstr "ページ"
+
+msgid "Setting"
+msgstr "設定"
+
+msgid "Female"
+msgstr "女"
+
+msgid "Male"
+msgstr "男"
+
+msgid "Filter Email"
+msgstr "メール フィルタ"
+
+msgid "Filter First Name"
+msgstr "名 フィルタ"
+
+msgid "Filter Last Name"
+msgstr "姓 フィルタ"
